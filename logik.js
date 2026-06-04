@@ -1,3 +1,5 @@
+window.onload = setup;
+
 let lateinws1 = [
     {latein: "familia", stammformen: "f", bedeutung: "die Familie"},
     {latein: "servus",stammformen: "m", bedeutung: "der Diener, der Sklave"},
@@ -698,22 +700,18 @@ let zähler = 0;
 let erstezahl
 let zweitezahl
 
+function setup(){
+    document.getElementById("falscheVokabelwiederholen").hidden = true;
+    document.getElementById("buttzurück").hidden = true;
 
-document.getElementById("falscheVokabelwiederholen").hidden = true;
-document.getElementById("buttzurück").hidden = true;
+    document.getElementById("stammformo").hidden = true;
+    document.getElementById("deutschlo").hidden = true;
+    document.getElementById("buttooko").hidden = true;
 
-stammfor = document.getElementById("stammform");
-deutsch = document.getElementById("deutschl");
-butoo = document.getElementById("butook");
-
-document.getElementById("stammformo").hidden = true;
-document.getElementById("deutschlo").hidden = true;
-document.getElementById("buttooko").hidden = true;
-
-document.getElementById("stammform").hidden = true;
-document.getElementById("deutschl").hidden = true;
-document.getElementById("butook").hidden = true;
-
+    document.getElementById("stammform").hidden = true;
+    document.getElementById("deutschl").hidden = true;
+    document.getElementById("butook").hidden = true;
+}
 
 function Vocabulary (){
     fach1 = fach.value;
