@@ -1,0 +1,1082 @@
+let lateinws1 = [
+    {latein: "familia", stammformen: "f", bedeutung: "die Familie"},
+    {latein: "servus",stammformen: "m", bedeutung: "der Diener, der Sklave"},
+    {latein: "serva",stammformen: "f", bedeutung: "die Dienerin, die Sklavin"},
+];
+
+let lateinws2 = [
+    {latein: "lectus", stammformen: "m", bedeutung: "das Bett, die Liege"},
+    {latein: "cibus",stammformen: "m", bedeutung: "die Seise, das Essen; die Nahrung"},
+    {latein: "cenare",stammformen: "", bedeutung: "essen, speisen"},
+    {latein: "vinum", stammformen: "n", bedeutung: "der Wein"},
+];
+
+let lateinws25 = [
+]
+
+let lateinws40 = [
+  { latein: "cōgnōscere", stammformen: "cōgnōscō, cōgnōvī, cōgnitum", bedeutung: "kennenlernen, erkennen, erfahren, (Perf.) kennen, wissen" },
+  { latein: "īnstituere", stammformen: "īnstituō, īnstituī, īnstitūtum", bedeutung: "unterrichten, einführen, errichten" },
+  { latein: "restituere", stammformen: "restituō, restituī, restitūtum", bedeutung: "wiederherstellen" },
+  { latein: "barbarus", stammformen: "-a, -um", bedeutung: "fremd, barbarisch, Subst. der Barbar" },
+  { latein: "occultus", stammformen: "-a, -um", bedeutung: "geheim, verborgen, versteckt" },
+  { latein: "idōneus", stammformen: "-a, -um", bedeutung: "geeignet" },
+  { latein: "turpis", stammformen: "turpe", bedeutung: "hässlich, schändlich" },
+  { latein: "cernere", stammformen: "cernō, -", bedeutung: "sehen, erkennen" },
+  { latein: "prīvāre", stammformen: "prīvō (m. Abl.)", bedeutung: "(einer Sache) berauben" },
+  { latein: "Iāsōn rēgem pelle prīvat.", stammformen: "", bedeutung: "Jason beraubt den König des Vlieses." },
+  { latein: "tēlum", stammformen: "-ī n", bedeutung: "das (Wurf-)Geschoss, der Pfeil" },
+  { latein: "opus est", stammformen: "(m. Abl.)", bedeutung: "es ist nötig (für jdn.), jmd. braucht etw., jmd. benötigt etw." },
+  { latein: "mihī opus est (m. Abl)", stammformen: "", bedeutung: "für mich ist etw. nötig, ich brauche etw." },
+  { latein: "uterque", stammformen: "utraque, utrumque (Gen. utrīusque, Dat. utrīque)", bedeutung: "jeder (von beiden), beide" },
+  { latein: "saxum", stammformen: "-ī n", bedeutung: "der Fels(brocken), der Stein" },
+  { latein: "ipse", stammformen: "-a, -um (Gen. ipsīus, Dat. ipsī)", bedeutung: "(er, sie, es) selbst, gerade, persönlich" },
+  { latein: "vocāre/dicere (m. dopp. Akk.)", stammformen: "", bedeutung: "nennen, bezeichnen als" },
+  { latein: "putāre/ducere/habere (m. dopp. Akk.)", stammformen: "", bedeutung: "halten für" },
+  { latein: "facere/reddere (m. dopp. Akk.)", stammformen: "", bedeutung: "jmd. zu etw. machen" },
+  { latein: "sē (pārem) praestāre", stammformen: "", bedeutung: "sich (als ebenbürtig) erweisen, zeigen" },
+  { latein: "prōdere", stammformen: "prōdō, prōdidī, prōditum", bedeutung: "verraten, preisgeben, überliefern" },
+  { latein: "lūmen", stammformen: "lūminis n", bedeutung: "das Licht, das Augenlicht, Auge" },
+  { latein: "ōs", stammformen: "ōris n", bedeutung: "der Mund, das Gesicht" },
+  { latein: "proinde", stammformen: "", bedeutung: "deshalb" },
+  { latein: "conicere", stammformen: "coniciō, coniēcī, coniectum", bedeutung: "werfen, vermuten" },
+  { latein: "nāvigare", stammformen: "nāvigō", bedeutung: "(mit dem Schiff) fahren, segeln" },
+  { latein: "impetus", stammformen: "impetus m", bedeutung: "der Angriff, der Ansturm, der Schwung" },
+  { latein: "interesse", stammformen: "intersum, interfuī (m. Dat.)", bedeutung: "dazwischen sein, teilnehmen (an)" },
+  { latein: "bellō interest", stammformen: "", bedeutung: "er nimmt am Krieg teil" },
+  { latein: "interest", stammformen: "(m. Gen.)", bedeutung: "es ist wichtig (für jmd.), es besteht ein Unterschied" },
+  { latein: "rēgis interest", stammformen: "", bedeutung: "es ist wichtig für den König" },
+  { latein: "inter ōtium et gaudium interest", stammformen: "", bedeutung: "zwischen Muße und Freude besteht ein Unterschied" },
+  { latein: "praemittere", stammformen: "praemittō, praemīsī, praemissum", bedeutung: "vorausschicken" },
+  { latein: "discēdere", stammformen: "discēdō, discessī, discessum", bedeutung: "auseinandergehen, weggehen" }
+];
+
+let lateinws41 = [
+  { latein: "retinēre", stammformen: "retineō, retinuī, retentum", bedeutung: "zurückhalten, behalten, festhalten" },
+  { latein: "sustinēre", stammformen: "sustineō, sustinuī, sustentum", bedeutung: "aushalten, ertragen" },
+  { latein: "inimīcus", stammformen: "-a, -um", bedeutung: "feindlich, Subst. der (persönliche) Feind" },
+  { latein: "beneficium", stammformen: "beneficiī n", bedeutung: "die Wohltat, Gefälligkeit" },
+  { latein: "beneficium dāre", stammformen: "", bedeutung: "eine Gefälligkeit erweisen" },
+  { latein: "appellāre", stammformen: "appellō", bedeutung: "ansprechen, benennen, (m. dopp. Akk.) nennen, bezeichnen als" },
+  { latein: "facinus", stammformen: "facinoris n", bedeutung: "die Tat, Untat" },
+  { latein: "nefārius", stammformen: "-a, -um", bedeutung: "frevelhaft, verbrecherisch" },
+  { latein: "manēre", stammformen: "maneō, mānsī, mānsūrus", bedeutung: "bleiben, warten (auf), erwarten" },
+  { latein: "quantus", stammformen: "-a, -um", bedeutung: "wie groß, wie viel" },
+  { latein: "committere", stammformen: "committō, commīsī, commissum", bedeutung: "zusammenbringen, begehen, beginnen, anvertrauen" },
+  { latein: "scelus committere", stammformen: "", bedeutung: "ein Verbrechen begehen" },
+  { latein: "proelium committere", stammformen: "", bedeutung: "eine Schlacht beginnen" },
+  { latein: "persuādēre", stammformen: "persuādeō, persuāsī, persuāsum", bedeutung: "(m. ut) überreden, (m. AcI) überzeugen" },
+  { latein: "Tibi persuādeō, ut mē adiuvēs.", stammformen: "", bedeutung: "Ich überrede dich, mir zu helfen." },
+  { latein: "Tibi persuādeō tē mihi adesse dēbēre.", stammformen: "", bedeutung: "Ich überzeuge dich davon, dass du mir helfen musst." },
+  { latein: "īdem", stammformen: "eadem, idem", bedeutung: "derselbe, dieselbe, dasselbe" },
+  { latein: "īdem ... ac ...", stammformen: "", bedeutung: "derselbe ... wie ..." },
+  { latein: "redūcere", stammformen: "redūcō, redūxī, reductum", bedeutung: "zurückführen" },
+  { latein: "in memoriam redūcere", stammformen: "", bedeutung: "ins Gedächtnis / in Erinnerung zurückrufen" },
+  { latein: "addere", stammformen: "addō, addidī, additum", bedeutung: "hinzufügen" },
+  { latein: "sponte meā (tuā/suā/nostra/vestra/sua)", stammformen: "", bedeutung: "von selbst, freiwillig, auf eigenen Entschluss" },
+  { latein: "nātūra", stammformen: "-ae f", bedeutung: "die Natur, das Wesen" },
+  { latein: "namque", stammformen: "", bedeutung: "denn, nämlich" },
+  { latein: "illūc", stammformen: "", bedeutung: "dorthin" },
+  { latein: "ūnā", stammformen: "", bedeutung: "zusammen" },
+  { latein: "tantum", stammformen: "", bedeutung: "nur" },
+  { latein: "spīritus", stammformen: "spiritūs m", bedeutung: "der Atem, das Leben, der Lebensgeist" },
+  { latein: "membrum", stammformen: "-ī n", bedeutung: "das (Körper-)Glied, Pl. die Gliedmaßen" }
+];
+
+let lateinws42 = [
+  { latein: "rīdēre", stammformen: "rīdeō, rīsī, rīsum", bedeutung: "lachen (über), auslachen" },
+  { latein: "torquēre", stammformen: "torqueō, torsī, tortum", bedeutung: "foltern, quälen, drehen" },
+  { latein: "vidēre", stammformen: "videō, vīdī, vīsum", bedeutung: "sehen" },
+  { latein: "salūs", stammformen: "salūtis f", bedeutung: "die Rettung, das Wohl(ergehen), der Gruß" },
+  { latein: "reperīre", stammformen: "reperiō, repperī, repertum", bedeutung: "finden, wiederfinden, entdecken" },
+  { latein: "crīmen", stammformen: "crīminis n", bedeutung: "das Verbrechen, der Vorwurf, die Anklage" },
+  { latein: "vitium", stammformen: "-ī n", bedeutung: "der Fehler, das Laster, die schlechte Eigenschaft" },
+  { latein: "incolumis", stammformen: "incolume", bedeutung: "heil, unversehrt" },
+  { latein: "īgnōtus", stammformen: "-a, -um", bedeutung: "unbekannt" },
+  { latein: "crīminī dare (, quod)", stammformen: "", bedeutung: "zum Vorwurf machen (, dass)" },
+  { latein: "cōnsulere", stammformen: "cōnsulō, cōnsuluī, cōnsultum", bedeutung: "(m. Dat.) sorgen für, (m. Akk.) um Rat fragen, (dē) beraten (über)" },
+  { latein: "prōspicere", stammformen: "prōspiciō, prōspēxī, prōspectum", bedeutung: "(m. Dat.) sorgen für, (m. Akk.) vor sich erblicken, vorhersehen" },
+  { latein: "prōvidēre", stammformen: "prōvideō, prōvīdī, prōvīsum", bedeutung: "(m. Dat.) sorgen für, (m. Akk.) vorhersehen" },
+  { latein: "commūnis", stammformen: "commune", bedeutung: "allgemein, gemeinsam" },
+  { latein: "impius", stammformen: "-a, -um", bedeutung: "gottlos, frevelhaft" },
+  { latein: "quisnam", stammformen: "quidnam", bedeutung: "wer denn, was denn" },
+  { latein: "āter", stammformen: "ātra, ātrum", bedeutung: "schwarz, finster" },
+  { latein: "lūctus", stammformen: "luctus m", bedeutung: "die Trauer" },
+  { latein: "quārē", stammformen: "", bedeutung: "weswegen?, deswegen (relativer Satzanschluss)" },
+  { latein: "praeceps", stammformen: "Gen. praecipitis", bedeutung: "Hals über Kopf, kopfüber, überstürzt" },
+  { latein: "dī", stammformen: "(Nom./Vok. Pl.) = dei", bedeutung: "Götter" },
+  { latein: "rēs bene ēvenit", stammformen: "", bedeutung: "die Sache geht gut aus" }
+];
+
+let lateinws43 = [
+  { latein: "concēdere", stammformen: "concēdō, concessī, concessum", bedeutung: "weichen, nachgeben, erlauben, zugestehen" },
+  { latein: "flāgitium", stammformen: "flāgitiī n", bedeutung: "die Schandtat, die Gemeinheit" },
+  { latein: "propter", stammformen: "(m. Akk.)", bedeutung: "wegen" },
+  { latein: "cōnstituere", stammformen: "cōnstituō, cōnstituī, cōnstitūtum", bedeutung: "aufstellen, festsetzen, einrichten, (m. Inf.) beschließen (etw. zu tun)" },
+  { latein: "poenam cōnstituere", stammformen: "", bedeutung: "eine Strafe festsetzen" },
+  { latein: "Patrem quaerere cōnstituī.", stammformen: "", bedeutung: "Ich habe beschlossen, (meinen) Vater zu suchen." },
+  { latein: "pēs", stammformen: "pedis m", bedeutung: "der Fuß" },
+  { latein: "laedere", stammformen: "laedō, laesī, laesum", bedeutung: "verletzen, beschädigen" },
+  { latein: "ēdere", stammformen: "ēdō, ēdidī, ēditum", bedeutung: "herausgeben, äußern, gebären" },
+  { latein: "(līberōs) ēdere", stammformen: "", bedeutung: "(Kinder) gebären" },
+  { latein: "(verba) ēdere", stammformen: "", bedeutung: "(Worte) äußern" },
+  { latein: "deinde", stammformen: "", bedeutung: "hierauf, dann" },
+  { latein: "cīvitās", stammformen: "cīvitātis f", bedeutung: "der Staat, die Bürgerschaft, das Bürgerrecht" },
+  { latein: "vītāre", stammformen: "vītō", bedeutung: "meiden, vermeiden" },
+  { latein: "angustus", stammformen: "-a, -um", bedeutung: "eng" },
+  { latein: "cāsus", stammformen: "casus m", bedeutung: "der Fall, der Zufall, der Unglücksfall" },
+  { latein: "aliēnus", stammformen: "-a, -um", bedeutung: "fremd" },
+  { latein: "rēgīna", stammformen: "-ae f", bedeutung: "die Königin" },
+  { latein: "terribilis", stammformen: "terribile", bedeutung: "schrecklich" },
+  { latein: "familiāris", stammformen: "familiare", bedeutung: "freundschaftlich, verwandt, Subst. der Freund, der Verwandte" },
+  { latein: "dēmum", stammformen: "", bedeutung: "endlich, erst" },
+  { latein: "pudor", stammformen: "pudōris m", bedeutung: "die Scham, das Ehrgefühl, der Anstand" }
+];
+
+let lateinws44 = [
+  { latein: "sōlus", stammformen: "-a, -um (Gen. sōlīus, Dat. sōlī)", bedeutung: "einzig, allein" },
+  { latein: "oppūgnāre", stammformen: "oppūgnō", bedeutung: "angreifen" },
+  { latein: "sepelīre", stammformen: "sepeliō, sepelīvī, sepultum", bedeutung: "bestatten" },
+  { latein: "corripere", stammformen: "corripiō, corripuī, correptum", bedeutung: "packen, (gewaltsam) ergreifen" },
+  { latein: "vīvus", stammformen: "-a, -um", bedeutung: "lebend, lebendig, zu Lebzeiten" },
+  { latein: "invītus", stammformen: "-a, -um", bedeutung: "unwillig, gegen den Willen" },
+  { latein: "ferus", stammformen: "-a, -um", bedeutung: "wild" },
+  { latein: "statuere", stammformen: "statuō, statuī, statūtum", bedeutung: "aufstellen, festsetzen, beschließen" },
+  { latein: "lēgem statuere", stammformen: "", bedeutung: "ein Gesetz aufstellen" },
+  { latein: "Frātrem sepelīre statuī.", stammformen: "", bedeutung: "Ich habe beschlossen, (meinen) Bruder zu bestatten." },
+  { latein: "contendere", stammformen: "contendō, contendī, contentum", bedeutung: "sich anstrengen, kämpfen, eilen, (m. AcI) behaupten" },
+  { latein: "iuvāre", stammformen: "iuvō, iūvī, iūtum (m. Akk.)", bedeutung: "helfen, unterstützen, erfreuen" },
+  { latein: "tē iuvō", stammformen: "", bedeutung: "ich helfe dir / unterstütze dich" },
+  { latein: "humus", stammformen: "-ī f", bedeutung: "die Erde, der (Erd-)Boden" },
+  { latein: "tegere", stammformen: "tegō, tēxī, tēctum", bedeutung: "bedecken, schützen, verbergen" },
+  { latein: "praedicāre", stammformen: "praedicō", bedeutung: "rühmen, verkünden, predigen" },
+  { latein: "campus", stammformen: "-ī m", bedeutung: "das Feld" },
+  { latein: "canis", stammformen: "canis m/f", bedeutung: "der Hund, die Hündin" }
+];
+
+let lateinws45 = [
+  { latein: "classis", stammformen: "classis f, Gen. Pl. classium", bedeutung: "die Flotte, die Abteilung" },
+  { latein: "subicere", stammformen: "subiciō, subiēcī, subiectum", bedeutung: "unterwerfen" },
+  { latein: "perficere", stammformen: "perficiō, perfēcī, perfectum", bedeutung: "vollenden, durchsetzen" },
+  { latein: "ultimus", stammformen: "-a, -um", bedeutung: "der letzte, der entfernteste, der äußerste" },
+  { latein: "prōcēdere", stammformen: "prōcēdō, prōcessī, prōcessum", bedeutung: "vorwärtsschreiten, vorrücken, Fortschritte machen" },
+  { latein: "īnfēstus", stammformen: "-a, -um", bedeutung: "feindselig, kampfbereit" },
+  { latein: "hūmānus", stammformen: "-a, -um", bedeutung: "menschlich, gebildet" },
+  { latein: "auris", stammformen: "auris f, Gen. Pl. aurium", bedeutung: "das Ohr" },
+  { latein: "flūmen", stammformen: "flūminis n", bedeutung: "der Fluss" },
+  { latein: "perpetuus", stammformen: "-a, -um", bedeutung: "ununterbrochen, dauerhaft, ewig" },
+  { latein: "undique", stammformen: "", bedeutung: "von überall her, von allen Seiten" },
+  { latein: "exīre", stammformen: "exeō, exiī, exitum", bedeutung: "herausgehen, verlassen" },
+  { latein: "monumentum", stammformen: "-ī n", bedeutung: "das Denkmal, das Grabmal" }
+];
+
+let lateinws46 = [
+  { latein: "alere", stammformen: "alō, aluī, al(i)tum", bedeutung: "aufziehen, (er)nähren" },
+  { latein: "aperīre", stammformen: "aperiō, aperuī, apertum", bedeutung: "öffnen, aufmachen" },
+  { latein: "sūmere", stammformen: "sūmō, sūmpsī, sūmptum", bedeutung: "nehmen" },
+  { latein: "ingenium", stammformen: "-i n", bedeutung: "die Begabung, der Geist, Charakter" },
+  { latein: "futūrus", stammformen: "-a, -um", bedeutung: "künftig, zukünftig" },
+  { latein: "futura", stammformen: "futurorum n. (Pl.)", bedeutung: "die Zukunft" },
+  { latein: "rēs futūrae", stammformen: "rerum futurarum f (Pl.)", bedeutung: "die Zukunft" },
+  { latein: "ēgregius", stammformen: "-a, -um", bedeutung: "hervorragend, ausgezeichnet" },
+  { latein: "rēs gestae", stammformen: "rerum gestarum f. (Pl.)", bedeutung: "die Taten, die Geschichte" },
+  { latein: "interrogāre", stammformen: "interrogō", bedeutung: "fragen" },
+  { latein: "iste", stammformen: "ista, istud", bedeutung: "dieser, dieser da" },
+  { latein: "cupidus", stammformen: "-a, -um (m. Gen.)", bedeutung: "gierig, begierig (nach)" },
+  { latein: "memor", stammformen: "(m. Gen.)", bedeutung: "eingedenk, in Erinnerung (an), (sich einer Sache) bewusst" },
+  { latein: "cōnscius", stammformen: "-a, -um (m. Gen.)", bedeutung: "mitwissend, eingeweiht (in), sich bewusst; Subst. der Mitwisser" },
+  { latein: "īgnārus", stammformen: "-a, -um (m. Gen.)", bedeutung: "unwissend, ohne Wissen" },
+  { latein: "virgō", stammformen: "virginis f", bedeutung: "die Jungfrau, junge Frau, das Mädchen" },
+  { latein: "vērus", stammformen: "-a, -um", bedeutung: "echt, richtig, wahr" },
+  { latein: "accidere", stammformen: "accidō, accidī", bedeutung: "geschehen, sich ereignen, zustoßen" },
+  { latein: "corrumpere", stammformen: "corrumpō, corrūpī, corruptum", bedeutung: "verderben, bestechen" },
+  { latein: "caedēs", stammformen: "caedis f, Gen. Pl. caedium", bedeutung: "der Mord, das Blutbad" },
+  { latein: "nex", stammformen: "necis f", bedeutung: "der Mord, der (gewaltsame) Tod" },
+  { latein: "appetere", stammformen: "appetō, appetīvī, appetītum", bedeutung: "begehren, anstreben, streben nach" },
+  { latein: "addūcere", stammformen: "addūcō, addūxī, adductum", bedeutung: "heranführen, veranlassen" },
+  { latein: "aedis", stammformen: "aedis f, Gen. Pl. aedium", bedeutung: "der Tempel, Pl. das Haus" },
+  { latein: "facile", stammformen: "(Adv.)", bedeutung: "einfach, leicht, mühelos" },
+  { latein: "tot", stammformen: "(indekl.)", bedeutung: "so viele" }
+];
+
+let lateinws47 = [
+  { latein: "cupiditās", stammformen: "cupiditātis f.", bedeutung: "die Begierde, das Verlangen, die Leidenschaft" },
+  { latein: "incēdere", stammformen: "incēdō, incessī, incessum", bedeutung: "einherschreiten, eintreten" },
+  { latein: "Caesar ut rēx incēdit.", stammformen: "", bedeutung: "Caesar schreitet wie ein König (einher)." },
+  { latein: "palam", stammformen: "Adv.", bedeutung: "offen, öffentlich, offenkundig" },
+  { latein: "restāre", stammformen: "restō, restitī, -", bedeutung: "übrig bleiben, widerstehen" },
+  { latein: "(id/hoc) restat, ut ...", stammformen: "", bedeutung: "es fehlt noch, dass ..." },
+  { latein: "Id restat, ut Caesar rēgnum teneat.", stammformen: "", bedeutung: "Es fehlt noch, dass Caesar die Königsherrschaft erlangt." },
+  { latein: "pariter", stammformen: "Adv.", bedeutung: "in gleicher Weise" },
+  { latein: "pariter atque/ac", stammformen: "", bedeutung: "in gleicher Weise wie" },
+  { latein: "dīgnitās", stammformen: "dīgnitātis f", bedeutung: "die Würde, das Ansehen" },
+  { latein: "quī, quae, quod?", stammformen: "", bedeutung: "welcher, welche, welches?" },
+  { latein: "(utrum) ... an ...?", stammformen: "", bedeutung: "... oder ...?" },
+  { latein: "num", stammformen: "(indirekte Frage)", bedeutung: "ob" },
+  { latein: "Rogō, num veniat.", stammformen: "", bedeutung: "Ich frage, ob er kommt." },
+  { latein: "(utrum) ... an ...", stammformen: "(indirekte Frage)", bedeutung: "ob ... oder ..." },
+  { latein: "Rogō, utrum veniat an nōn./Rogō, veniat an nōn.", stammformen: "", bedeutung: "Ich frage, ob er kommt oder nicht." },
+  { latein: "circumdare", stammformen: "circumdō, circumdedī, circumdatum", bedeutung: "umgeben, umzingeln, umschließen" },
+  { latein: "ultrō", stammformen: "Adv.", bedeutung: "freiwillig, darüber hinaus" },
+  { latein: "Rōmānī Caesarī ultrō honōribus afficiunt.", stammformen: "", bedeutung: "Die Römer erweisen Caesar freiwillig Ehren." },
+  { latein: "Ultrōque eī togam purpuream dant.", stammformen: "", bedeutung: "Und darüber hinaus geben sie ihm die Purpurtoga." },
+  { latein: "dēspicere", stammformen: "dēspiciō, dēspēxī, dēspectum", bedeutung: "herabsehen (auf), verachten" },
+  { latein: "pudet, puduit (m. Akk. + Gen.)", stammformen: "", bedeutung: "es beschämt (jemanden)" },
+  { latein: "Mē pudet sceleris.", stammformen: "", bedeutung: "Ich schäme mich für das Verbrechen." },
+  { latein: "dēdere", stammformen: "dēdō, dēdidī, dēditum", bedeutung: "ausliefern, übergeben" },
+  { latein: "se dēdere", stammformen: "", bedeutung: "sich hingeben, sich widmen" },
+  { latein: "Caesar bellō sē dēdit.", stammformen: "", bedeutung: "Caesar widmete sich dem Krieg." },
+  { latein: "Caesar cupiditātī sē dēdit.", stammformen: "", bedeutung: "Caesar gab sich seinem Verlangen hin." },
+  { latein: "equidem", stammformen: "", bedeutung: "(ich) allerdings, freilich" },
+  { latein: "dēmōnstrāre", stammformen: "dēmōnstrō", bedeutung: "zeigen, darlegen, beweisen" },
+  { latein: "salūtem dīcere", stammformen: "", bedeutung: "grüßen" },
+  { latein: "mē fugit", stammformen: "", bedeutung: "es entgeht mir" }
+];
+
+let lateinws48 = [
+  { latein: "perspicere", stammformen: "perspiciō, perspēxī, perspectum", bedeutung: "durchschauen, untersuchen, erkennen" },
+  { latein: "manifestus", stammformen: "-a, -um", bedeutung: "offenbar, offenkundig" },
+  { latein: "occāsiō", stammformen: "occāsiōnis f", bedeutung: "die Gelegenheit, die Möglichkeit" },
+  { latein: "līber", stammformen: "libera, liberum (m. Abl./ā/ab m. Abl.)", bedeutung: "frei (von)" },
+  { latein: "multitūdō", stammformen: "multitūdinis f", bedeutung: "die Vielzahl, die Menge" },
+  { latein: "memorāre", stammformen: "memorō", bedeutung: "erinnern, erwähnen, erzählen" },
+  { latein: "obicere", stammformen: "obiciō, obiēcī, obiectum", bedeutung: "entgegenwerfen, vorwerfen" },
+  { latein: "contingere", stammformen: "contingō, contigī, contāctum", bedeutung: "berühren, gelingen" },
+  { latein: "contigit, ut", stammformen: "", bedeutung: "es gelingt, dass / es glückt, dass" },
+  { latein: "iūs", stammformen: "iūris n", bedeutung: "das Recht" },
+  { latein: "iūre", stammformen: "", bedeutung: "mit Recht" },
+  { latein: "improbus", stammformen: "-a, -um", bedeutung: "schlecht, unanständig, niederträchtig" },
+  { latein: "dēesse", stammformen: "dēsum, dēfuī, dēfutūrus", bedeutung: "fehlen" },
+  { latein: "sēdēs", stammformen: "sēdis f", bedeutung: "der Sitz, Wohnsitz" },
+  { latein: "gemitus", stammformen: "gemitūs m", bedeutung: "das Seufzen, das Stöhnen" },
+  { latein: "rēgius", stammformen: "-a, -um", bedeutung: "königlich" },
+  { latein: "āvertere", stammformen: "āvertō, āvertī, āversum", bedeutung: "abwenden, fernhalten" }
+];
+
+let lateinws49 = [
+  { latein: "cōnspectus", stammformen: "-ūs m", bedeutung: "der Anblick, das Blickfeld" },
+  { latein: "simulācrum", stammformen: "-ī n", bedeutung: "das Bild, Götterbild, die Götterstatue" },
+  { latein: "legiō", stammformen: "legiōnis f", bedeutung: "die Legion" },
+  { latein: "īnferre", stammformen: "īnferō, intulī, illātum", bedeutung: "hineintragen, einflößen" },
+  { latein: "bellum īnferre (m. Dat.)", stammformen: "", bedeutung: "Krieg anfangen (mit)" },
+  { latein: "mortem sibi īnferre", stammformen: "", bedeutung: "sich das Leben nehmen" },
+  { latein: "timōrem īnferre", stammformen: "", bedeutung: "Furcht einflößen" },
+  { latein: "ferre", stammformen: "ferō, tulī, lātum", bedeutung: "tragen, bringen, ertragen" },
+  { latein: "cōnferre", stammformen: "cōnferō, contulī, collātum", bedeutung: "zusammentragen, zusammenbringen, vergleichen" },
+  { latein: "sē cōnferre", stammformen: "", bedeutung: "sich begeben" },
+  { latein: "auferre", stammformen: "auferō, abstulī, ablātum", bedeutung: "wegtragen, wegbringen, wegnehmen" },
+  { latein: "afferre", stammformen: "afferō, attulī, allātum", bedeutung: "herbeibringen, bringen, melden" },
+  { latein: "gaudium afferre", stammformen: "", bedeutung: "Freude bereiten" },
+  { latein: "timōrem afferre", stammformen: "", bedeutung: "Angst machen" },
+  { latein: "referre", stammformen: "referō, rettulī, relātum", bedeutung: "zurückbringen, berichten" },
+  { latein: "victōriam referre (ē/ex)", stammformen: "", bedeutung: "den Sieg davontragen (über)" },
+  { latein: "victōriam ad cīvēs referre", stammformen: "", bedeutung: "den Sieg den Bürgern melden" },
+  { latein: "imāgō", stammformen: "imāginis f", bedeutung: "das Bild, Gemälde" },
+  { latein: "sanguis", stammformen: "sanguinis m", bedeutung: "das Blut" },
+  { latein: "spargere", stammformen: "spargō, sparsī, sparsum", bedeutung: "streuen, ausstreuen, bespritzen" },
+  { latein: "varius", stammformen: "-a, -um", bedeutung: "vielfältig, verschieden, bunt" },
+  { latein: "perferre", stammformen: "perferō, pertulī, perlātum", bedeutung: "überbringen, ertragen" },
+  { latein: "longus", stammformen: "-a, -um", bedeutung: "lang, lang anhaltend" },
+  { latein: "ōrdō", stammformen: "ōrdinis m", bedeutung: "die Ordnung, Reihe, der (gesellschaftliche) Stand" },
+  { latein: "sinus", stammformen: "-ūs m", bedeutung: "der Bogen, die Bucht, die Brust" },
+  { latein: "terrā marīque", stammformen: "", bedeutung: "zu Wasser und zu Lande" }
+];
+
+let lateinws50 = [
+  { latein: "fēlīx", stammformen: "fēlīcis", bedeutung: "glücklich, erfolgreich" },
+  { latein: "probāre", stammformen: "probō", bedeutung: "billigen, gutheißen, prüfen" },
+  { latein: "dīgnus", stammformen: "-a, -um (m. Abl.)", bedeutung: "würdig, wert (einer Sache)" },
+  { latein: "laude dīgnus/-a, -um", stammformen: "", bedeutung: "würdig/wert des Lobes, lobenswert" },
+  { latein: "amplus", stammformen: "-a, -um", bedeutung: "weit, geräumig, bedeutend" },
+  { latein: "opus", stammformen: "operis n", bedeutung: "das Werk, die Arbeit, Tätigkeit" },
+  { latein: "vīsere", stammformen: "vīsō, vīsī, -", bedeutung: "besuchen, besichtigen" },
+  { latein: "nātiō", stammformen: "nātiōnis f", bedeutung: "das Volk, der Volksstamm" },
+  { latein: "aetās", stammformen: "aetātis f", bedeutung: "das Lebensalter, das Zeitalter, die Zeit" },
+  { latein: "frōns", stammformen: "frontis f", bedeutung: "die Vorderseite, die Stirn" },
+  { latein: "placidus", stammformen: "-a, -um", bedeutung: "sanft, ruhig, friedlich" },
+  { latein: "sacer", stammformen: "sacra, sacrum", bedeutung: "heilig" },
+  { latein: "lātus", stammformen: "-a, -um", bedeutung: "breit, weit, ausgedehnt" },
+  { latein: "āiō", stammformen: "(āis, āit, āiunt)", bedeutung: "ich sage, ich behaupte" },
+  { latein: "ut āiunt", stammformen: "", bedeutung: "wie man sagt" },
+  { latein: "tālis", stammformen: "tale", bedeutung: "solch, von solcher Art, so (beschaffen)" },
+  { latein: "cella", stammformen: "-ae f", bedeutung: "die Kammer, das Tempelinnere" },
+  { latein: "in summō templō", stammformen: "", bedeutung: "oben auf dem Tempel, am höchsten Punkt des Tempels" },
+  { latein: "prōmissum praestāre", stammformen: "", bedeutung: "ein Versprechen einlösen" }
+];
+
+let lateinws51 = [
+  { latein: "nōmināre", stammformen: "nōminō", bedeutung: "nennen (m. dopp. Akk.), bezeichnen … als" },
+  { latein: "inīquus", stammformen: "-a, -um", bedeutung: "ungleich, ungerecht" },
+  { latein: "inīque ferre", stammformen: "", bedeutung: "missbilligen" },
+  { latein: "cupīdō", stammformen: "cupīdinis f", bedeutung: "die Gier, die Begierde, das Verlangen, die Leidenschaft" },
+  { latein: "inaudītus", stammformen: "-a, -um", bedeutung: "unerhört, beispiellos" },
+  { latein: "immānis", stammformen: "immane", bedeutung: "riesig, ungeheuerlich, entsetzlich, furchtbar" },
+  { latein: "dīligēns", stammformen: "dīligentis", bedeutung: "sorgfältig, gewissenhaft" },
+  { latein: "ūsus", stammformen: "usus m", bedeutung: "der Gebrauch, der Nutzen" },
+  { latein: "ūsuī est (Dat. d. Zwecks)", stammformen: "", bedeutung: "es ist nützlich" },
+  { latein: "indūcere", stammformen: "indūcō, indūxī, inductum", bedeutung: "hineinführen, veranlassen" },
+  { latein: "cupīdine inductus/-a, -um", stammformen: "", bedeutung: "aus Begierde" },
+  { latein: "vehemēns", stammformen: "Gen. vehementis", bedeutung: "heftig, nachdrücklich, energisch" },
+  { latein: "iūdicāre", stammformen: "iūdicō", bedeutung: "urteilen, beurteilen, entscheiden" },
+  { latein: "dēferre", stammformen: "dēferō, dētulī, dēlātum", bedeutung: "(weg)bringen, abführen, melden, übertragen" },
+  { latein: "repente", stammformen: "", bedeutung: "plötzlich" },
+  { latein: "cōnscrībere", stammformen: "cōnscrībō, cōnscrīpsī, cōnscrīptum", bedeutung: "verfassen, anwerben, ausheben" },
+  { latein: "mīlitēs cōnscrībere", stammformen: "", bedeutung: "Soldaten (für den Krieg) anwerben" },
+  { latein: "cōpiās cōnscrībere", stammformen: "", bedeutung: "Truppen ausheben" },
+  { latein: "innocēns", stammformen: "Gen. innocentis", bedeutung: "unschuldig" },
+  { latein: "sānctus", stammformen: "-a, -um", bedeutung: "heilig, geweiht" },
+  { latein: "crux", stammformen: "crucis f", bedeutung: "das Kreuz" },
+  { latein: "immēnsus", stammformen: "-a, -um", bedeutung: "riesig, gewaltig, ungeheuerlich" },
+  { latein: "umquam", stammformen: "", bedeutung: "jemals" }
+];
+
+let lateinws52 = [
+  { latein: "commodus", stammformen: "-a, -um", bedeutung: "vorteilhaft, günstig, bequem" },
+  { latein: "imprīmīs", stammformen: "(Adv.)", bedeutung: "hauptsächlich, besonders, vor allem" },
+  { latein: "opīniō", stammformen: "opīniōnis f", bedeutung: "die Meinung, die Erwartung" },
+  { latein: "mea opīniōne", stammformen: "", bedeutung: "meiner Meinung nach" },
+  { latein: "officium", stammformen: "-ī n", bedeutung: "die Pflicht, Aufgabe" },
+  { latein: "officium praestāre", stammformen: "", bedeutung: "(seine) Pflicht erfüllen" },
+  { latein: "sēditiō", stammformen: "sēditiōnis f", bedeutung: "der Aufstand" },
+  { latein: "coercēre", stammformen: "coerceō", bedeutung: "bändigen, einschränken" },
+  { latein: "pūnīre", stammformen: "pūniō", bedeutung: "strafen, bestrafen" },
+  { latein: "multō (m. Komparativ)", stammformen: "", bedeutung: "viel, um vieles" },
+  { latein: "multō pulchrior", stammformen: "", bedeutung: "viel schöner" },
+  { latein: "disputāre", stammformen: "disputō", bedeutung: "diskutieren, sprechen über" },
+  { latein: "probus", stammformen: "-a, -um", bedeutung: "anständig, gut, tüchtig" },
+  { latein: "volvere", stammformen: "volvō, volvī, volūtum", bedeutung: "wälzen, rollen" },
+  { latein: "librum volvere", stammformen: "", bedeutung: "ein Buch lesen" },
+  { latein: "in animō volvere", stammformen: "", bedeutung: "überlegen, erwägen" },
+  { latein: "decet", stammformen: "decuit (m. Akk.)", bedeutung: "es schickt sich (für jemanden), es steht (jemandem)" },
+  { latein: "vestis mē decet", stammformen: "", bedeutung: "das Kleid steht mir" },
+  { latein: "Senātōrem decet togam gerere.", stammformen: "", bedeutung: "Für einen Senator schickt es sich, die Toga zu tragen." },
+  { latein: "convīvium", stammformen: "-ī n", bedeutung: "das Gastmahl, Gelage" },
+  { latein: "cubāre", stammformen: "cubō, cubuī, cubitum", bedeutung: "liegen, schlafen, zu Tische liegen, speisen" },
+  { latein: "aquaeductus", stammformen: "-ūs m", bedeutung: "die Wasserleitung, das Aquädukt" },
+  { latein: "thermae", stammformen: "-ārum f (Pl.)", bedeutung: "die Thermen, öffentlichen Badeanlagen" },
+  { latein: "quotiēns", stammformen: "", bedeutung: "wie oft" },
+  { latein: "cottīdiē", stammformen: "(Adv.)", bedeutung: "täglich" },
+  { latein: "ambulāre", stammformen: "ambulō", bedeutung: "spazieren gehen" }
+];
+
+let lateinws53 = [
+  { latein: "initium", stammformen: "-i n", bedeutung: "der Eingang, der Anfang" },
+  { latein: "complures", stammformen: "complura (Pl.), Gen. complurium", bedeutung: "mehrere" },
+  { latein: "iniuria", stammformen: "-ae f", bedeutung: "das Unrecht, die Beleidigung" },
+  { latein: "indignus", stammformen: "-a, -um (m. Abl.)", bedeutung: "unwürdig, empörend" },
+  { latein: "convocare", stammformen: "convoco", bedeutung: "herbeirufen, zusammenrufen, versammeln" },
+  { latein: "eicere", stammformen: "eicio, eieci, eiectum", bedeutung: "hinauswerfen, vertreiben" },
+  { latein: "finire", stammformen: "finio", bedeutung: "beenden, begrenzen" },
+  { latein: "incitare", stammformen: "incito", bedeutung: "antreiben, anfeuern, reizen" },
+  { latein: "vastare", stammformen: "vasto", bedeutung: "verwüsten" },
+  { latein: "superesse", stammformen: "supersum, superfui, -", bedeutung: "übrig sein, im Überfluss vorhanden sein, überleben (m. Dat.)" },
+  { latein: "obire", stammformen: "obeo, obii, obitum (m. Akk.)", bedeutung: "entgegengehen, sterben" },
+  { latein: "post", stammformen: "(Adv.)", bedeutung: "später" },
+  { latein: "multo post", stammformen: "", bedeutung: "viel später" },
+  { latein: "duobus annis post", stammformen: "", bedeutung: "zwei Jahre später" },
+  { latein: "paulum/paulo", stammformen: "(Adv.)", bedeutung: "ein wenig, ein bisschen" },
+  { latein: "paulo post", stammformen: "", bedeutung: "etwas später, kurz darauf" },
+  { latein: "ambo", stammformen: "ambae, ambo", bedeutung: "beide" },
+  { latein: "trans", stammformen: "(m. Akk.)", bedeutung: "über … hinüber, jenseits" },
+  { latein: "fluctus", stammformen: "-us m", bedeutung: "die Flut" },
+  { latein: "adiungere", stammformen: "adiungo, adiunxi, adiunctum", bedeutung: "anbinden, anfügen, anschließen" },
+  { latein: "se ad alios adiungere", stammformen: "", bedeutung: "sich anderen anschließen" },
+  { latein: "eo", stammformen: "", bedeutung: "deswegen, dorthin" },
+  { latein: "sero", stammformen: "(Adv.)", bedeutung: "spät, zu spät" },
+  { latein: "venenum", stammformen: "-i n", bedeutung: "das Gift" },
+  { latein: "vim afferre", stammformen: "", bedeutung: "Gewalt antun" }
+];
+
+let lateinws54 = [
+  { latein: "regio", stammformen: "regionis f", bedeutung: "das Gebiet, die Gegend, die Richtung" },
+  { latein: "epistula", stammformen: "-ae f", bedeutung: "der Brief" },
+  { latein: "durus", stammformen: "-a, -um", bedeutung: "hart, hartherzig" },
+  { latein: "asper", stammformen: "aspera, asperum", bedeutung: "rau, grob, hart" },
+  { latein: "vastus", stammformen: "-a, -um", bedeutung: "wüst, öde, weit, unermesslich" },
+  { latein: "atrox", stammformen: "Gen. atrocis", bedeutung: "schrecklich, wild" },
+  { latein: "optare", stammformen: "opto", bedeutung: "wünschen" },
+  { latein: "frigus", stammformen: "frigoris n", bedeutung: "die Kälte, der Frost" },
+  { latein: "tenebrae", stammformen: "-arum f (Pl.)", bedeutung: "die Finsternis, die Dunkelheit" },
+  { latein: "iussu", stammformen: "(Adv.)", bedeutung: "auf Befehl" },
+  { latein: "necessarius", stammformen: "-a, -um", bedeutung: "nötig, notwendig; Subst. der Freund, der Verwandte" },
+  { latein: "efferre", stammformen: "efferō, extulī, ēlātum", bedeutung: "hinaustragen, hinausbringen, beerdigen" },
+  { latein: "victoria elatus", stammformen: "-a, -um", bedeutung: "stolz auf den Sieg / hochmütig wegen des Siegs" },
+  { latein: "spatium", stammformen: "-i n", bedeutung: "der Raum, der Zeitraum" },
+  { latein: "postremo", stammformen: "(Adv.)", bedeutung: "schließlich, zuletzt" },
+  { latein: "plenus", stammformen: "-a, -um (m. Gen.)", bedeutung: "voll (von/mit)" },
+  { latein: "plenus timoris", stammformen: "", bedeutung: "voller Angst" },
+  { latein: "funus", stammformen: "funeris n", bedeutung: "die Bestattung" },
+  { latein: "proximus", stammformen: "-a, -um", bedeutung: "der nächste" },
+  { latein: "lupus", stammformen: "-i m", bedeutung: "der Wolf" },
+  { latein: "ullus", stammformen: "-a, -um, Gen. ullius, Dat. ulli (nach Verneinung)", bedeutung: "irgendein" }
+];
+
+let lateinws55 = [
+  { latein: "statua", stammformen: "-ae f", bedeutung: "die Statue" },
+  { latein: "certamen", stammformen: "certaminis n", bedeutung: "der Streit, Wettstreit, Wettkampf" },
+  { latein: "prodire", stammformen: "prodeo, prodii, proditum", bedeutung: "vortreten, auftreten" },
+  { latein: "in scaenam prodire", stammformen: "", bedeutung: "auf der Bühne auftreten" },
+  { latein: "in publicum prodire", stammformen: "", bedeutung: "in der Öffentlichkeit auftreten" },
+  { latein: "cursus", stammformen: "cursus m", bedeutung: "der Lauf, der Kurs, die Fahrt" },
+  { latein: "iudicium", stammformen: "-i n", bedeutung: "das Urteil, die Entscheidung, das Gericht" },
+  { latein: "pretium", stammformen: "-i n", bedeutung: "der Lohn, der Preis" },
+  { latein: "oliva", stammformen: "-ae f", bedeutung: "die Olive, der Olivenbaum, der Olivenzweig" },
+  { latein: "iungere", stammformen: "iungo, iunxi, iunctum", bedeutung: "verbinden, vereinen" },
+  { latein: "equum ad currum iungere", stammformen: "", bedeutung: "ein Pferd vor den Wagen spannen" },
+  { latein: "existimare", stammformen: "existimo", bedeutung: "einschätzen, meinen" },
+  { latein: "fiducia", stammformen: "-ae f", bedeutung: "das Vertrauen, die Zuversicht" },
+  { latein: "gratus", stammformen: "-a, -um", bedeutung: "dankbar, willkommen" },
+  { latein: "natus", stammformen: "-a, -um", bedeutung: "geboren; Subst. Sohn/Tochter" },
+  { latein: "excedere", stammformen: "excedo, excessi, excessum", bedeutung: "herausgehen, hinausgehen" },
+  { latein: "domo excedere", stammformen: "", bedeutung: "aus dem Haus hinausgehen" },
+  { latein: "excedere modum", stammformen: "", bedeutung: "das rechte Maß überschreiten" },
+  { latein: "taedium", stammformen: "-i n", bedeutung: "der Ekel, der Überdruss" },
+  { latein: "pristinus", stammformen: "-a, -um", bedeutung: "der frühere, der ehemalige" },
+  { latein: "vestigium", stammformen: "-i n", bedeutung: "die Spur" },
+  { latein: "nimis", stammformen: "", bedeutung: "zu, allzu" },
+  { latein: "omittere", stammformen: "omitto, omisi, omissum", bedeutung: "aufgeben, unterlassen" },
+  { latein: "spem omittere", stammformen: "", bedeutung: "die Hoffnung aufgeben" },
+  { latein: "inde", stammformen: "", bedeutung: "von dort, von da an, daher, daraufhin" },
+  { latein: "sapiens", stammformen: "Gen. sapientis", bedeutung: "weise; Subst. der Weise" },
+  { latein: "se praebere", stammformen: "me praebeo (m. dopp. Akk.)", bedeutung: "sich erweisen (als)" },
+  { latein: "se fortem praebere", stammformen: "", bedeutung: "sich als tapfer erweisen" },
+  { latein: "tunc", stammformen: "(Adv.)", bedeutung: "dann, darauf, da, damals" }
+];
+
+let lateinws56 = [
+  { latein: "medicus", stammformen: "-i m", bedeutung: "der Arzt" },
+  { latein: "valetudo", stammformen: "valetudinis f", bedeutung: "das Befinden, die Gesundheit, Krankheit" },
+  { latein: "facilis", stammformen: "facile (Superlativ: facillimus, -a, -um)", bedeutung: "einfach, leicht" },
+  { latein: "difficilis", stammformen: "difficile (Superlativ: difficillimus, -a, -um)", bedeutung: "schwer, schwierig" },
+  { latein: "apparere", stammformen: "appareo", bedeutung: "erscheinen, sich zeigen" },
+  { latein: "aspectus", stammformen: "aspectus m", bedeutung: "der Anblick" },
+  { latein: "convalescere", stammformen: "convalesco, convalui, -", bedeutung: "gesund werden, genesen" },
+  { latein: "sanare", stammformen: "sano", bedeutung: "heilen" },
+  { latein: "vulgus", stammformen: "-i n", bedeutung: "das Volk" },
+  { latein: "dolere", stammformen: "doleo, dolui, -", bedeutung: "schmerzen, Schmerz empfinden (über)" },
+  { latein: "Pes dolet.", stammformen: "", bedeutung: "Der Fuß schmerzt." },
+  { latein: "Mortem eius doleo.", stammformen: "", bedeutung: "Mich schmerzt sein Tod." },
+  { latein: "advenire", stammformen: "advenio, adveni, adventum", bedeutung: "ankommen" },
+  { latein: "ratio", stammformen: "rationis f", bedeutung: "die Vernunft, Art und Weise, Methode, Rechnung, Überlegung" },
+  { latein: "utinam", stammformen: "", bedeutung: "hoffentlich; wenn doch" },
+  { latein: "vellem/nollem", stammformen: "", bedeutung: "(unerfüllbar) wenn doch / wenn doch nicht" },
+  { latein: "velim/nolim", stammformen: "", bedeutung: "(erfüllbar) hoffentlich / hoffentlich nicht" },
+  { latein: "inanis", stammformen: "inane", bedeutung: "sinnlos, wertlos, leer" },
+  { latein: "festinare", stammformen: "festino", bedeutung: "eilen, sich beeilen" },
+  { latein: "cito", stammformen: "(Adv.)", bedeutung: "schnell" },
+  { latein: "vacare", stammformen: "vaco (m. Abl.)", bedeutung: "leer sein, frei sein (von), Zeit haben" },
+  { latein: "doloribus vacat", stammformen: "", bedeutung: "er hat keine Schmerzen" },
+  { latein: "latus", stammformen: "lateris n", bedeutung: "die Seite, die Flanke" },
+  { latein: "attingere", stammformen: "attingo, attigi, attactum", bedeutung: "berühren, grenzen an, gelangen an/nach" },
+  { latein: "divinus", stammformen: "-a, -um", bedeutung: "göttlich" },
+  { latein: "deterrere", stammformen: "deterreo", bedeutung: "abschrecken, abbringen" },
+  { latein: "te a/de consilio deterreo", stammformen: "", bedeutung: "ich bringe dich von deinem Plan ab" },
+  { latein: "omnino", stammformen: "(Adv.)", bedeutung: "insgesamt, überhaupt, völlig" },
+  { latein: "merces", stammformen: "mercedis f", bedeutung: "der Lohn, die Zahlung" }
+];
+
+let lateinws57 = [
+  { latein: "oraculum", stammformen: "-i n", bedeutung: "das Orakel, der Orakelspruch" },
+  { latein: "sacerdos", stammformen: "sacerdotis m/f", bedeutung: "der Priester / die Priesterin" },
+  { latein: "mundus", stammformen: "-i m", bedeutung: "die Welt, das Weltall" },
+  { latein: "lapis", stammformen: "lapidis m", bedeutung: "der Stein" },
+  { latein: "collocare", stammformen: "colloco", bedeutung: "aufstellen, errichten; ansiedeln" },
+  { latein: "destinare", stammformen: "destino", bedeutung: "festsetzen, bestimmen" },
+  { latein: "continere", stammformen: "contineo, continui, contentum (m. Abl.)", bedeutung: "zusammenhalten, festhalten, im Zaum halten, enthalten" },
+  { latein: "aequus", stammformen: "-a, -um", bedeutung: "gleich, gerecht" },
+  { latein: "aequo animo", stammformen: "", bedeutung: "mit Gelassenheit" },
+  { latein: "peritus", stammformen: "-a, -um (m. Gen.)", bedeutung: "erfahren, kundig (in)" },
+  { latein: "iuris peritus", stammformen: "", bedeutung: "rechtskundig" },
+  { latein: "religio", stammformen: "religionis f", bedeutung: "die Götterverehrung, religiöse Scheu, Religion, Glaube" },
+  { latein: "aliquis", stammformen: "aliquid (subst.)", bedeutung: "irgendjemand, irgendetwas" },
+  { latein: "aliqui", stammformen: "aliqua, aliquod (adj.)", bedeutung: "irgendein, irgendeine, irgendein" },
+  { latein: "conservare", stammformen: "conservo", bedeutung: "retten (vor), bewahren, beschützen (vor)" },
+  { latein: "fossa", stammformen: "-ae f", bedeutung: "der Graben" },
+  { latein: "patrius", stammformen: "-a, -um", bedeutung: "väterlich; heimisch" },
+  { latein: "contemnere", stammformen: "contemno, contempsi, contemptum", bedeutung: "verachten, gering schätzen" },
+  { latein: "falsus", stammformen: "-a, -um", bedeutung: "falsch" },
+  { latein: "falsum dicere", stammformen: "", bedeutung: "die Unwahrheit sagen" },
+  { latein: "spernere", stammformen: "sperno, sprevi, spretum", bedeutung: "verachten, verschmähen" },
+  { latein: "aquila", stammformen: "-ae f", bedeutung: "der Adler, der Legionsadler" },
+  { latein: "extremus", stammformen: "-a, -um", bedeutung: "der äußerste, der entfernteste" },
+  { latein: "extremus orbis terrarum", stammformen: "", bedeutung: "das Ende der Welt" },
+  { latein: "sol oriens", stammformen: "solis orientis m", bedeutung: "die aufgehende Sonne, der Osten" },
+  { latein: "sol occidens", stammformen: "solis occidentis m", bedeutung: "die untergehende Sonne, der Westen" },
+  { latein: "celeritas", stammformen: "celeritatīs f", bedeutung: "die Schnelligkeit" },
+  { latein: "certus", stammformen: "-a, -um", bedeutung: "sicher, gewiss, bestimmt" },
+  { latein: "vel etiam", stammformen: "", bedeutung: "oder sogar" }
+];
+
+let lateinws58 = [
+  { latein: "dictum", stammformen: "-i n", bedeutung: "der Spruch, das Wort" },
+  { latein: "aeternus", stammformen: "-a, -um", bedeutung: "ewig" },
+  { latein: "in aeternum", stammformen: "", bedeutung: "ewig, für immer" },
+  { latein: "superbia", stammformen: "-ae f", bedeutung: "der Hochmut, Stolz, die Überheblichkeit" },
+  { latein: "deficere", stammformen: "deficio, defeci, defectum (m. Akk., a/ab m. Abl.)", bedeutung: "ausgehen; fehlen; abfallen (von)" },
+  { latein: "vires me deficiunt", stammformen: "", bedeutung: "die Kräfte verlassen mich" },
+  { latein: "a duce deficiunt", stammformen: "", bedeutung: "sie fallen vom Anführer ab" },
+  { latein: "conciliare", stammformen: "concilio", bedeutung: "(für sich) gewinnen" },
+  { latein: "vereri", stammformen: "vereor, veritus sum", bedeutung: "fürchten, verehren" },
+  { latein: "intueri", stammformen: "intueor, intuitus sum", bedeutung: "(genau) betrachten" },
+  { latein: "polliceri", stammformen: "polliceor, pollicitus sum", bedeutung: "versprechen" },
+  { latein: "arbitrari", stammformen: "arbitror, arbitratus sum", bedeutung: "glauben, meinen" },
+  { latein: "precari", stammformen: "precor, precatus sum", bedeutung: "beten, bitten, anflehen" },
+  { latein: "versari", stammformen: "versor, versatus sum (in m. Abl.)", bedeutung: "sich aufhalten (in), sich befinden (in), sich beschäftigen (mit)" },
+  { latein: "in Italia versor", stammformen: "", bedeutung: "ich halte mich in Italien auf / ich befinde mich in Italien" },
+  { latein: "in artibus versor", stammformen: "", bedeutung: "ich beschäftige mich mit den Künsten" },
+  { latein: "opinari", stammformen: "opinor, opinatus sum", bedeutung: "glauben, meinen" },
+  { latein: "fateri", stammformen: "fateor, fassus sum", bedeutung: "gestehen, bekennen, offenbaren" },
+  { latein: "recusare", stammformen: "recuso", bedeutung: "zurückweisen, sich weigern" },
+  { latein: "humum", stammformen: "(Adv.)", bedeutung: "auf die Erde, auf den Boden" },
+  { latein: "porrigere", stammformen: "porrigo, porrexi, porrectum", bedeutung: "ausstrecken, hinstrecken; darreichen" },
+  { latein: "quot", stammformen: "(indekl.)", bedeutung: "wie viel" },
+  { latein: "ob", stammformen: "(m. Akk.)", bedeutung: "wegen, entgegen" },
+  { latein: "conari", stammformen: "conor, conatus sum", bedeutung: "versuchen" },
+  { latein: "iuventus", stammformen: "iuventutis f", bedeutung: "die Jugend" },
+  { latein: "consumere", stammformen: "consumo, consumpsi, consumptum", bedeutung: "aufbrauchen, verwenden, verbringen" },
+  { latein: "laborem in religione consumo", stammformen: "", bedeutung: "ich verwende Mühe auf die Götterverehrung" },
+  { latein: "tempus in religione consumo", stammformen: "", bedeutung: "ich verbringe Zeit bei der Götterverehrung" },
+  { latein: "minuere", stammformen: "minuo, minui, minutum", bedeutung: "vermindern, verringern" },
+  { latein: "eo magis", stammformen: "", bedeutung: "umso mehr" },
+  { latein: "mirari", stammformen: "miror, miratus sum (m. Akk.)", bedeutung: "bewundern; sich wundern (über), staunen" },
+  { latein: "templa miror", stammformen: "", bedeutung: "ich bewundere die Tempel" }
+];
+
+let lateinws59 = [
+  { latein: "princeps", stammformen: "principis m", bedeutung: "der Erste, der führende Mann, Kaiser" },
+  { latein: "clades", stammformen: "cladis f (Gen. Pl. cladium)", bedeutung: "die Niederlage, der Verlust" },
+  { latein: "expugnare", stammformen: "expugno", bedeutung: "erobern" },
+  { latein: "incola", stammformen: "-ae m/f", bedeutung: "der Einwohner / die Einwohnerin" },
+  { latein: "loqui", stammformen: "loquor, locutus sum", bedeutung: "sprechen" },
+  { latein: "reri", stammformen: "reor, ratus sum", bedeutung: "glauben, meinen" },
+  { latein: "proficisci", stammformen: "proficiscor, profectus sum", bedeutung: "aufbrechen, marschieren, reisen" },
+  { latein: "queri", stammformen: "queror, questus sum (m. Akk.)", bedeutung: "klagen (über), sich beklagen" },
+  { latein: "fatum queritur", stammformen: "", bedeutung: "er beklagt sein Schicksal" },
+  { latein: "oriri", stammformen: "orior, ortus sum", bedeutung: "geboren werden, entstehen, aufgehen" },
+  { latein: "uti", stammformen: "utor, usus sum (m. Abl.)", bedeutung: "gebrauchen, benutzen" },
+  { latein: "consequi", stammformen: "consequor, consecutus sum (m. Akk.)", bedeutung: "(ver)folgen, erreichen" },
+  { latein: "superior", stammformen: "superius", bedeutung: "der höhere, der frühere" },
+  { latein: "vero", stammformen: "", bedeutung: "wirklich, aber" },
+  { latein: "cervix", stammformen: "cervicis f", bedeutung: "der Nacken, der Hals" },
+  { latein: "secare", stammformen: "seco, secui, sectum", bedeutung: "schneiden, abschneiden, abtrennen" },
+  { latein: "usque ad", stammformen: "(m. Akk.)", bedeutung: "bis nach, bis zu" },
+  { latein: "ignominia", stammformen: "-ae f", bedeutung: "die Schande, die Schmach" },
+  { latein: "militia", stammformen: "-ae f", bedeutung: "der Kriegsdienst" },
+  { latein: "aes", stammformen: "aeris n", bedeutung: "das Erz, die Bronze, das Geld" },
+  { latein: "aes militare", stammformen: "aeris militaris n", bedeutung: "der Sold" },
+  { latein: "captivus", stammformen: "-i m/f", bedeutung: "gefangen; Subst. der/die Gefangene" },
+  { latein: "mihi persuasum est", stammformen: "(m. AcI)", bedeutung: "ich bin überzeugt (davon), dass" }
+];
+
+let lateinws60 = [
+  { latein: "postulare", stammformen: "postulo", bedeutung: "fordern, verlangen" },
+  { latein: "venerari", stammformen: "veneror", bedeutung: "verehren, anbeten" },
+  { latein: "minari", stammformen: "minor, minatus sum", bedeutung: "drohen, androhen" },
+  { latein: "mori", stammformen: "morior, mortuus sum", bedeutung: "sterben" },
+  { latein: "mortuus", stammformen: "-a, -um", bedeutung: "tot" },
+  { latein: "confiteri", stammformen: "confiteor, confessus sum", bedeutung: "gestehen, bekennen" },
+  { latein: "deducere", stammformen: "deduco, deduxi, deductum", bedeutung: "hinabführen, wegführen; geleiten" },
+  { latein: "satis/sat", stammformen: "", bedeutung: "genug" },
+  { latein: "impetrare", stammformen: "", bedeutung: "durchsetzen, erreichen" },
+  { latein: "solere", stammformen: "soleo, solitus sum", bedeutung: "gewohnt sein, pflegen (zu tun)" },
+  { latein: "gaudere", stammformen: "gaudeo, gavisus sum (m. Abl.)", bedeutung: "sich freuen, froh sein" },
+  { latein: "audere", stammformen: "audeo, ausus sum", bedeutung: "wagen" },
+  { latein: "confidere", stammformen: "confido, confisus sum (m. Dat.)", bedeutung: "vertrauen (auf)" },
+  { latein: "Deo confisus", stammformen: "", bedeutung: "im Vertrauen auf Gott" },
+  { latein: "reverti", stammformen: "revertor, reverti", bedeutung: "zurückkehren" },
+  { latein: "quidam", stammformen: "quaedam, quoddam / quiddam", bedeutung: "ein gewisser; einige; eine Art von; geradezu" },
+  { latein: "Christianus", stammformen: "-a, -um", bedeutung: "christlich; Subst. der Christ" },
+  { latein: "beatus", stammformen: "-a, -um", bedeutung: "glücklich" },
+  { latein: "videri", stammformen: "videor, visus sum", bedeutung: "scheinen" },
+  { latein: "diligentia", stammformen: "-ae f", bedeutung: "die Sorgfalt, Gewissenhaftigkeit" },
+  { latein: "tamquam", stammformen: "", bedeutung: "wie, als ob" },
+  { latein: "conquirere", stammformen: "conquiro, conquisivi, conquisitum", bedeutung: "suchen; fahnden (nach)" },
+  { latein: "etsi", stammformen: "", bedeutung: "auch wenn" },
+  { latein: "supplicare", stammformen: "supplico (m. Dat.)", bedeutung: "demütig bitten; Dankopfer darbringen" },
+  { latein: "Deo supplico", stammformen: "", bedeutung: "ich bitte Gott demütig" },
+  { latein: "libellus", stammformen: "-i m", bedeutung: "das Büchlein" },
+  { latein: "proponere", stammformen: "propono, proposui, propositum", bedeutung: "vorschlagen, vor Augen stellen, in Aussicht stellen" },
+  { latein: "Iustitia", stammformen: "-ae f", bedeutung: "die Gerechtigkeit" }
+];
+
+let lateinws61 = [
+  { latein: "hortari", stammformen: "hortor, hortatus sum", bedeutung: "ermuntern, auffordern" },
+  { latein: "efficere", stammformen: "efficio, effeci, effectum", bedeutung: "durchsetzen, bewirken, vollenden" },
+  { latein: "creber", stammformen: "crebra, crebrum", bedeutung: "zahlreich, häufig" },
+  { latein: "succurrere", stammformen: "succurro, succurri, succursum", bedeutung: "zu Hilfe eilen" },
+  { latein: "pernicies", stammformen: "perniciei f", bedeutung: "das Verderben, der Untergang" },
+  { latein: "praesidium", stammformen: "-i n", bedeutung: "der Schutz, die Schutztruppe, Besatzungstruppe" },
+  { latein: "suadere", stammformen: "suadeo, suasi, suasum", bedeutung: "raten, empfehlen" },
+  { latein: "sitis", stammformen: "-is f (Akk. sitim, Abl. siti)", bedeutung: "der Durst" },
+  { latein: "anima", stammformen: "-ae f", bedeutung: "der Lufthauch; der Atem, die Seele, das Leben" },
+  { latein: "experiri", stammformen: "experior, expertus sum", bedeutung: "versuchen, erfahren, kennenlernen" },
+  { latein: "morari", stammformen: "moror, moratus sum", bedeutung: "aufhalten; sich aufhalten, verweilen; zögern" },
+  { latein: "laetitia", stammformen: "-ae f", bedeutung: "die Freude; die Fröhlichkeit" },
+  { latein: "captare", stammformen: "capto", bedeutung: "fangen, fassen" },
+  { latein: "excipere", stammformen: "excipio, excepi, exceptum", bedeutung: "(her)ausnehmen, aufnehmen" },
+  { latein: "fulmen", stammformen: "fulminis n", bedeutung: "der Blitz" },
+  { latein: "controversia", stammformen: "-ae f", bedeutung: "der Streit, die Streitfrage" },
+  { latein: "quin", stammformen: "(m. Konj.)", bedeutung: "dass" },
+  { latein: "non dubitare, quin", stammformen: "", bedeutung: "nicht (daran) zweifeln, dass (nicht)" },
+  { latein: "causa", stammformen: "(m. Gen. nachgestellt)", bedeutung: "um … willen, wegen" },
+  { latein: "gloriae causa", stammformen: "", bedeutung: "um der Ehre willen, wegen der Ehre" },
+  { latein: "bono animo esse", stammformen: "", bedeutung: "guten Mutes sein" }
+];
+
+
+
+
+
+
+let PhaedrusProlog = [
+    {latein: "versus", stammformen: "-us m", bedeutung: "Gedichtzeile, Vers"},
+    {latein: "dos", stammformen: "dotis f", bedeutung: "Mitgift; Gabe, Talent, Nutzen"},
+    {latein: "prudens", stammformen: "-entis", bedeutung: "klug, verständig"},
+    {latein: "tantum", stammformen: "(Adv.)", bedeutung: "so viel, so sehr; nur"}
+]
+
+let PhaedrusDerWolfunddasLamm = [
+    {latein: "lumpus", stammformen: "-i m", bedeutung: "Wolf"}
+]
+
+
+PhaedrusProlog.name = "PhaedrusProlog";
+PhaedrusDerWolfunddasLamm.name = "PhaedrusDerWolfunddasLamm"
+
+
+
+let lateinws = {
+    1: lateinws1,
+    2: lateinws2,
+    25: lateinws25,
+    40: lateinws40,
+    41: lateinws41,
+    42: lateinws42,
+    43: lateinws43,
+    44: lateinws44,
+    45: lateinws45,
+    46: lateinws46,
+    47: lateinws47,
+    48: lateinws48,
+    49: lateinws49,
+    50: lateinws50,
+    51: lateinws51,
+    52: lateinws52,
+    53: lateinws53,
+    54: lateinws54,
+    55: lateinws55,
+    56: lateinws56,
+    57: lateinws57,
+    58: lateinws58,
+    59: lateinws59,
+    60: lateinws60,
+    61: lateinws61,
+
+    69: PhaedrusProlog,
+    70: PhaedrusDerWolfunddasLamm
+}
+
+
+
+let list = [];
+let list2 = [];
+let list3 = [];
+
+
+let e = 0;
+let anzahlderwoerter = 0;
+let zufallszahl = 0;
+let fach1 = 0;
+let buch1 = 0;
+let wortschatz1 = 0;
+let wortschatz2 = 0;
+let wortschatz3 = 0;
+let wortschatz4 = 0;
+let wortschatz5 = 0;
+let zähler = 0;
+
+let erstezahl
+let zweitezahl
+
+
+document.getElementById("falscheVokabelwiederholen").hidden = true;
+document.getElementById("buttzurück").hidden = true;
+
+stammfor = document.getElementById("stammform");
+deutsch = document.getElementById("deutschl");
+butoo = document.getElementById("butook");
+
+document.getElementById("stammformo").hidden = true;
+document.getElementById("deutschlo").hidden = true;
+document.getElementById("buttooko").hidden = true;
+
+document.getElementById("stammform").hidden = true;
+document.getElementById("deutschl").hidden = true;
+document.getElementById("butook").hidden = true;
+
+
+function Vocabulary (){
+    fach1 = fach.value;
+    buch1 = buch.value;
+    buch1 = buch1.replaceAll(" ", "");
+    wortschatz1 = wortschatz.value;
+    wortschatz1 = wortschatz1.replaceAll(" ", "");
+    wortschatz2 = wortschatz1.slice();
+    wortschatz3 = wortschatz1.slice();
+    wortschatz2 = wortschatz2.replaceAll("WS", "");
+    wortschatz2 = wortschatz2.replaceAll(":", "");
+    wortschatz4 = wortschatz2.slice();
+    wortschatz5 = wortschatz3.slice();
+    wortschatz4 = wortschatz4.split(",");
+    wortschatz2 = wortschatz2.split("-");
+    wortschatz3 = wortschatz3.replaceAll(wortschatz2[0], "");
+    wortschatz3 = wortschatz3.replaceAll(wortschatz2[1], "");
+    wortschatz3 = wortschatz3.split("-");
+
+    for (let i = 0; i <= wortschatz4.length; i++){
+        wortschatz5 = wortschatz5.replace(wortschatz4[i], "");
+    }
+    wortschatz5 = wortschatz5.split(",");
+
+
+
+    console.log(wortschatz4)
+    console.log(wortschatz5)
+    document.getElementById("fach").hidden = true;
+    document.getElementById("buch").hidden = true;
+    document.getElementById("wortschatz").hidden = true;
+    document.getElementById("ok").hidden = true;
+    console.log(buch1)
+    if (fach1 == "Latein"){
+
+        document.getElementById("vocabularyList").hidden = true;
+        document.getElementById("richtigevocabularyList").hidden = true;
+        document.getElementById("stammformo").hidden = false;
+        document.getElementById("deutschlo").hidden = false;
+        document.getElementById("buttooko").hidden = false;
+        document.getElementById("buttzurück").hidden = false;
+
+        if (buch1 == "Adeamus"){
+            if (wortschatz1 === "WS1"){
+                list = lateinws1.slice();
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+
+            }else if (wortschatz1 === "WS2"){
+                list = lateinws2.slice();
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+             
+            }else if (wortschatz1 === "WS25"){
+                list = lateinws25.slice();
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+
+
+
+            }else if(wortschatz2[0] < wortschatz2[1] && wortschatz3[0] == "WS" && wortschatz3[1] == "WS" && wortschatz2[0] >= 1 && wortschatz2[1] <= 68 && wortschatz2[0] <= 68 && wortschatz2[1] >= 1){
+                for(let i = wortschatz2[0]; i <= wortschatz2[1]; i++){
+                    list.push(...(lateinws[i].slice()));
+                    console.log(list);
+                };
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+            
+            }else if(wortschatz5[0] == "WS" && wortschatz4[0] >= 1){
+                let x = 0;
+                for(let i = 0; i <=wortschatz4.length; i++){
+                    if (wortschatz4[i] < 1 && wortschatz4[i] > 68){
+                        x = 1;
+                    };
+                };
+                console.log(x);
+                if(x != 1){
+                    for(let i = 0; i < wortschatz4.length; i++){
+                        list.push(...(lateinws[wortschatz4[i]].slice()));
+                        console.log(list);
+                    };
+                    anzahlderwoerter = list.length;
+                    zähler = list.length;
+                    zufall();
+                }else {
+                    fehlerbeimEingeben();
+                };
+            
+            
+            }else {
+                fehlerbeimEingeben();
+            };
+        }else if(buch1 == "Legamus"){
+            let y = 0
+            if (wortschatz3.includes("WS")){
+                y = 1
+            };
+            if (wortschatz1 === "Phaedrus:Prolog"){
+                list = PhaedrusProlog.slice();
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+            }else if (wortschatz1 === "Phaedrus:Der Wolf und das Lamm"){
+                list = PhaedrusDerWolfunddasLamm.slice();
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+            }else if (y != 1){
+                if (wortschatz1.includes(",") == false){
+                    erstezahl = 0;
+                    zweitezahl = 0;
+                    for(let key of Object.keys(lateinws)){
+                        if(lateinws[key].name === wortschatz2[0]){
+                            erstezahl = key;
+                        };
+                        if (lateinws[key].name === wortschatz2[1]){
+                            zweitezahl = key;
+                        };
+                    };
+                    if (erstezahl != undefined && zweitezahl != undefined && erstezahl < zweitezahl){
+                        for(let i = erstezahl; i <= zweitezahl; i++){
+                            list.push(...(lateinws[i].slice()));
+                            console.log(list);
+                        };
+                        anzahlderwoerter = list.length;
+                        zähler = list.length;
+                        zufall();
+                    }else {
+                        fehlerbeimEingeben();
+                    };
+                }else{
+                    for(let i = 0; i <= wortschatz4.length; i++){
+                        for(let key of Object.keys(lateinws)){
+                            if(lateinws[key].name === wortschatz4[i] && lateinws[key].name != undefined){
+                                console.log(key)
+                                list.push(...(lateinws[key].slice()));
+                            };
+                        };
+                    };
+
+                    if (list.length == 0){
+                        fehlerbeimEingeben();
+                    }else{
+                        anzahlderwoerter = list.length;
+                        zähler = list.length;
+                        zufall();
+                    }
+
+                };
+
+            }else {
+                fehlerbeimEingeben();
+            };
+        }else if(buch1 == "Adeamus-Legamus"){
+            for(let key of Object.keys(lateinws)){
+                if (lateinws[key].name === wortschatz2[1]){
+                    zweitezahl = key;
+                };
+            };
+            if(wortschatz3[0] == "WS" && wortschatz3[1] != "WS" && wortschatz2[0] >= 1 && wortschatz2[0] <= 68 && zweitezahl != undefined){
+                for(let i = wortschatz2[0]; i <= zweitezahl; i++){
+                    list.push(...(lateinws[i].slice()));
+                    console.log(list);
+                };
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+
+            }else{
+                fehlerbeimEingeben();
+            };
+            
+        }else if(buch1 == "Adeamus,Legamus" || buch1 == "Adeamus, Legamus"){
+            let zahlen = [];
+            let string = [];
+
+            for(let item of wortschatz4){
+                if (!isNaN(item) && item.trim() != ""){
+                    zahlen.push(item);
+                    console.log(zahlen);
+                }else{
+                    string.push(item);
+                    console.log(string);
+                };
+            };
+
+            if (zahlen.length != 0 && string.length != 0){
+                for(let i = 0; i < zahlen.length; i++){
+                    if (zahlen[i] >= 1 && zahlen[i] <= 68){
+                        console.log(lateinws[zahlen[i]]);
+                        list.push(...(lateinws[zahlen[i]].slice()));
+                    };
+                };
+
+                for(let i = 0; i < string.length; i++){
+                    for(let key of Object.keys(lateinws)){
+                        if(lateinws[key].name === string[i] && lateinws[key].name != undefined){
+                            console.log(key)
+                            list.push(...(lateinws[key].slice()));
+                        };
+                    };
+                };
+                
+                console.log(list)
+                anzahlderwoerter = list.length;
+                zähler = list.length;
+                zufall();
+
+                
+            }else {
+                fehlerbeimEingeben()
+            };
+        
+        }else {
+            fehlerbeimEingeben();
+        };
+    }else {
+        fehlerbeimEingeben();
+    };
+
+
+};
+
+function limmer(){
+    
+    inpst = stammformo.value;
+    inpdl = deutschlo.value;
+    anzahlderwoerter -= 1;
+    vocabularyListe = document.getElementById("vocabularyList");
+    vocabularyListe.innerHTML += `<li style = " display: flex; height: 20px; margin-bottom: 6px;">${list[zufallszahl].latein} - ${inpst} - ${inpdl} </li>`;
+    richtigevocabularyListe = document.getElementById("richtigevocabularyList");
+    richtigevocabularyListe.innerHTML += `<li style = " display: flex; height: 20px; margin-bottom: 6px;">${list[zufallszahl].latein} - ${list[zufallszahl].stammformen} - ${list[zufallszahl].bedeutung} <button type = "button" data-index = "${e}" id = "buttoncounter" + index onclick="counter(this)">X</button> </li>`;
+    e+=1;
+    list2.push({latein: list[zufallszahl].latein, stammformen: list[zufallszahl].stammformen, bedeutung: list[zufallszahl].bedeutung},);
+    list.splice(indz, 1);
+
+
+    console.log(anzahlderwoerter);
+
+    stammfor = document.getElementById("stammform");
+    deutsch = document.getElementById("deutschl");
+    stammforo = document.getElementById("stammformo");
+    deutscho = document.getElementById("deutschlo");
+    console.log(inpst);
+    console.log(inpdl);
+    console.log(wort);
+    console.log(list);
+    document.getElementById("stammformo").value = "";
+    document.getElementById("deutschlo").value = "";
+    zufall();
+
+};
+
+
+function zufall(){
+    document.getElementById("lat").hidden = false;
+    document.getElementById("wortanzahl").hidden = false;
+    document.getElementById("wortanzahl").textContent = "Anzahl der Vokabeln: " + anzahlderwoerter;
+    if (list.length == 0){
+        document.getElementById("lat").textContent = "Verbessere nun die Vokabeln";
+        document.getElementById("wortanzahl").textContent = "Richtige Vokabeln "+ zähler;
+         document.getElementById("stammformo").hidden = true;
+        document.getElementById("deutschlo").hidden = true;
+        document.getElementById("buttooko").hidden = true;
+        document.getElementById("vocabularyList").hidden = false;
+        document.getElementById("richtigevocabularyList").hidden = false;
+
+
+    }else{
+        zufallszahl = Math.floor(Math.random() * list.length);
+        indz = zufallszahl;
+        console.log(zufallszahl);
+        console.log(list);
+        wort = list[zufallszahl].latein;
+        console.log(wort)
+        document.getElementById("lat").textContent = wort;
+    }
+};
+
+
+function counter(btn){
+    zähler -= 1;
+    console.log(btn.dataset.index);
+    let index = Number(btn.dataset.index);
+    console.log(list2);
+    list3.push(list2[index]);
+    console.log(list3);
+    console.log(zähler);
+    console.log(btn);
+    btn.hidden = true;
+    document.getElementById("wortanzahl").textContent = "Richtige Vokabeln " + zähler;
+    document.getElementById("falscheVokabelwiederholen").hidden = false;
+};
+
+function wiederholen(){
+    list = list3.slice();
+    list2 = [];
+    list3 = [];
+    e = 0;
+
+    document.getElementById("vocabularyList").innerHTML = "";
+    document.getElementById("richtigevocabularyList").innerHTML = "";
+
+    document.getElementById("falscheVokabelwiederholen").hidden = true;
+    document.getElementById("vocabularyList").hidden = true;
+    document.getElementById("richtigevocabularyList").hidden = true;
+    document.getElementById("stammformo").hidden = false;
+    document.getElementById("deutschlo").hidden = false;
+    document.getElementById("buttooko").hidden = false;
+    document.getElementById("lat").hidden = false;
+    document.getElementById("wortanzahl").hidden = false;
+
+    anzahlderwoerter = list.length;
+    zähler = list.length;
+    zufall();
+
+};
+
+
+function zurück(){
+    fach.value = "";
+    buch.value = "";
+    wortschatz.value = "";
+
+    list = [];
+    list2 = [];
+    list3 = [];
+    e = 0;
+
+    document.getElementById("vocabularyList").innerHTML = "";
+    document.getElementById("richtigevocabularyList").innerHTML = "";
+
+
+    document.getElementById("falscheVokabelwiederholen").hidden = true;
+    document.getElementById("vocabularyList").hidden = true;
+    document.getElementById("richtigevocabularyList").hidden = true;
+    document.getElementById("buttzurück").hidden = true;
+    document.getElementById("lat").hidden = true;
+    document.getElementById("wortanzahl").hidden = true;
+    document.getElementById("stammformo").hidden = true;
+    document.getElementById("deutschlo").hidden = true;
+    document.getElementById("buttooko").hidden = true;
+    document.getElementById("fach").hidden = false;
+    document.getElementById("buch").hidden = false;
+    document.getElementById("wortschatz").hidden = false;
+    document.getElementById("ok").hidden = false;
+
+};
+
+
+function fehlerbeimEingeben(){
+    document.getElementById("fach").hidden = false;
+    document.getElementById("buch").hidden = false;
+    document.getElementById("wortschatz").hidden = false;
+    document.getElementById("ok").hidden = false;
+    document.getElementById("stammformo").hidden = true;
+    document.getElementById("deutschlo").hidden = true;
+    document.getElementById("buttooko").hidden = true;
+    document.getElementById("buttzurück").hidden = true;
+    document.getElementById("lat").hidden = true;
+    document.getElementById("wortanzahl").hidden = true;
+}
