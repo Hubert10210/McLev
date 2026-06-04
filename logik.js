@@ -1,5 +1,5 @@
 window.onload = setup;
-
+/*
 let lateinws1 = [
     {latein: "familia", stammformen: "f", bedeutung: "die Familie"},
     {latein: "servus",stammformen: "m", bedeutung: "der Diener, der Sklave"},
@@ -624,10 +624,7 @@ let lateinws61 = [
   { latein: "gloriae causa", stammformen: "", bedeutung: "um der Ehre willen, wegen der Ehre" },
   { latein: "bono animo esse", stammformen: "", bedeutung: "guten Mutes sein" }
 ];
-
-
-
-
+*/
 
 
 let PhaedrusProlog = [
@@ -646,38 +643,51 @@ PhaedrusProlog.name = "PhaedrusProlog";
 PhaedrusDerWolfunddasLamm.name = "PhaedrusDerWolfunddasLamm"
 
 
+let lateinvoc;
+let lateinws;
 
-let lateinws = {
-    1: lateinws1,
-    2: lateinws2,
-    25: lateinws25,
-    40: lateinws40,
-    41: lateinws41,
-    42: lateinws42,
-    43: lateinws43,
-    44: lateinws44,
-    45: lateinws45,
-    46: lateinws46,
-    47: lateinws47,
-    48: lateinws48,
-    49: lateinws49,
-    50: lateinws50,
-    51: lateinws51,
-    52: lateinws52,
-    53: lateinws53,
-    54: lateinws54,
-    55: lateinws55,
-    56: lateinws56,
-    57: lateinws57,
-    58: lateinws58,
-    59: lateinws59,
-    60: lateinws60,
-    61: lateinws61,
+async function loadVoc() {
+    try {
+        let res = await fetch("latein.json");
+        lateinvoc = await res.json();
 
-    69: PhaedrusProlog,
-    70: PhaedrusDerWolfunddasLamm
+        lateinws = {
+            1: lateinvoc.lateinws1,
+            2: lateinvoc.lateinws2,
+            25: lateinvoc.lateinws25,
+            40: lateinvoc.lateinws40,
+            41: lateinvoc.lateinws41,
+            42: lateinvoc.lateinws42,
+            43: lateinvoc.lateinws43,
+            44: lateinvoc.lateinws44,
+            45: lateinvoc.lateinws45,
+            46: lateinvoc.lateinws46,
+            47: lateinvoc.lateinws47,
+            48: lateinvoc.lateinws48,
+            49: lateinvoc.lateinws49,
+            50: lateinvoc.lateinws50,
+            51: lateinvoc.lateinws51,
+            52: lateinvoc.lateinws52,
+            53: lateinvoc.lateinws53,
+            54: lateinvoc.lateinws54,
+            55: lateinvoc.lateinws55,
+            56: lateinvoc.lateinws56,
+            57: lateinvoc.lateinws57,
+            58: lateinvoc.lateinws58,
+            59: lateinvoc.lateinws59,
+            60: lateinvoc.lateinws60,
+            61: lateinvoc.lateinws61,
+
+            69: PhaedrusProlog,
+            70: PhaedrusDerWolfunddasLamm
+        }
+
+    } catch (err) {
+        console.error("Error:", err);
+    }
 }
 
+loadVoc();
 
 
 let list = [];
