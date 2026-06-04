@@ -139,30 +139,10 @@ function Vocabulary (){
         document.getElementById("buttzurück").hidden = false;
 
         if (buch1 == "Adeamus"){
-            if (wortschatz1 === "WS1"){
-                list = lateinws1.slice();
-                anzahlderwoerter = list.length;
-                zähler = list.length;
-                zufall();
-
-            }else if (wortschatz1 === "WS2"){
-                list = lateinws2.slice();
-                anzahlderwoerter = list.length;
-                zähler = list.length;
-                zufall();
-             
-            }else if (wortschatz1 === "WS25"){
-                list = lateinws25.slice();
-                anzahlderwoerter = list.length;
-                zähler = list.length;
-                zufall();
-
-
-
-            }else if(wortschatz2[0] < wortschatz2[1] && wortschatz3[0] == "WS" && wortschatz3[1] == "WS" && wortschatz2[0] >= 1 && wortschatz2[1] <= 68 && wortschatz2[0] <= 68 && wortschatz2[1] >= 1){
+            if(wortschatz2[0] < wortschatz2[1] && wortschatz3[0] == "WS" && wortschatz3[1] == "WS" && wortschatz2[0] >= 1 && wortschatz2[1] <= 68 && wortschatz2[0] <= 68 && wortschatz2[1] >= 1){
                 for(let i = wortschatz2[0]; i <= wortschatz2[1]; i++){
                     list.push(...(lateinws[i].slice()));
-                    console.log(list);
+                    console.log("Moin");
                 };
                 anzahlderwoerter = list.length;
                 zähler = list.length;
