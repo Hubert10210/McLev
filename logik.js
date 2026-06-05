@@ -1,20 +1,6 @@
 window.onload = setup;
 
 
-let PhaedrusProlog = [
-    {latein: "versus", stammformen: "-us m", bedeutung: "Gedichtzeile, Vers"},
-    {latein: "dos", stammformen: "dotis f", bedeutung: "Mitgift; Gabe, Talent, Nutzen"},
-    {latein: "prudens", stammformen: "-entis", bedeutung: "klug, verständig"},
-    {latein: "tantum", stammformen: "(Adv.)", bedeutung: "so viel, so sehr; nur"}
-]
-
-let PhaedrusDerWolfunddasLamm = [
-    {latein: "lumpus", stammformen: "-i m", bedeutung: "Wolf"}
-]
-
-
-PhaedrusProlog.name = "PhaedrusProlog";
-PhaedrusDerWolfunddasLamm.name = "PhaedrusDerWolfunddasLamm"
 
 
 let lateinvoc;
@@ -52,8 +38,8 @@ async function loadVoc() {
             60: lateinvoc.lateinws60,
             61: lateinvoc.lateinws61,
 
-            69: PhaedrusProlog,
-            70: PhaedrusDerWolfunddasLamm
+            69: lateinvoc.PhaedrusProlog,
+            70: lateinvoc.PhaedrusDerWolfunddasLamm
         }
 
     } catch (err) {
@@ -61,7 +47,15 @@ async function loadVoc() {
     }
 }
 
-loadVoc();
+async function main() {
+    await loadVoc();
+    let PhaedrusProlog = lateinvoc.PhaedrusProlog;
+    PhaedrusProlog.name = "PhaedrusProlog";
+    let PhaedrusDerWolfunddasLamm = lateinvoc.PhaedrusDerWolfunddasLamm;
+    PhaedrusDerWolfunddasLamm.name = "PhaedrusDerWolfunddasLamm";
+}
+
+main();
 
 
 let list = [];
@@ -177,18 +171,28 @@ function Vocabulary (){
             if (wortschatz3.includes("WS")){
                 y = 1
             };
-            if (wortschatz1 === "Phaedrus:Prolog"){
-                list = PhaedrusProlog.slice();
-                anzahlderwoerter = list.length;
-                zähler = list.length;
-                zufall();
-            }else if (wortschatz1 === "Phaedrus:Der Wolf und das Lamm"){
-                list = PhaedrusDerWolfunddasLamm.slice();
-                anzahlderwoerter = list.length;
-                zähler = list.length;
-                zufall();
-            }else if (y != 1){
-                if (wortschatz1.includes(",") == false){
+            
+            if (y != 1){
+                if (wortschatz1.includes("-") == false){
+
+                    for(let i = 0; i <= wortschatz4.length; i++){
+                        for(let key of Object.keys(lateinws)){
+                            if(lateinws[key].name === wortschatz4[i] && lateinws[key].name != undefined){
+                                console.log(key)
+                                list.push(...(lateinws[key].slice()));
+                            };
+                        };
+                    };
+
+                    if (list.length == 0){
+                        fehlerbeimEingeben();
+                    }else{
+                        anzahlderwoerter = list.length;
+                        zähler = list.length;
+                        zufall();
+                    };
+
+                }else{
                     erstezahl = 0;
                     zweitezahl = 0;
                     for(let key of Object.keys(lateinws)){
@@ -209,29 +213,9 @@ function Vocabulary (){
                         zufall();
                     }else {
                         fehlerbeimEingeben();
-                    };
-                }else{
-                    for(let i = 0; i <= wortschatz4.length; i++){
-                        for(let key of Object.keys(lateinws)){
-                            if(lateinws[key].name === wortschatz4[i] && lateinws[key].name != undefined){
-                                console.log(key)
-                                list.push(...(lateinws[key].slice()));
-                            };
-                        };
-                    };
 
-                    if (list.length == 0){
-                        fehlerbeimEingeben();
-                    }else{
-                        anzahlderwoerter = list.length;
-                        zähler = list.length;
-                        zufall();
-                    }
-
+                    };
                 };
-
-            }else {
-                fehlerbeimEingeben();
             };
         }else if(buch1 == "Adeamus-Legamus"){
             for(let key of Object.keys(lateinws)){
@@ -412,20 +396,10 @@ function zurück(){
     document.getElementById("vocabularyList").innerHTML = "";
     document.getElementById("richtigevocabularyList").innerHTML = "";
 
-
+    fehlerbeimEingeben();
     document.getElementById("falscheVokabelwiederholen").hidden = true;
     document.getElementById("vocabularyList").hidden = true;
     document.getElementById("richtigevocabularyList").hidden = true;
-    document.getElementById("buttzurück").hidden = true;
-    document.getElementById("lat").hidden = true;
-    document.getElementById("wortanzahl").hidden = true;
-    document.getElementById("stammformo").hidden = true;
-    document.getElementById("deutschlo").hidden = true;
-    document.getElementById("buttooko").hidden = true;
-    document.getElementById("fach").hidden = false;
-    document.getElementById("buch").hidden = false;
-    document.getElementById("wortschatz").hidden = false;
-    document.getElementById("ok").hidden = false;
 
 };
 

@@ -2797,5 +2797,35 @@
       "stammformen": "",
       "bedeutung": "guten Mutes sein"
     }
+  ],
+  "PhaedrusProlog": [
+    {
+      "latein": "versus",
+      "stammformen": "-us m",
+      "bedeutung": "Gedichtzeile, Vers"
+    },
+    {
+      "latein": "dos", 
+      "stammformen": "dotis f", 
+      "bedeutung": "Mitgift; Gabe, Talent, Nutzen"
+    },
+    {
+      "latein": "prudens",
+      "stammformen": "-entis",
+      "bedeutung": "klug, verständig"
+    },
+    {
+      "latein": "tantum",
+      "stammformen": "(Adv.)",
+      "bedeutung": "so viel, so sehr; nur"
+    }
+  ],
+  "PhaedrusDerWolfunddasLamm": [
+    {
+      "latein": "lumpus",
+      "stammformen": "-i m",
+      "bedeutung": "Wolf"
+    }
   ]
+
 }
