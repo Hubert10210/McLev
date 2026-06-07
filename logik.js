@@ -37,7 +37,13 @@ async function loadVoc() {
             59: lateinvoc.lateinws59,
             60: lateinvoc.lateinws60,
             61: lateinvoc.lateinws61,
-
+            62: lateinvoc.lateinws62,
+            63: lateinvoc.lateinws63,
+            64: lateinvoc.lateinws64,
+            65: lateinvoc.lateinws65,
+            66: lateinvoc.lateinws66,
+            67: lateinvoc.lateinws67,
+            68: lateinvoc.lateinws68,
             69: lateinvoc.PhaedrusProlog,
             70: lateinvoc.PhaedrusDerWolfunddasLamm
         }
