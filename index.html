@@ -3,24 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vocabeltrainer</title>
+    <title>Vocabularytrainer</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body style = "display: flex; flex-direction: column; align-items: center; margin: 0px; height: 100vh;">
 
 
-    <div style = "display: flex; gap: 8px; flex-direction: column; align-items: center;">
-        <div style = "display: flex; flex-direction: row; align-items: center; gap: 8px;">
-            <h1>Vocabeltrainer</h1>
+    <div id="container-1">
+        <div id="heading">
+            <h1>Vocabularytrainer</h1>
             <button id = "buttzurück" onclick = "zurück()">Zurück</button>
         </div>
 
-        <div style = "display: flex; flex-direction: row; align-items: center; gap: 8px; white-space: nowrap;">
+        <div id="zeile-1">
             <h3 hidden id = "lat"></h3>
             <h3 hidden id = "wortanzahl"></h3>
             <button id = "falscheVokabelwiederholen" onclick = "wiederholen()">Falsche Vokabel wiederholen</button>
         </div>
 
-        <div style = "display: flex; align-items: center; gap: 8px; flex-direction: column; width: 100px;">
+        <div id="vokabel-auswahl">
             <input type = "text" placeholder="Fach (Latein, Engilsch)" id = "fach">
             <input type = "text" placeholder="Buch (z.B. Adeamus, G1)" id = "buch">
             <input type = "text" placeholder="Wortschatz (WS1 Unit1)" id = "wortschatz">
@@ -29,21 +30,21 @@
 
     </div>
 
-    <div style = "display: flex; flex-direction: column; width: 100px; align-items: center;">
-        <p style = "display: flex; flex-direction: column; gap: 8px;" id = "stammform">
+    <div id="container-2">
+        <p class="abfrage-zeile" id = "stammform">
             <input type = "text" placeholder="Stammformen" id = "stammformo">
         </p>
-        <p style = "display: flex; flex-direction: column; gap: 8px;" id = "deutschl">
+        <p class="abfrage-zeile" id = "deutschl">
             <input type = "text" placeholder="Deutsche bedeutung" id = "deutschlo">
         </p>
-        <p style = "display: flex; flex-direction: column; gap: 8px;" id = "butook">
+        <p class="abfrage-zeile" id = "butook">
             <button type = "button" id = buttooko onclick="limmer()">Ok</button>
         </p>
     </div>
         
 
          
-    <div style = "display: flex; gap: 8px; align-items: center; white-space: nowrap;">
+    <div id="container-3">
         <ul id = "vocabularyList"></ul> 
         <ul id = "richtigevocabularyList"></ul>
     </div>
