@@ -14,6 +14,28 @@ async function loadVoc() {
         lateinws = {
             1: lateinvoc.lateinws1,
             2: lateinvoc.lateinws2,
+            3: lateinvoc.lateinws3,
+            4: lateinvoc.lateinws4,
+            5: lateinvoc.lateinws5,
+            6: lateinvoc.lateinws6,
+            7: lateinvoc.lateinws7,
+            8: lateinvoc.lateinws8,
+            9: lateinvoc.lateinws9,
+            10: lateinvoc.lateinws10,
+            11: lateinvoc.lateinws11,
+            12: lateinvoc.lateinws12,
+            13: lateinvoc.lateinws13,
+            14: lateinvoc.lateinws14,
+            15: lateinvoc.lateinws15,
+            16: lateinvoc.lateinws16,
+            17: lateinvoc.lateinws17,
+            18: lateinvoc.lateinws18,
+            19: lateinvoc.lateinws19,
+            20: lateinvoc.lateinws20,
+            21: lateinvoc.lateinws21,
+            22: lateinvoc.lateinws22,
+            23: lateinvoc.lateinws23,
+            24: lateinvoc.lateinws24,
             25: lateinvoc.lateinws25,
             40: lateinvoc.lateinws40,
             41: lateinvoc.lateinws41,
@@ -331,7 +353,7 @@ function zufall(){
     if (list.length == 0){
         document.getElementById("lat").textContent = "Verbessere nun die Vokabeln";
         document.getElementById("wortanzahl").textContent = "Richtige Vokabeln "+ zähler;
-         document.getElementById("stammformo").hidden = true;
+        document.getElementById("stammformo").hidden = true;
         document.getElementById("deutschlo").hidden = true;
         document.getElementById("buttooko").hidden = true;
         document.getElementById("vocabularyList").hidden = false;
