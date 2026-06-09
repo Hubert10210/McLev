@@ -3089,6 +3089,2169 @@
     }
   ],
   "lateinws25": [],
+  "lateinws26": [
+    {
+      "latein": "auctoritas",
+      "stammformen": "auctoritatis f",
+      "bedeutung": "das Ansehen, der Einfluss"
+    },
+    {
+      "latein": "hostis",
+      "stammformen": "hostis m/f",
+      "bedeutung": "der (die) (Landes-)Feind(in)"
+    },
+    {
+      "latein": "gerere",
+      "stammformen": "gero, gessi, gestum",
+      "bedeutung": "tragen, führen, ausführen"
+    },
+    {
+      "latein": "negotia gerere",
+      "stammformen": "",
+      "bedeutung": "seinen Geschäften nachgehen"
+    },
+    {
+      "latein": "bellum gerere (cum)",
+      "stammformen": "",
+      "bedeutung": "Krieg führen (mit)"
+    },
+    {
+      "latein": "vestem gerere",
+      "stammformen": "",
+      "bedeutung": "ein Kleidungsstück tragen"
+    },
+    {
+      "latein": "se gerere",
+      "stammformen": "",
+      "bedeutung": "sich benehmen"
+    },
+    {
+      "latein": "alius",
+      "stammformen": "-a, -um",
+      "bedeutung": "ein anderer"
+    },
+    {
+      "latein": "alii ... alii",
+      "stammformen": "",
+      "bedeutung": "die einen ... die anderen"
+    },
+    {
+      "latein": "miles",
+      "stammformen": "militis m",
+      "bedeutung": "der Soldat"
+    },
+    {
+      "latein": "res",
+      "stammformen": "rei f",
+      "bedeutung": "die Sache, das Ding, die Angelegenheit"
+    },
+    {
+      "latein": "dies",
+      "stammformen": "diei m",
+      "bedeutung": "der Tag"
+    },
+    {
+      "latein": "acies",
+      "stammformen": "aciei f",
+      "bedeutung": "die Schärfe, der Scharfsinn, die Schlachtreihe"
+    },
+    {
+      "latein": "acies mentis",
+      "stammformen": "",
+      "bedeutung": "der Scharfsinn, die Aufmerksamkeit"
+    },
+    {
+      "latein": "aciem instituere",
+      "stammformen": "",
+      "bedeutung": "eine Schlachtreihe aufstellen"
+    },
+    {
+      "latein": "fides",
+      "stammformen": "fidei f",
+      "bedeutung": "das Vertrauen, die Treue, die Zuverlässigkeit"
+    },
+    {
+      "latein": "fidem dare",
+      "stammformen": "",
+      "bedeutung": "sein Wort geben"
+    },
+    {
+      "latein": "fidem habere",
+      "stammformen": "",
+      "bedeutung": "Vertrauen schenken"
+    },
+    {
+      "latein": "exercitus",
+      "stammformen": "-us m",
+      "bedeutung": "das Heer"
+    },
+    {
+      "latein": "manus",
+      "stammformen": "-us f",
+      "bedeutung": "die Hand, die Schar"
+    },
+    {
+      "latein": "domus",
+      "stammformen": "-us f",
+      "bedeutung": "das Haus"
+    },
+    {
+      "latein": "domo",
+      "stammformen": "",
+      "bedeutung": "von zu Hause weg"
+    },
+    {
+      "latein": "vultus",
+      "stammformen": "-us m",
+      "bedeutung": "das Gesicht, die Miene, der Gesichtsausdruck; Pl. die Gesichtszüge"
+    },
+    {
+      "latein": "cultus",
+      "stammformen": "-us m",
+      "bedeutung": "die Pflege, die Verehrung"
+    },
+    {
+      "latein": "brevis",
+      "stammformen": "-e",
+      "bedeutung": "kurz"
+    },
+    {
+      "latein": "brevi (tempore)",
+      "stammformen": "",
+      "bedeutung": "in Kürze, in kurzer Zeit"
+    },
+    {
+      "latein": "fama",
+      "stammformen": "-ae f",
+      "bedeutung": "das Gerücht, der (gute/schlechte) Ruf"
+    },
+    {
+      "latein": "tempestas",
+      "stammformen": "tempestatis f",
+      "bedeutung": "das Unwetter, das Gewitter"
+    },
+    {
+      "latein": "orare",
+      "stammformen": "oro",
+      "bedeutung": "beten (zu), bitten"
+    },
+    {
+      "latein": "indicare",
+      "stammformen": "indico",
+      "bedeutung": "anzeigen, melden, verraten"
+    },
+    {
+      "latein": "creare",
+      "stammformen": "creo",
+      "bedeutung": "erschaffen, wählen"
+    },
+    {
+      "latein": "lex",
+      "stammformen": "legis f",
+      "bedeutung": "das Gesetz"
+    },
+    {
+      "latein": "filia",
+      "stammformen": "-ae f",
+      "bedeutung": "die Tochter"
+    },
+    {
+      "latein": "sperare",
+      "stammformen": "spero",
+      "bedeutung": "hoffen, erhoffen"
+    },
+    {
+      "latein": "pacem facere",
+      "stammformen": "",
+      "bedeutung": "Frieden schließen"
+    }
+  ],
+  "lateinws27": [
+    {
+      "latein": "regere",
+      "stammformen": "rego, rexi",
+      "bedeutung": "lenken, leiten, beherrschen"
+    },
+    {
+      "latein": "publicus",
+      "stammformen": "-a, -um",
+      "bedeutung": "öffentlich, staatlich"
+    },
+    {
+      "latein": "civis",
+      "stammformen": "civis m/f, Gen. Pl. civium",
+      "bedeutung": "der Bürger, die Bürgerin"
+    },
+    {
+      "latein": "opprimere",
+      "stammformen": "opprimo, oppressi",
+      "bedeutung": "überfallen, überwältigen, unterdrücken"
+    },
+    {
+      "latein": "pellere",
+      "stammformen": "pello, pepuli",
+      "bedeutung": "schlagen, stoßen, treiben, vertreiben"
+    },
+    {
+      "latein": "postea",
+      "stammformen": "",
+      "bedeutung": "nachher, später"
+    },
+    {
+      "latein": "numquam",
+      "stammformen": "",
+      "bedeutung": "niemals"
+    },
+    {
+      "latein": "adiuvare",
+      "stammformen": "adiuvo, adiuvi (m. Akk.)",
+      "bedeutung": "helfen, unterstützen"
+    },
+    {
+      "latein": "te adiuvo",
+      "stammformen": "",
+      "bedeutung": "ich helfe dir, ich unterstütze dich"
+    },
+    {
+      "latein": "fallere",
+      "stammformen": "fallo, fefelli",
+      "bedeutung": "täuschen, unbemerkt bleiben"
+    },
+    {
+      "latein": "res publica",
+      "stammformen": "rei publicae f",
+      "bedeutung": "der Staat, die Republik"
+    },
+    {
+      "latein": "priusquam",
+      "stammformen": "",
+      "bedeutung": "ehe, bevor"
+    },
+    {
+      "latein": "vel",
+      "stammformen": "",
+      "bedeutung": "oder"
+    },
+    {
+      "latein": "vel ... vel",
+      "stammformen": "",
+      "bedeutung": "entweder ... oder"
+    },
+    {
+      "latein": "stultus",
+      "stammformen": "-a, -um",
+      "bedeutung": "dumm"
+    },
+    {
+      "latein": "insidiae",
+      "stammformen": "-arum f Pl.",
+      "bedeutung": "der Hinterhalt, die Falle"
+    },
+    {
+      "latein": "promittere",
+      "stammformen": "promitto, promisi",
+      "bedeutung": "versprechen"
+    },
+    {
+      "latein": "fere",
+      "stammformen": "",
+      "bedeutung": "fast, ungefähr"
+    },
+    {
+      "latein": "orbis",
+      "stammformen": "orbis m, Gen. Pl. orbium",
+      "bedeutung": "der Kreis, die Scheibe"
+    },
+    {
+      "latein": "orbis terrarum",
+      "stammformen": "",
+      "bedeutung": "der Erdkreis"
+    },
+    {
+      "latein": "velut",
+      "stammformen": "",
+      "bedeutung": "wie, wie zum Beispiel"
+    },
+    {
+      "latein": "ignoscere",
+      "stammformen": "ignosco, ignovi",
+      "bedeutung": "verzeihen"
+    },
+    {
+      "latein": "modo",
+      "stammformen": "",
+      "bedeutung": "nur, eben noch, gerade"
+    },
+    {
+      "latein": "servitus",
+      "stammformen": "servitutis f",
+      "bedeutung": "die Sklaverei, die Knechtschaft"
+    },
+    {
+      "latein": "exilium",
+      "stammformen": "-i n",
+      "bedeutung": "die Verbannung, das Exil"
+    },
+    {
+      "latein": "orationem habere",
+      "stammformen": "",
+      "bedeutung": "eine Rede halten"
+    }
+  ],
+  "lateinws28": [
+    {
+      "latein": "magistratus",
+      "stammformen": "magistratus m",
+      "bedeutung": "das Amt, der Beamte"
+    },
+    {
+      "latein": "moenia",
+      "stammformen": "moenium n Pl.",
+      "bedeutung": "die Mauer(n), Stadtmauer(n)"
+    },
+    {
+      "latein": "fortis",
+      "stammformen": "forte",
+      "bedeutung": "tapfer, stark, tatkräftig"
+    },
+    {
+      "latein": "honestus",
+      "stammformen": "-a, -um",
+      "bedeutung": "ehrenhaft, angesehen"
+    },
+    {
+      "latein": "neque / nec",
+      "stammformen": "",
+      "bedeutung": "und nicht, auch nicht"
+    },
+    {
+      "latein": "neque ... neque ... / nec ... nec ...",
+      "stammformen": "",
+      "bedeutung": "weder ... noch ..."
+    },
+    {
+      "latein": "nobilis",
+      "stammformen": "nobile",
+      "bedeutung": "vornehm, adelig, berühmt"
+    },
+    {
+      "latein": "exstinguere",
+      "stammformen": "exstinguo, exstinxi, exstinctum",
+      "bedeutung": "löschen, auslöschen, vernichten"
+    },
+    {
+      "latein": "parere",
+      "stammformen": "pario, peperi, partum",
+      "bedeutung": "zur Welt bringen, erzeugen, erwerben"
+    },
+    {
+      "latein": "flectere",
+      "stammformen": "flecto, flexi, flexum",
+      "bedeutung": "biegen, beugen, umstimmen"
+    },
+    {
+      "latein": "hic",
+      "stammformen": "haec, hoc",
+      "bedeutung": "dieser (hier), diese (hier), dieses (hier)"
+    },
+    {
+      "latein": "ille",
+      "stammformen": "illa, illud",
+      "bedeutung": "jener, jene, jenes; dieser (dort)"
+    },
+    {
+      "latein": "Hercules ille",
+      "stammformen": "",
+      "bedeutung": "der berühmte Herkules"
+    },
+    {
+      "latein": "mandare",
+      "stammformen": "mando",
+      "bedeutung": "übergeben, anvertrauen, auftragen"
+    },
+    {
+      "latein": "dux",
+      "stammformen": "ducis m/f",
+      "bedeutung": "der Anführer, die Anführerin"
+    },
+    {
+      "latein": "alter",
+      "stammformen": "altera, alterum, Gen. alterius, Dat. alteri",
+      "bedeutung": "der eine (von beiden), der andere"
+    },
+    {
+      "latein": "alter ... alter",
+      "stammformen": "",
+      "bedeutung": "der eine ... der andere ..."
+    },
+    {
+      "latein": "nuntiare",
+      "stammformen": "nuntio",
+      "bedeutung": "melden, mitteilen"
+    },
+    {
+      "latein": "femina",
+      "stammformen": "-ae f",
+      "bedeutung": "die Frau"
+    },
+    {
+      "latein": "castra",
+      "stammformen": "castrorum n Pl.",
+      "bedeutung": "das Lager, das Kriegslager"
+    },
+    {
+      "latein": "castra ponere / movere",
+      "stammformen": "",
+      "bedeutung": "das Lager aufschlagen / abbrechen"
+    },
+    {
+      "latein": "comes",
+      "stammformen": "comitis m/f",
+      "bedeutung": "der Gefährte, die Gefährtin, der Begleiter, die Begleiterin"
+    },
+    {
+      "latein": "nisi",
+      "stammformen": "",
+      "bedeutung": "wenn nicht, außer"
+    },
+    {
+      "latein": "non ... nisi",
+      "stammformen": "",
+      "bedeutung": "nur ... wenn"
+    },
+    {
+      "latein": "Non redibo nisi mihi aderis",
+      "stammformen": "",
+      "bedeutung": "Ich werde nur zurückkehren, wenn du mir hilfst."
+    },
+    {
+      "latein": "an",
+      "stammformen": "",
+      "bedeutung": "oder (im Fragesatz)"
+    },
+    {
+      "latein": "intra",
+      "stammformen": "(m. Akk.)",
+      "bedeutung": "innerhalb"
+    },
+    {
+      "latein": "odium",
+      "stammformen": "-i n",
+      "bedeutung": "der Hass"
+    }
+  ],
+  "lateinws29": [
+    {
+      "latein": "numerus",
+      "stammformen": "-i m",
+      "bedeutung": "die Zahl, die Anzahl"
+    },
+    {
+      "latein": "pugna",
+      "stammformen": "-ae f",
+      "bedeutung": "der Kampf, die Schlacht"
+    },
+    {
+      "latein": "magnitudo",
+      "stammformen": "magnitudinis f",
+      "bedeutung": "die Größe, die Erhabenheit"
+    },
+    {
+      "latein": "tacitus",
+      "stammformen": "-a, -um",
+      "bedeutung": "still, schweigend"
+    },
+    {
+      "latein": "fuga",
+      "stammformen": "-ae f",
+      "bedeutung": "die Flucht"
+    },
+    {
+      "latein": "in fugam vertere",
+      "stammformen": "",
+      "bedeutung": "in die Flucht schlagen"
+    },
+    {
+      "latein": "litus",
+      "stammformen": "litoris n",
+      "bedeutung": "die Küste, der Strand"
+    },
+    {
+      "latein": "salvus",
+      "stammformen": "-a, -um",
+      "bedeutung": "heil, unversehrt"
+    },
+    {
+      "latein": "laetus",
+      "stammformen": "-a, -um",
+      "bedeutung": "froh, fröhlich"
+    },
+    {
+      "latein": "navis",
+      "stammformen": "navis f, Gen. Pl. navium",
+      "bedeutung": "das Schiff"
+    },
+    {
+      "latein": "se navi credere",
+      "stammformen": "",
+      "bedeutung": "sich einem Schiff anvertrauen"
+    },
+    {
+      "latein": "centum",
+      "stammformen": "",
+      "bedeutung": "hundert"
+    },
+    {
+      "latein": "pervenire",
+      "stammformen": "pervenio, perveni",
+      "bedeutung": "kommen zu/nach, gelangen"
+    },
+    {
+      "latein": "somnus",
+      "stammformen": "-i m",
+      "bedeutung": "der Schlaf"
+    },
+    {
+      "latein": "consilium",
+      "stammformen": "-i n",
+      "bedeutung": "der Rat, der Ratschlag, der Plan, der Beschluss"
+    },
+    {
+      "latein": "consilium capere",
+      "stammformen": "",
+      "bedeutung": "einen Plan fassen"
+    },
+    {
+      "latein": "transire",
+      "stammformen": "transeo, transii (m. Akk.)",
+      "bedeutung": "hinübergehen, überqueren, überschreiten"
+    },
+    {
+      "latein": "Alpes transeo",
+      "stammformen": "",
+      "bedeutung": "ich überquere die Alpen"
+    },
+    {
+      "latein": "colligere",
+      "stammformen": "colligo, collegi",
+      "bedeutung": "sammeln"
+    },
+    {
+      "latein": "eques",
+      "stammformen": "equitis m",
+      "bedeutung": "der Reiter, der Ritter"
+    },
+    {
+      "latein": "utilis",
+      "stammformen": "utile",
+      "bedeutung": "nützlich"
+    },
+    {
+      "latein": "onus",
+      "stammformen": "oneris n",
+      "bedeutung": "die Last"
+    },
+    {
+      "latein": "portare",
+      "stammformen": "porto",
+      "bedeutung": "tragen, bringen"
+    },
+    {
+      "latein": "ubi",
+      "stammformen": "(Subj.)",
+      "bedeutung": "sobald"
+    },
+    {
+      "latein": "Amicus mihi auxilium negat.",
+      "stammformen": "",
+      "bedeutung": "Der Freund verweigert mir Hilfe."
+    },
+    {
+      "latein": "superare",
+      "stammformen": "(m. Abl.)",
+      "bedeutung": "übertreffen (an)"
+    },
+    {
+      "latein": "vi superare",
+      "stammformen": "",
+      "bedeutung": "an Kraft übertreffen"
+    }
+  ],
+  "lateinws30": [
+    {
+      "latein": "imperator",
+      "stammformen": "imperatoris m",
+      "bedeutung": "der Feldherr; der Kaiser"
+    },
+    {
+      "latein": "excitare",
+      "stammformen": "excito",
+      "bedeutung": "antreiben, erregen, ermuntern, aufwecken"
+    },
+    {
+      "latein": "imperium",
+      "stammformen": "-i n",
+      "bedeutung": "der Befehl, die Herrschaft, das Reich"
+    },
+    {
+      "latein": "finis",
+      "stammformen": "finis m/f, Gen. Pl. finium",
+      "bedeutung": "das Ende; das Ziel, die Grenze; Pl. das Gebiet"
+    },
+    {
+      "latein": "perterrere",
+      "stammformen": "perterreo",
+      "bedeutung": "(jemanden) heftig erschrecken, einschüchtern"
+    },
+    {
+      "latein": "occidere",
+      "stammformen": "occido, occidi, occisum",
+      "bedeutung": "niederschlagen, töten"
+    },
+    {
+      "latein": "praeesse",
+      "stammformen": "praesum, praefui",
+      "bedeutung": "an der Spitze stehen, leiten"
+    },
+    {
+      "latein": "exercitui praeest",
+      "stammformen": "",
+      "bedeutung": "er steht an der Spitze des Heeres, leitet das Heer"
+    },
+    {
+      "latein": "animadvertere",
+      "stammformen": "animadverto, animadverti, animadversum",
+      "bedeutung": "wahrnehmen, bemerken; (in m. Akk.) vorgehen gegen, einschreiten"
+    },
+    {
+      "latein": "augere",
+      "stammformen": "augeo, auxi, auctum",
+      "bedeutung": "vergrößern, vermehren; fördern"
+    },
+    {
+      "latein": "claudere",
+      "stammformen": "claudo, clausi, clausum",
+      "bedeutung": "schließen, einschließen, versperren"
+    },
+    {
+      "latein": "conspicere",
+      "stammformen": "conspicio, conspexi, conspectum",
+      "bedeutung": "erblicken, sehen"
+    },
+    {
+      "latein": "mittere",
+      "stammformen": "mitto, misi, missum",
+      "bedeutung": "schicken, loslassen, laufen lassen; werfen"
+    },
+    {
+      "latein": "amittere",
+      "stammformen": "amitto, amisi, amissum",
+      "bedeutung": "verlieren"
+    },
+    {
+      "latein": "demittere",
+      "stammformen": "demitto, demisi, demissum",
+      "bedeutung": "hinabschicken, sinken lassen"
+    },
+    {
+      "latein": "permittere",
+      "stammformen": "permitto, permisi, permissum",
+      "bedeutung": "erlauben, überlassen"
+    },
+    {
+      "latein": "promittere",
+      "stammformen": "promitto, promisi, promissum",
+      "bedeutung": "versprechen"
+    },
+    {
+      "latein": "dare",
+      "stammformen": "do, dedi, datum",
+      "bedeutung": "geben"
+    },
+    {
+      "latein": "abdere",
+      "stammformen": "abdo, abdidi, abditum",
+      "bedeutung": "verstecken, verbergen"
+    },
+    {
+      "latein": "condere",
+      "stammformen": "condo, condidi, conditum",
+      "bedeutung": "gründen, bestatten"
+    },
+    {
+      "latein": "occidere",
+      "stammformen": "occido, occidi, occisum",
+      "bedeutung": "niederschlagen, töten"
+    },
+    {
+      "latein": "capere",
+      "stammformen": "capio, cepi, captum",
+      "bedeutung": "nehmen, fangen, ergreifen; einnehmen"
+    },
+    {
+      "latein": "accipere",
+      "stammformen": "accipio, accepi, acceptum",
+      "bedeutung": "annehmen, empfangen, erhalten; vernehmen"
+    },
+    {
+      "latein": "relinquere",
+      "stammformen": "relinquo, reliqui, relictum",
+      "bedeutung": "verlassen, zurücklassen"
+    },
+    {
+      "latein": "inquam",
+      "stammformen": "inquīs, inquit, inquiunt",
+      "bedeutung": "ich sage / du sagst / er, sie, es sagt / sie sagen"
+    },
+    {
+      "latein": "agmen",
+      "stammformen": "agminis n",
+      "bedeutung": "der Heereszug, die Schar"
+    },
+    {
+      "latein": "plerique",
+      "stammformen": "pleraeque, pleraque",
+      "bedeutung": "die meisten, sehr viele"
+    },
+    {
+      "latein": "accusare",
+      "stammformen": "accuso",
+      "bedeutung": "anklagen, beschuldigen"
+    },
+    {
+      "latein": "exemplum",
+      "stammformen": "-i n",
+      "bedeutung": "das Beispiel; das Vorbild"
+    },
+    {
+      "latein": "culpa",
+      "stammformen": "-ae f",
+      "bedeutung": "die Schuld"
+    },
+    {
+      "latein": "maiores",
+      "stammformen": "maiorum m Pl.",
+      "bedeutung": "die Vorfahren"
+    },
+    {
+      "latein": "aedificare",
+      "stammformen": "aedifico",
+      "bedeutung": "bauen, erbauen"
+    },
+    {
+      "latein": "delere",
+      "stammformen": "deleo, delevi, deletum",
+      "bedeutung": "zerstören, vernichten"
+    },
+    {
+      "latein": "atque / ac",
+      "stammformen": "",
+      "bedeutung": "und, und auch"
+    }
+  ],
+  "lateinws31": [
+    {
+      "latein": "docere",
+      "stammformen": "doceo, docui, doctum",
+      "bedeutung": "lehren, beibringen, unterrichten"
+    },
+    {
+      "latein": "gerere",
+      "stammformen": "gero, gessi, gestum",
+      "bedeutung": "tragen, führen, ausführen"
+    },
+    {
+      "latein": "facere",
+      "stammformen": "facio, feci, factum",
+      "bedeutung": "tun, machen, ausführen"
+    },
+    {
+      "latein": "afficere",
+      "stammformen": "afficio, affeci, affectum (m. Abl.)",
+      "bedeutung": "versehen mit"
+    },
+    {
+      "latein": "venire",
+      "stammformen": "venio, veni, ventum",
+      "bedeutung": "kommen"
+    },
+    {
+      "latein": "convenire",
+      "stammformen": "convenio, conveni, conventum",
+      "bedeutung": "passen, zusammenkommen, treffen"
+    },
+    {
+      "latein": "invenire",
+      "stammformen": "invenio, inveni, inventum",
+      "bedeutung": "finden, auffinden, erfinden"
+    },
+    {
+      "latein": "pervenire",
+      "stammformen": "pervenio, perveni, perventum",
+      "bedeutung": "kommen zu/nach, gelangen"
+    },
+    {
+      "latein": "vincere",
+      "stammformen": "vinco, vici, victum",
+      "bedeutung": "siegen, besiegen"
+    },
+    {
+      "latein": "convincere",
+      "stammformen": "convinco, convici, convictum",
+      "bedeutung": "überführen"
+    },
+    {
+      "latein": "comprehendere",
+      "stammformen": "comprehendo, comprehendi, comprehensum",
+      "bedeutung": "ergreifen, festnehmen, erfassen"
+    },
+    {
+      "latein": "reprehendere",
+      "stammformen": "reprehendo, reprehendi, reprehensum",
+      "bedeutung": "tadeln, kritisieren"
+    },
+    {
+      "latein": "scribere",
+      "stammformen": "scribo, scripsi, scriptum",
+      "bedeutung": "schreiben"
+    },
+    {
+      "latein": "lingua",
+      "stammformen": "-ae f",
+      "bedeutung": "die Zunge, die Sprache"
+    },
+    {
+      "latein": "discere",
+      "stammformen": "disco, didici, -",
+      "bedeutung": "lernen"
+    },
+    {
+      "latein": "oppidum",
+      "stammformen": "-i n",
+      "bedeutung": "die Stadt, die Befestigung"
+    },
+    {
+      "latein": "liber",
+      "stammformen": "libri m",
+      "bedeutung": "das Buch"
+    },
+    {
+      "latein": "aedificium",
+      "stammformen": "-i n",
+      "bedeutung": "das Gebäude, das Bauwerk"
+    },
+    {
+      "latein": "littera",
+      "stammformen": "-ae f",
+      "bedeutung": "der Buchstabe; Pl.: der Brief, die Literatur, die Wissenschaft(en)"
+    },
+    {
+      "latein": "pauper",
+      "stammformen": "Gen. pauperis",
+      "bedeutung": "arm, armselig"
+    },
+    {
+      "latein": "vetus",
+      "stammformen": "Gen. veteris",
+      "bedeutung": "alt"
+    },
+    {
+      "latein": "dives",
+      "stammformen": "Gen. divitis",
+      "bedeutung": "reich, kostbar"
+    },
+    {
+      "latein": "cor",
+      "stammformen": "cordis n",
+      "bedeutung": "das Herz"
+    },
+    {
+      "latein": "maxime",
+      "stammformen": "",
+      "bedeutung": "am meisten, ganz besonders"
+    },
+    {
+      "latein": "legere",
+      "stammformen": "lego, legi, lectum",
+      "bedeutung": "lesen"
+    },
+    {
+      "latein": "praeclarus",
+      "stammformen": "-a, -um",
+      "bedeutung": "vortrefflich, ausgezeichnet"
+    },
+    {
+      "latein": "totus",
+      "stammformen": "-a, -um, Gen. totius, Dat. toti",
+      "bedeutung": "ganz"
+    },
+    {
+      "latein": "donare",
+      "stammformen": "dono",
+      "bedeutung": "schenken, beschenken"
+    },
+    {
+      "latein": "grandis",
+      "stammformen": "grande",
+      "bedeutung": "groß, großartig, wichtig"
+    },
+    {
+      "latein": "carmen",
+      "stammformen": "carminis n",
+      "bedeutung": "das Lied, das Gedicht"
+    },
+    {
+      "latein": "more Graecorum",
+      "stammformen": "",
+      "bedeutung": "nach Art der Griechen"
+    }
+  ],
+  "lateinws32": [
+    {
+      "latein": "diligere",
+      "stammformen": "diligo, dilexi, dilectum",
+      "bedeutung": "lieben, (sehr) schätzen"
+    },
+    {
+      "latein": "intellegere",
+      "stammformen": "intellego, intellexi, intellectum",
+      "bedeutung": "erkennen, verstehen, einsehen"
+    },
+    {
+      "latein": "neglegere",
+      "stammformen": "neglego, neglexi, neglectum",
+      "bedeutung": "vernachlässigen; gering schätzen, nicht beachten"
+    },
+    {
+      "latein": "opprimere",
+      "stammformen": "opprimo, oppressi, oppressum",
+      "bedeutung": "unterdrücken; überfallen, überwältigen"
+    },
+    {
+      "latein": "credere",
+      "stammformen": "credo, credidi, creditum",
+      "bedeutung": "glauben; vertrauen"
+    },
+    {
+      "latein": "perdere",
+      "stammformen": "perdo, perdidi, perditum",
+      "bedeutung": "vernichten, umbringen; verderben; verlieren"
+    },
+    {
+      "latein": "tradere",
+      "stammformen": "trado, tradidi, traditum",
+      "bedeutung": "übergeben; überliefern"
+    },
+    {
+      "latein": "vendere",
+      "stammformen": "vendo, vendidi, venditum",
+      "bedeutung": "verkaufen"
+    },
+    {
+      "latein": "colligere",
+      "stammformen": "colligo, collegi, collectum",
+      "bedeutung": "sammeln"
+    },
+    {
+      "latein": "summus",
+      "stammformen": "-a, -um",
+      "bedeutung": "der höchste, der oberste; der letzte"
+    },
+    {
+      "latein": "spoliare",
+      "stammformen": "spolio",
+      "bedeutung": "(einer Sache) berauben, (aus)rauben"
+    },
+    {
+      "latein": "Hominēs pecuniā spoliat.",
+      "stammformen": "",
+      "bedeutung": "Er beraubt die Menschen ihres Geldes."
+    },
+    {
+      "latein": "occidere",
+      "stammformen": "occido, occidi, occasurus",
+      "bedeutung": "untergehen; umkommen, sterben"
+    },
+    {
+      "latein": "senatus",
+      "stammformen": "senatus m",
+      "bedeutung": "der Senat"
+    },
+    {
+      "latein": "perturbare",
+      "stammformen": "perturbo",
+      "bedeutung": "durcheinanderbringen, verwirren"
+    },
+    {
+      "latein": "dimittere",
+      "stammformen": "dimitto, dimisi, dimissum",
+      "bedeutung": "entsenden, wegschicken, entlassen"
+    },
+    {
+      "latein": "iustus",
+      "stammformen": "-a, -um",
+      "bedeutung": "gerecht, rechtschaffen"
+    },
+    {
+      "latein": "censere",
+      "stammformen": "censeo, censui, censum",
+      "bedeutung": "meinen, schätzen, einschätzen"
+    },
+    {
+      "latein": "virtus",
+      "stammformen": "virtutis f",
+      "bedeutung": "die Tugend; die Tapferkeit; die Tüchtigkeit; Pl. die guten Taten, die Leistung"
+    },
+    {
+      "latein": "pro",
+      "stammformen": "(m. Abl.)",
+      "bedeutung": "vor; für; statt, anstelle von"
+    },
+    {
+      "latein": "frangere",
+      "stammformen": "frango, fregi, fractum",
+      "bedeutung": "brechen, (etwas) zerbrechen"
+    },
+    {
+      "latein": "praeter",
+      "stammformen": "(m. Akk.)",
+      "bedeutung": "an … vorbei, außer, gegen"
+    },
+    {
+      "latein": "eripere",
+      "stammformen": "eripio, eripui, ereptum",
+      "bedeutung": "entreißen"
+    },
+    {
+      "latein": "posterus",
+      "stammformen": "-a, -um",
+      "bedeutung": "der nachfolgende, der nächste"
+    },
+    {
+      "latein": "posteri",
+      "stammformen": "posterorum",
+      "bedeutung": "die Nachfahren, die Nachkommen"
+    },
+    {
+      "latein": "testis",
+      "stammformen": "testis m/f, Gen. Pl. testium",
+      "bedeutung": "der Zeuge"
+    },
+    {
+      "latein": "iudex",
+      "stammformen": "iudicis m",
+      "bedeutung": "der Richter"
+    },
+    {
+      "latein": "damnare",
+      "stammformen": "damno",
+      "bedeutung": "verurteilen"
+    },
+    {
+      "latein": "legatus",
+      "stammformen": "-i m",
+      "bedeutung": "der Gesandte, der Offizier, der Unterfeldherr"
+    }
+  ],
+  "lateinws33": [
+    {
+      "latein": "arcessere",
+      "stammformen": "arcesso, arcessivi, arcessitum",
+      "bedeutung": "herbeirufen, holen, holen lassen"
+    },
+    {
+      "latein": "cupere",
+      "stammformen": "cupio, cupivi, cupitum (m. Inf.)",
+      "bedeutung": "wünschen (zu tun), (haben) wollen, begehren"
+    },
+    {
+      "latein": "petere",
+      "stammformen": "peto, petivi, petitum",
+      "bedeutung": "(er)bitten; verlangen; streben nach; erreichen wollen; aufsuchen; angreifen"
+    },
+    {
+      "latein": "quaerere",
+      "stammformen": "quaero, quaesivi, quaesitum",
+      "bedeutung": "suchen; (e/ex) (jemanden) fragen"
+    },
+    {
+      "latein": "rapere",
+      "stammformen": "rapio, rapui, raptum",
+      "bedeutung": "rauben"
+    },
+    {
+      "latein": "dicere",
+      "stammformen": "dico, dixi, dictum",
+      "bedeutung": "sagen, sprechen, reden"
+    },
+    {
+      "latein": "ducere",
+      "stammformen": "duco, duxi, ductum",
+      "bedeutung": "führen, ziehen"
+    },
+    {
+      "latein": "movere",
+      "stammformen": "moveo, movi, motum",
+      "bedeutung": "bewegen; erregen"
+    },
+    {
+      "latein": "incendere",
+      "stammformen": "incendo, incendi, incensum",
+      "bedeutung": "entflammen, in Brand setzen"
+    },
+    {
+      "latein": "audacia",
+      "stammformen": "-ae f",
+      "bedeutung": "der Wagemut, die Kühnheit; die Frechheit"
+    },
+    {
+      "latein": "gens",
+      "stammformen": "gentis f, Gen. Pl. gentium",
+      "bedeutung": "das Geschlecht; der Stamm, das Volk"
+    },
+    {
+      "latein": "praeda",
+      "stammformen": "-ae f",
+      "bedeutung": "die Beute, die Kriegsbeute"
+    },
+    {
+      "latein": "ops",
+      "stammformen": "opis f; Pl. opes, opum",
+      "bedeutung": "die Hilfe; die Kraft, die Macht; Pl. der Reichtum"
+    },
+    {
+      "latein": "forma",
+      "stammformen": "-ae f",
+      "bedeutung": "die Form, die Gestalt; die Schönheit"
+    },
+    {
+      "latein": "victoria",
+      "stammformen": "-ae f",
+      "bedeutung": "der Sieg"
+    },
+    {
+      "latein": "ostendere",
+      "stammformen": "ostendo, ostendi, ostentum",
+      "bedeutung": "zeigen, erklären, offenbaren"
+    },
+    {
+      "latein": "libido",
+      "stammformen": "libidinis f",
+      "bedeutung": "die Begierde; die Hemmungslosigkeit"
+    },
+    {
+      "latein": "flere",
+      "stammformen": "fleo, flevi, fletum",
+      "bedeutung": "weinen (über); beweinen; beklagen"
+    },
+    {
+      "latein": "temperare",
+      "stammformen": "tempero",
+      "bedeutung": "(m. Dat.) mäßigen; schonen; (m. Akk.) mischen; ordnen; (a/ab) sich fernhalten (von)"
+    },
+    {
+      "latein": "irae tempero",
+      "stammformen": "",
+      "bedeutung": "ich mäßige den Zorn"
+    },
+    {
+      "latein": "rem publicam tempero",
+      "stammformen": "",
+      "bedeutung": "ich ordne den Staat"
+    },
+    {
+      "latein": "a malis hominibus tempero",
+      "stammformen": "",
+      "bedeutung": "ich halte mich von bösen Menschen fern"
+    },
+    {
+      "latein": "antiquus",
+      "stammformen": "-a, -um",
+      "bedeutung": "alt"
+    },
+    {
+      "latein": "occupare",
+      "stammformen": "occupo",
+      "bedeutung": "einnehmen, besetzen; beschäftigen"
+    },
+    {
+      "latein": "victor",
+      "stammformen": "victoris m",
+      "bedeutung": "der Sieger"
+    },
+    {
+      "latein": "obsecrare",
+      "stammformen": "obsecro",
+      "bedeutung": "anflehen, beschwören"
+    },
+    {
+      "latein": "turbare",
+      "stammformen": "turbo",
+      "bedeutung": "durcheinanderbringen, verwirren, stören"
+    },
+    {
+      "latein": "tristis",
+      "stammformen": "triste",
+      "bedeutung": "traurig, düster"
+    },
+    {
+      "latein": "nuntius",
+      "stammformen": "-i m",
+      "bedeutung": "der Bote; die Nachricht"
+    },
+    {
+      "latein": "ornare",
+      "stammformen": "orno",
+      "bedeutung": "schmücken; auszeichnen, ausstatten"
+    }
+  ],
+  "lateinws34": [
+    {
+      "latein": "cedere",
+      "stammformen": "cedo, cessi, cessum",
+      "bedeutung": "gehen, weggehen, weichen, nachgeben"
+    },
+    {
+      "latein": "accedere",
+      "stammformen": "accedo, accessi, accessum",
+      "bedeutung": "herbeikommen, herantreten, sich nähern"
+    },
+    {
+      "latein": "decedere",
+      "stammformen": "decedo, decessi, decessum",
+      "bedeutung": "(weg)gehen; sterben"
+    },
+    {
+      "latein": "iubere",
+      "stammformen": "iubeo, iussi, iussum (m. Akk.)",
+      "bedeutung": "befehlen, anordnen"
+    },
+    {
+      "latein": "pellere",
+      "stammformen": "pello, pepuli, pulsum",
+      "bedeutung": "schlagen, stoßen, treiben, vertreiben"
+    },
+    {
+      "latein": "adiuvare",
+      "stammformen": "adiuvo, adiuvi, adiutum (m. Akk.)",
+      "bedeutung": "helfen, unterstützen"
+    },
+    {
+      "latein": "adicere",
+      "stammformen": "adicio, adieci, adiectum",
+      "bedeutung": "hinzufügen"
+    },
+    {
+      "latein": "avaritia",
+      "stammformen": "-ae f",
+      "bedeutung": "die Habgier; der Geiz"
+    },
+    {
+      "latein": "calamitas",
+      "stammformen": "calamitatis f",
+      "bedeutung": "das Unglück, Unheil, der Schaden"
+    },
+    {
+      "latein": "potens",
+      "stammformen": "potentis",
+      "bedeutung": "mächtig, stark"
+    },
+    {
+      "latein": "proelium",
+      "stammformen": "-i n",
+      "bedeutung": "die Schlacht, das Gefecht"
+    },
+    {
+      "latein": "dubitare",
+      "stammformen": "dubito",
+      "bedeutung": "zweifeln, unschlüssig sein; m. Inf.: zögern (zu tun)"
+    },
+    {
+      "latein": "dubitare de fide",
+      "stammformen": "",
+      "bedeutung": "an der Treue zweifeln"
+    },
+    {
+      "latein": "impellere",
+      "stammformen": "impello, impuli, impulsum",
+      "bedeutung": "in Bewegung setzen; antreiben, veranlassen"
+    },
+    {
+      "latein": "vindicere",
+      "stammformen": "vindico",
+      "bedeutung": "in Anspruch nehmen; befreien, retten, bestrafen, rächen"
+    },
+    {
+      "latein": "in libertatem vindicare",
+      "stammformen": "",
+      "bedeutung": "befreien"
+    },
+    {
+      "latein": "confirmare",
+      "stammformen": "confirmo",
+      "bedeutung": "(be)kräftigen, verstärken, ermutigen"
+    },
+    {
+      "latein": "patres",
+      "stammformen": "patrum m Pl.",
+      "bedeutung": "die Senatoren"
+    },
+    {
+      "latein": "quam",
+      "stammformen": "",
+      "bedeutung": "als, wie (bei Vergleichen)"
+    },
+    {
+      "latein": "tam ... quam",
+      "stammformen": "",
+      "bedeutung": "so ... wie"
+    },
+    {
+      "latein": "igitur",
+      "stammformen": "",
+      "bedeutung": "also"
+    },
+    {
+      "latein": "expellere",
+      "stammformen": "expello, expuli, expulsum",
+      "bedeutung": "vertreiben, verjagen, verbannen"
+    },
+    {
+      "latein": "trahere",
+      "stammformen": "traho, traxi, tractum",
+      "bedeutung": "ziehen, schleppen"
+    },
+    {
+      "latein": "aurum",
+      "stammformen": "-i n",
+      "bedeutung": "das Gold"
+    },
+    {
+      "latein": "argentum",
+      "stammformen": "-i n",
+      "bedeutung": "das Silber, Geld"
+    },
+    {
+      "latein": "complere",
+      "stammformen": "compleo, complevi, completum (m. Abl.)",
+      "bedeutung": "ausfüllen, anfüllen (mit); erfüllen"
+    },
+    {
+      "latein": "Navis opibus completur.",
+      "stammformen": "",
+      "bedeutung": "Das Schiff wird mit Gütern angefüllt."
+    },
+    {
+      "latein": "tribunus",
+      "stammformen": "-i m",
+      "bedeutung": "der Tribun (politischer oder militärischer Amtsträger)"
+    },
+    {
+      "latein": "tribuere",
+      "stammformen": "tribuo, tribui, tributum",
+      "bedeutung": "zuteilen"
+    },
+    {
+      "latein": "provincia",
+      "stammformen": "-ae f",
+      "bedeutung": "die Provinz"
+    },
+    {
+      "latein": "consilium habere",
+      "stammformen": "",
+      "bedeutung": "eine (Rats-)Versammlung (ab)halten"
+    },
+    {
+      "latein": "homo de plebe",
+      "stammformen": "",
+      "bedeutung": "ein Mensch aus dem Volk"
+    }
+  ],
+  "lateinws35": [
+    {
+      "latein": "flectere",
+      "stammformen": "flecto, flexi, flexum",
+      "bedeutung": "biegen, beugen; umstimmen"
+    },
+    {
+      "latein": "ire",
+      "stammformen": "eo, ii, itum",
+      "bedeutung": "gehen"
+    },
+    {
+      "latein": "abire",
+      "stammformen": "abeo, abii, abitum",
+      "bedeutung": "weggehen"
+    },
+    {
+      "latein": "adire",
+      "stammformen": "adeo, adii, aditum",
+      "bedeutung": "herangehen (an), aufsuchen; auf sich nehmen; in Angriff nehmen, angehen"
+    },
+    {
+      "latein": "inire",
+      "stammformen": "ineo, inii, initum",
+      "bedeutung": "hineingehen, betreten; beginnen"
+    },
+    {
+      "latein": "praeterire",
+      "stammformen": "praetereo, praeterii, praeteritum (m. Akk.)",
+      "bedeutung": "vorbeigehen; vergehen; übergehen"
+    },
+    {
+      "latein": "redire",
+      "stammformen": "redeo, redii, reditum",
+      "bedeutung": "zurückgehen"
+    },
+    {
+      "latein": "subire",
+      "stammformen": "subeo, subii, subitum",
+      "bedeutung": "daruntertreten; auf sich nehmen"
+    },
+    {
+      "latein": "transire",
+      "stammformen": "transeo, transii, transitum (m. Akk.)",
+      "bedeutung": "hinübergehen, überqueren, überschreiten"
+    },
+    {
+      "latein": "respondere",
+      "stammformen": "respondeo, respondi, responsum",
+      "bedeutung": "antworten"
+    },
+    {
+      "latein": "sors",
+      "stammformen": "sortis f, Gen. Pl. sortium",
+      "bedeutung": "das Los, das Schicksal"
+    },
+    {
+      "latein": "acerbus",
+      "stammformen": "-a, -um",
+      "bedeutung": "bitter; schmerzlich; rücksichtslos"
+    },
+    {
+      "latein": "tutus",
+      "stammformen": "-a, -um (a/ab)",
+      "bedeutung": "sicher (vor), geschützt (vor/gegen)"
+    },
+    {
+      "latein": "commovere",
+      "stammformen": "commoveo, commovi, commotum",
+      "bedeutung": "bewegen; beunruhigen; veranlassen"
+    },
+    {
+      "latein": "furor",
+      "stammformen": "furoris m",
+      "bedeutung": "der Wahnsinn, das Wüten, die Wut"
+    },
+    {
+      "latein": "par",
+      "stammformen": "Gen. paris",
+      "bedeutung": "gleich; ebenbürtig"
+    },
+    {
+      "latein": "metuere",
+      "stammformen": "metuo, metui, -",
+      "bedeutung": "fürchten, sich fürchten"
+    },
+    {
+      "latein": "praestare",
+      "stammformen": "praesto, praestiti, -",
+      "bedeutung": "(m. Dat.) übertreffen; (m. Abl.) an etwas übertreffen; (m. Akk.) erweisen, geben"
+    },
+    {
+      "latein": "ceteris vi praesto",
+      "stammformen": "",
+      "bedeutung": "ich übertreffe die anderen an Kraft"
+    },
+    {
+      "latein": "Populus regi honores praestat.",
+      "stammformen": "",
+      "bedeutung": "Das Volk erweist dem König Ehren."
+    },
+    {
+      "latein": "tantus",
+      "stammformen": "-a, -um",
+      "bedeutung": "so groß"
+    },
+    {
+      "latein": "quando",
+      "stammformen": "",
+      "bedeutung": "wann"
+    },
+    {
+      "latein": "terror",
+      "stammformen": "terroris m",
+      "bedeutung": "der Schrecken, die Angst"
+    },
+    {
+      "latein": "circum",
+      "stammformen": "(m. Akk.)",
+      "bedeutung": "rings um, um ... herum"
+    },
+    {
+      "latein": "arx",
+      "stammformen": "arcis f, Gen. Pl. arcium",
+      "bedeutung": "die Burg"
+    },
+    {
+      "latein": "recipere",
+      "stammformen": "recipio, recepi, receptum",
+      "bedeutung": "zurücknehmen, aufnehmen (in etwas)"
+    },
+    {
+      "latein": "se recipere",
+      "stammformen": "",
+      "bedeutung": "sich zurückziehen"
+    },
+    {
+      "latein": "supplex",
+      "stammformen": "Gen. supplicis",
+      "bedeutung": "demütig, flehentlich"
+    },
+    {
+      "latein": "aestimare",
+      "stammformen": "",
+      "bedeutung": "schätzen, einschätzen; meinen"
+    },
+    {
+      "latein": "magni aestimare",
+      "stammformen": "",
+      "bedeutung": "hoch/sehr achten, schätzen"
+    },
+    {
+      "latein": "cuncti",
+      "stammformen": "-ae, -a",
+      "bedeutung": "alle"
+    },
+    {
+      "latein": "laus",
+      "stammformen": "laudis f",
+      "bedeutung": "das Lob; der Ruhm"
+    },
+    {
+      "latein": "universus",
+      "stammformen": "-a, -um",
+      "bedeutung": "all, ganz, sämtlich"
+    }
+  ],
+  "lateinws36": [
+    {
+      "latein": "sinere",
+      "stammformen": "sino, sivi, situm",
+      "bedeutung": "lassen, zulassen, erlauben"
+    },
+    {
+      "latein": "desinere",
+      "stammformen": "desino, desii, desitum",
+      "bedeutung": "ablassen, aufhören"
+    },
+    {
+      "latein": "colere",
+      "stammformen": "colo, colui, cultum",
+      "bedeutung": "bebauen; pflegen; verehren"
+    },
+    {
+      "latein": "ponere",
+      "stammformen": "pono, posui, positum (in m. Abl.)",
+      "bedeutung": "setzen, stellen, legen (auf)"
+    },
+    {
+      "latein": "componere",
+      "stammformen": "compono, composui, compositum",
+      "bedeutung": "zusammenstellen, verfassen, ordnen"
+    },
+    {
+      "latein": "deponere",
+      "stammformen": "depono, deposui, depositum",
+      "bedeutung": "ablegen, niederlegen"
+    },
+    {
+      "latein": "imponere",
+      "stammformen": "impono, imposui, impositum",
+      "bedeutung": "hineinstellen, auferlegen"
+    },
+    {
+      "latein": "regere",
+      "stammformen": "rego, rexi, rectum",
+      "bedeutung": "lenken, leiten; beherrschen"
+    },
+    {
+      "latein": "comperire",
+      "stammformen": "comperio, comperi, compertum",
+      "bedeutung": "erfahren, in Erfahrung bringen"
+    },
+    {
+      "latein": "sentire",
+      "stammformen": "sentio, sensi, sensum",
+      "bedeutung": "fühlen, spüren; meinen"
+    },
+    {
+      "latein": "metus",
+      "stammformen": "-us m",
+      "bedeutung": "die Angst, Furcht"
+    },
+    {
+      "latein": "pars",
+      "stammformen": "partis f, Gen. Pl. partium",
+      "bedeutung": "der Teil; die Seite; die Richtung"
+    },
+    {
+      "latein": "sol",
+      "stammformen": "solis m",
+      "bedeutung": "die Sonne"
+    },
+    {
+      "latein": "currus",
+      "stammformen": "-us m",
+      "bedeutung": "der Wagen"
+    },
+    {
+      "latein": "aer",
+      "stammformen": "aeris m (Akk. Sg. auch aera)",
+      "bedeutung": "die Luft"
+    },
+    {
+      "latein": "ascendere",
+      "stammformen": "ascendo, ascendi, ascensum",
+      "bedeutung": "hinaufsteigen, besteigen"
+    },
+    {
+      "latein": "conficere",
+      "stammformen": "conficio, confeci, confectum",
+      "bedeutung": "anfertigen, vollenden; aufbrauchen, erschöpfen"
+    },
+    {
+      "latein": "uxor",
+      "stammformen": "uxoris f",
+      "bedeutung": "die Ehefrau"
+    },
+    {
+      "latein": "uxorem ducere",
+      "stammformen": "",
+      "bedeutung": "(eine Frau) heiraten"
+    },
+    {
+      "latein": "prex",
+      "stammformen": "precis f",
+      "bedeutung": "die Bitte"
+    },
+    {
+      "latein": "repellere",
+      "stammformen": "repello, reppuli, repulsum",
+      "bedeutung": "zurückstoßen, abwehren, zurückweisen"
+    },
+    {
+      "latein": "abducere",
+      "stammformen": "abduco, abduxi, abductum",
+      "bedeutung": "wegführen, wegbringen; entführen"
+    },
+    {
+      "latein": "cura",
+      "stammformen": "-ae f",
+      "bedeutung": "die Sorge, die Pflege"
+    },
+    {
+      "latein": "mora",
+      "stammformen": "-ae f",
+      "bedeutung": "die Verzögerung, der Aufenthalt"
+    },
+    {
+      "latein": "iratus",
+      "stammformen": "-a, -um",
+      "bedeutung": "zornig, erzürnt"
+    },
+    {
+      "latein": "fundere",
+      "stammformen": "fundo, fudi, fusum",
+      "bedeutung": "(ver)gießen, ausschütten"
+    },
+    {
+      "latein": "lacrimas fundere",
+      "stammformen": "",
+      "bedeutung": "Tränen vergießen"
+    },
+    {
+      "latein": "apud",
+      "stammformen": "(m. Akk.)",
+      "bedeutung": "bei"
+    },
+    {
+      "latein": "dies noctesque",
+      "stammformen": "",
+      "bedeutung": "Tag und Nacht"
+    },
+    {
+      "latein": "sub monte",
+      "stammformen": "",
+      "bedeutung": "am Fuß des Berges"
+    }
+  ],
+  "lateinws37": [
+    {
+      "latein": "exstinguere",
+      "stammformen": "exstinguo, exstinxi, exstinctum",
+      "bedeutung": "löschen, auslöschen, vernichten"
+    },
+    {
+      "latein": "fingere",
+      "stammformen": "fingo, finxi, fictum",
+      "bedeutung": "formen, gestalten, sich ausdenken, erfinden"
+    },
+    {
+      "latein": "defendere",
+      "stammformen": "defendo, defendi, defensum",
+      "bedeutung": "verteidigen; (a/ab m. Abl.) verteidigen gegen"
+    },
+    {
+      "latein": "descendere",
+      "stammformen": "descendo, descendi, descensum",
+      "bedeutung": "herabsteigen, hinabsteigen"
+    },
+    {
+      "latein": "vertere",
+      "stammformen": "verto, verti, versum",
+      "bedeutung": "drehen, (um)wenden"
+    },
+    {
+      "latein": "parere",
+      "stammformen": "pario, peperi, partum",
+      "bedeutung": "zur Welt bringen, erzeugen, erwerben"
+    },
+    {
+      "latein": "tollere",
+      "stammformen": "tollo, sustuli, sublatum",
+      "bedeutung": "hochheben, aufheben, beseitigen, wegnehmen"
+    },
+    {
+      "latein": "evenire",
+      "stammformen": "evenio, eveni, eventum",
+      "bedeutung": "geschehen, sich ereignen"
+    },
+    {
+      "latein": "evenit",
+      "stammformen": "evenit",
+      "bedeutung": "es geschieht, es ereignet sich"
+    },
+    {
+      "latein": "unda",
+      "stammformen": "-ae f",
+      "bedeutung": "die Welle, Woge"
+    },
+    {
+      "latein": "primum",
+      "stammformen": "",
+      "bedeutung": "zuerst, zum ersten Mal, erstmals"
+    },
+    {
+      "latein": "solere",
+      "stammformen": "soleo",
+      "bedeutung": "gewohnt sein, pflegen (zu tun)"
+    },
+    {
+      "latein": "cogitare",
+      "stammformen": "cogito",
+      "bedeutung": "denken, nachdenken, beabsichtigen (zu tun)"
+    },
+    {
+      "latein": "puellam cogitare",
+      "stammformen": "",
+      "bedeutung": "an ein Mädchen denken"
+    },
+    {
+      "latein": "secum cogitare",
+      "stammformen": "",
+      "bedeutung": "bei sich / im Stillen denken"
+    },
+    {
+      "latein": "respicere",
+      "stammformen": "respicio, respexi, respectum",
+      "bedeutung": "zurückblicken (auf), berücksichtigen"
+    },
+    {
+      "latein": "convertere",
+      "stammformen": "converto, converti, conversum",
+      "bedeutung": "wenden, verwandeln, (ver)ändern"
+    },
+    {
+      "latein": "se convertere",
+      "stammformen": "",
+      "bedeutung": "sich verwandeln"
+    },
+    {
+      "latein": "cum",
+      "stammformen": "(m. Ind.)",
+      "bedeutung": "(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald"
+    },
+    {
+      "latein": "cum primum",
+      "stammformen": "(m. Ind. Perf.)",
+      "bedeutung": "sobald"
+    },
+    {
+      "latein": "ubi primum",
+      "stammformen": "(m. Ind. Perf.)",
+      "bedeutung": "sobald"
+    },
+    {
+      "latein": "ut primum",
+      "stammformen": "(m. Ind. Perf.)",
+      "bedeutung": "sobald"
+    },
+    {
+      "latein": "quod",
+      "stammformen": "",
+      "bedeutung": "weil, dass"
+    },
+    {
+      "latein": "bene evenit, quod",
+      "stammformen": "",
+      "bedeutung": "es trifft sich gut, dass"
+    },
+    {
+      "latein": "bene/male facere, quod",
+      "stammformen": "",
+      "bedeutung": "gut/schlecht daran tun, dass"
+    },
+    {
+      "latein": "quiescere",
+      "stammformen": "quiesco, quievi, quieturus",
+      "bedeutung": "ruhen, sich ausruhen"
+    },
+    {
+      "latein": "bos",
+      "stammformen": "bovis m/f",
+      "bedeutung": "das Rind, der Ochse, die Kuh"
+    },
+    {
+      "latein": "quoniam",
+      "stammformen": "",
+      "bedeutung": "weil ja, da ja"
+    },
+    {
+      "latein": "considere",
+      "stammformen": "consido, consedi, consessum",
+      "bedeutung": "sich setzen, sich niederlassen"
+    },
+    {
+      "latein": "tergum",
+      "stammformen": "-i n",
+      "bedeutung": "der Rücken"
+    },
+    {
+      "latein": "surgere",
+      "stammformen": "surgo, surrexi, surrectum",
+      "bedeutung": "aufstehen, sich erheben"
+    },
+    {
+      "latein": "dexter",
+      "stammformen": "dextra, dextrum (auch dextera, dexterum)",
+      "bedeutung": "rechts"
+    },
+    {
+      "latein": "dextra (manus)",
+      "stammformen": "",
+      "bedeutung": "die rechte Hand"
+    },
+    {
+      "latein": "cornu",
+      "stammformen": "cornus n",
+      "bedeutung": "das Horn, der Heeresflügel"
+    },
+    {
+      "latein": "sinister",
+      "stammformen": "sinistra, sinistrum",
+      "bedeutung": "links"
+    },
+    {
+      "latein": "ventus",
+      "stammformen": "-i m",
+      "bedeutung": "der Wind"
+    },
+    {
+      "latein": "dum haec geruntur",
+      "stammformen": "",
+      "bedeutung": "währenddessen"
+    }
+  ],
+  "lateinws38": [
+    {
+      "latein": "currere",
+      "stammformen": "curro, cucurri, cursum",
+      "bedeutung": "laufen, rennen"
+    },
+    {
+      "latein": "occurrere",
+      "stammformen": "occurro, occurri, occursum",
+      "bedeutung": "entgegenlaufen, entgegentreten, begegnen"
+    },
+    {
+      "latein": "tangere",
+      "stammformen": "tango, tetigi, tactum",
+      "bedeutung": "berühren, erreichen"
+    },
+    {
+      "latein": "emere",
+      "stammformen": "emo, emi, emptum",
+      "bedeutung": "kaufen"
+    },
+    {
+      "latein": "sedere",
+      "stammformen": "sedeo, sedi, sessum",
+      "bedeutung": "sitzen, dasitzen"
+    },
+    {
+      "latein": "possidere",
+      "stammformen": "possideo, possedi, possessum",
+      "bedeutung": "besitzen"
+    },
+    {
+      "latein": "spes",
+      "stammformen": "spei f",
+      "bedeutung": "die Hoffnung, die Erwartung"
+    },
+    {
+      "latein": "spem deponere",
+      "stammformen": "",
+      "bedeutung": "die Hoffnung aufgeben"
+    },
+    {
+      "latein": "cavere",
+      "stammformen": "caveo, cavi, cautum",
+      "bedeutung": "(m. Akk.) sich hüten (vor), sich in Acht nehmen (vor)"
+    },
+    {
+      "latein": "Cave bestiam!",
+      "stammformen": "",
+      "bedeutung": "Hüte dich vor dem wilden Tier! / Nimm dich vor dem wilden Tier in Acht!"
+    },
+    {
+      "latein": "crescere",
+      "stammformen": "cresco, crevi, cretum",
+      "bedeutung": "wachsen, zunehmen"
+    },
+    {
+      "latein": "adeo",
+      "stammformen": "",
+      "bedeutung": "so sehr"
+    },
+    {
+      "latein": "impedire",
+      "stammformen": "impedio (a/ab)",
+      "bedeutung": "hindern (an), (ver)hindern"
+    },
+    {
+      "latein": "at",
+      "stammformen": "",
+      "bedeutung": "aber, jedoch"
+    },
+    {
+      "latein": "aut",
+      "stammformen": "",
+      "bedeutung": "oder"
+    },
+    {
+      "latein": "aut ... aut",
+      "stammformen": "",
+      "bedeutung": "entweder ... oder"
+    },
+    {
+      "latein": "medius",
+      "stammformen": "-a, -um",
+      "bedeutung": "der mittlere, mitten in"
+    },
+    {
+      "latein": "ut",
+      "stammformen": "(m. Konj.)",
+      "bedeutung": "dass, sodass, damit, um … zu"
+    },
+    {
+      "latein": "ne",
+      "stammformen": "(m. Konj.)",
+      "bedeutung": "dass nicht, damit nicht, um … nicht zu; dass (nach Fürchten/Hindern)"
+    },
+    {
+      "latein": "desiderare",
+      "stammformen": "desidero",
+      "bedeutung": "sich sehnen nach, vermissen; m. Inf.: ersehnen (zu tun)"
+    },
+    {
+      "latein": "decernere",
+      "stammformen": "decerno, decrevi, decretum",
+      "bedeutung": "beschließen, entscheiden"
+    },
+    {
+      "latein": "portus",
+      "stammformen": "portus m",
+      "bedeutung": "der Hafen"
+    },
+    {
+      "latein": "volare",
+      "stammformen": "volo",
+      "bedeutung": "fliegen, eilen"
+    },
+    {
+      "latein": "gravis",
+      "stammformen": "grave",
+      "bedeutung": "schwer, gewichtig, ernst, bedeutend"
+    },
+    {
+      "latein": "primo",
+      "stammformen": "",
+      "bedeutung": "zuerst"
+    },
+    {
+      "latein": "deserere",
+      "stammformen": "desero, deserui, desertum",
+      "bedeutung": "verlassen, im Stich lassen"
+    },
+    {
+      "latein": "paulatim",
+      "stammformen": "",
+      "bedeutung": "allmählich"
+    },
+    {
+      "latein": "coniungere",
+      "stammformen": "coniungo, coniunxi, coniunctum",
+      "bedeutung": "verbinden, vereinigen"
+    },
+    {
+      "latein": "aestus",
+      "stammformen": "-us m",
+      "bedeutung": "die Hitze"
+    },
+    {
+      "latein": "solvere",
+      "stammformen": "solvo, solvi, solutum",
+      "bedeutung": "lösen, auflösen"
+    },
+    {
+      "latein": "cadere",
+      "stammformen": "cado, cecidi, casurus",
+      "bedeutung": "fallen"
+    }
+  ],
+  "lateinws39": [
+    {
+      "latein": "agere",
+      "stammformen": "ago, egi, actum",
+      "bedeutung": "tun, treiben, handeln, verhandeln"
+    },
+    {
+      "latein": "suscipere",
+      "stammformen": "suscipio, suscepi, susceptum",
+      "bedeutung": "m. Akk.: aufnehmen, auf sich nehmen, unternehmen"
+    },
+    {
+      "latein": "incipere",
+      "stammformen": "incipio, coepi, coeptum",
+      "bedeutung": "anfangen, beginnen"
+    },
+    {
+      "latein": "cantare",
+      "stammformen": "canto",
+      "bedeutung": "singen"
+    },
+    {
+      "latein": "dulcis",
+      "stammformen": "dulce",
+      "bedeutung": "süß, lieblich"
+    },
+    {
+      "latein": "crudelis",
+      "stammformen": "crudele",
+      "bedeutung": "grausam, hartherzig"
+    },
+    {
+      "latein": "rursus",
+      "stammformen": "",
+      "bedeutung": "wieder, zurück"
+    },
+    {
+      "latein": "numen",
+      "stammformen": "numinis n",
+      "bedeutung": "die Gottheit, der göttliche Wille, die göttliche Macht"
+    },
+    {
+      "latein": "carus",
+      "stammformen": "-a, -um",
+      "bedeutung": "lieb, teuer, wertvoll"
+    },
+    {
+      "latein": "tendere",
+      "stammformen": "tendo, tetendi, tentum",
+      "bedeutung": "spannen, (aus)strecken, richten, nach etw. streben"
+    },
+    {
+      "latein": "cogere",
+      "stammformen": "cogo, coegi, coactum",
+      "bedeutung": "versammeln, zwingen"
+    },
+    {
+      "latein": "cum",
+      "stammformen": "(m. Konj.)",
+      "bedeutung": "als, nachdem, da, weil, obwohl, während (dagegen)"
+    },
+    {
+      "latein": "repetere",
+      "stammformen": "repeto, repetivi, repetitum",
+      "bedeutung": "zurückverlangen, wieder aufsuchen, wiederholen"
+    },
+    {
+      "latein": "temptare",
+      "stammformen": "tempto",
+      "bedeutung": "(m. Inf.) versuchen (etw. zu tun); (m. Akk.) angreifen, betasten"
+    },
+    {
+      "latein": "oppidum temptare",
+      "stammformen": "",
+      "bedeutung": "die Stadt angreifen"
+    },
+    {
+      "latein": "oppidum defendere temptare",
+      "stammformen": "",
+      "bedeutung": "versuchen, die Stadt zu verteidigen"
+    },
+    {
+      "latein": "superi",
+      "stammformen": "superorum m Pl.",
+      "bedeutung": "die Götter der Oberwelt, die Oberwelt"
+    },
+    {
+      "latein": "notus",
+      "stammformen": "-a, -um",
+      "bedeutung": "bekannt"
+    },
+    {
+      "latein": "noscere",
+      "stammformen": "nosco, novi, notum",
+      "bedeutung": "kennenlernen, erkennen; Perf.: kennen, wissen"
+    },
+    {
+      "latein": "reddere",
+      "stammformen": "reddo, reddidi, redditum",
+      "bedeutung": "zurückgeben"
+    },
+    {
+      "latein": "condicio",
+      "stammformen": "condicionis f",
+      "bedeutung": "die Bedingung, die Lage"
+    },
+    {
+      "latein": "remanere",
+      "stammformen": "remaneo, remansi, remansurus",
+      "bedeutung": "zurückbleiben"
+    },
+    {
+      "latein": "supremus",
+      "stammformen": "-a, -um",
+      "bedeutung": "der oberste, der letzte, der äußerste"
+    },
+    {
+      "latein": "iterum atque iterum",
+      "stammformen": "",
+      "bedeutung": "immer wieder"
+    }
+  ],
   "lateinws40": [
     {
       "latein": "cōgnōscere",
