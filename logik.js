@@ -10,7 +10,7 @@ async function loadVoc() {
     try {
         let res = await fetch("latein.json");
         lateinvoc = await res.json();
-
+        
         lateinws = {
             1: lateinvoc.lateinws1,
             2: lateinvoc.lateinws2,
@@ -83,7 +83,7 @@ async function loadVoc() {
             69: lateinvoc.PhaedrusProlog,
             70: lateinvoc.PhaedrusDerWolfunddasLamm
         }
-
+        
     } catch (err) {
         console.error("Error:", err);
     }
@@ -120,6 +120,8 @@ let zähler = 0;
 let erstezahl
 let zweitezahl
 
+let darkmode = false;
+
 function setup(){
     document.getElementById("falscheVokabelwiederholen").hidden = true;
     document.getElementById("buttzurück").hidden = true;
@@ -131,6 +133,19 @@ function setup(){
     document.getElementById("stammform").hidden = true;
     document.getElementById("deutschl").hidden = true;
     document.getElementById("butook").hidden = true;
+}
+
+function toggleTheme(){
+    darkmode = !darkmode;
+    if (darkmode){
+        document.getElementById("darkmode").innerHTML = "Darkmode";
+        document.body.style.backgroundColor = "rgb(40,40,40)";
+    } else {
+        document.getElementById("darkmode").innerHTML = "Lightmode";
+        document.body.style.backgroundColor = "white";
+    }
+    document.body.classList.toggle("darkmode");
+    
 }
 
 function Vocabulary (){
