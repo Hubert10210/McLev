@@ -260,7 +260,7 @@ function Vocabulary (){
                             zweitezahl = key;
                         };
                     };
-                    if (erstezahl != undefined && zweitezahl != undefined && erstezahl < zweitezahl){
+                    if (erstezahl != undefined && zweitezahl != undefined && erstezahl < zweitezahl &&  wortschatz2.length == 2){
                         for(let i = erstezahl; i <= zweitezahl; i++){
                             list.push(...(lateinws[i].slice()));
                             console.log(list);
@@ -273,6 +273,8 @@ function Vocabulary (){
 
                     };
                 };
+            }else {
+                fehlerbeimEingeben();
             };
         }else if(buch1 == "Adeamus-Legamus"){
             for(let key of Object.keys(lateinws)){
@@ -280,7 +282,7 @@ function Vocabulary (){
                     zweitezahl = key;
                 };
             };
-            if(wortschatz3[0] == "WS" && wortschatz3[1] != "WS" && wortschatz2[0] >= 1 && wortschatz2[0] <= 68 && zweitezahl != undefined){
+            if(wortschatz3[0] == "WS" && wortschatz3[1] != "WS" && wortschatz2[0] >= 1 && wortschatz2[0] <= 68 && zweitezahl != undefined && wortschatz2.length == 2){
                 for(let i = wortschatz2[0]; i <= zweitezahl; i++){
                     list.push(...(lateinws[i].slice()));
                     console.log(list);
