@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Hubert10210/McLev/issues"
   },
-  "homepage": "https://github.com/Hubert10210/McLev#readme"
+  "homepage": "https://github.com/Hubert10210/McLev#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
