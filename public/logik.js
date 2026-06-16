@@ -523,13 +523,14 @@ async function getchapters(book){
         let line = document.createElement("div");
         line.classList.add("chapterselectline");
 
-        let text = document.createElement("div");
-        text.innerHTML = c;
-
         let checkbox = document.createElement("input");
         checkbox.type = "checkbox";
         checkbox.id = `chapter:${c}`;
 
+        let text = document.createElement("label");
+        text.innerHTML = c;
+        text.htmlFor = `chapter:${c}`;
+        
         line.append(checkbox)
         line.appendChild(text);
         chapterselection.appendChild(line);
