@@ -51,7 +51,28 @@ body.darkmode #darkmode{
     background-color: rgba(120, 120, 120,0.3);
 }
 
-#container-1{
+#main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+#bookselection-cont{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#chapterselection-cont{
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+/*#container-1{
     display: flex;
     gap: 8px;
     flex-direction: column;
@@ -102,6 +123,14 @@ body.darkmode #darkmode{
     gap: 8px;
 }
 
+#main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: start;
+}*/
+
 body{
     color: black;
     margin: 0;
@@ -109,12 +138,4 @@ body{
 
 body.darkmode{
     color:white;
-}
-
-#main{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: start;
 }

@@ -1,0 +1,8875 @@
+{
+  "Adeamus": {
+    "ws1": [
+      [
+        "familia",
+        "f",
+        "die Familie"
+      ],
+      [
+        "servus",
+        "m",
+        "der Diener, der Sklave"
+      ],
+      [
+        "serva",
+        "f",
+        "die Dienerin, die Sklavin"
+      ],
+      [
+        "domina",
+        "f",
+        "die Herrin; die Hausherrin"
+      ],
+      [
+        "dominus",
+        "m",
+        "der Herr; der Hausherr"
+      ],
+      [
+        "negotium",
+        "n",
+        "die Aufgabe; das Geschäft"
+      ],
+      [
+        "est",
+        "",
+        "er/sie/es ist; es gibt/findet statt"
+      ],
+      [
+        "amicus",
+        "m",
+        "der Freund"
+      ],
+      [
+        "et",
+        "",
+        "und; auch"
+      ],
+      [
+        "amica",
+        "f",
+        "die Freundin"
+      ],
+      [
+        "ubi?",
+        "",
+        "wo?"
+      ],
+      [
+        "non",
+        "",
+        "nicht"
+      ],
+      [
+        "hic",
+        "",
+        "hier"
+      ],
+      [
+        "properare",
+        "",
+        "eilen, sich beeilen"
+      ],
+      [
+        "laborare",
+        "",
+        "arbeiten; leiden"
+      ],
+      [
+        "clamare",
+        "",
+        "(laut) rufen, schreien"
+      ],
+      [
+        "sedere",
+        "",
+        "sitzen, dasitzen"
+      ],
+      [
+        "gaudere",
+        "",
+        "sich freuen, froh sein"
+      ],
+      [
+        "sunt",
+        "",
+        "sie sind; es gibt/findet statt"
+      ],
+      [
+        "nam",
+        "",
+        "denn, nämlich"
+      ],
+      [
+        "etiam",
+        "",
+        "auch; sogar"
+      ],
+      [
+        "ibi",
+        "",
+        "dort"
+      ],
+      [
+        "debere",
+        "",
+        "müssen; schulden"
+      ],
+      [
+        "nunc",
+        "",
+        "nun, jetzt"
+      ],
+      [
+        "sed",
+        "",
+        "aber; sondern"
+      ],
+      [
+        "cur?",
+        "",
+        "warum?"
+      ],
+      [
+        "otium",
+        "n",
+        "die Freizeit, die Ruhe, die Muße"
+      ]
+    ],
+    "ws2": [
+      [
+        "lectus",
+        "-i m",
+        "das Bett, die Liege"
+      ],
+      [
+        "cibus",
+        "-i m",
+        "die Speise, das Essen, die Nahrung"
+      ],
+      [
+        "cenare",
+        "ceno",
+        "essen, speisen"
+      ],
+      [
+        "vinum",
+        "-i n",
+        "der Wein"
+      ],
+      [
+        "aqua",
+        "-ae f",
+        "das Wasser"
+      ],
+      [
+        "vocare",
+        "voco",
+        "rufen"
+      ],
+      [
+        "quid?",
+        "",
+        "was?"
+      ],
+      [
+        "ridere",
+        "rideo, risi, risum",
+        "lachen (über), auslachen"
+      ],
+      [
+        "imperare",
+        "impero",
+        "befehlen, anordnen, herrschen (über)"
+      ],
+      [
+        "parere",
+        "pareo, parui, pariturus",
+        "gehorchen, folgen"
+      ],
+      [
+        "cessare",
+        "cesso",
+        "zögern (zu tun), sich Zeit lassen"
+      ],
+      [
+        "salutere",
+        "saluto",
+        "grüßen, begrüßen"
+      ],
+      [
+        "salve!",
+        "",
+        "sei gegrüßt! / grüß dich!"
+      ],
+      [
+        "venire",
+        "venio, veni, ventum",
+        "kommen"
+      ],
+      [
+        "audire",
+        "audio",
+        "hören, anhören"
+      ],
+      [
+        "dormire",
+        "dormio",
+        "schlafen"
+      ],
+      [
+        "desperare",
+        "despero",
+        "verzweifeln, die Hoffnung aufgeben"
+      ],
+      [
+        "tum",
+        "",
+        "dann, darauf, da, damals"
+      ],
+      [
+        "iam",
+        "",
+        "schon, bereits"
+      ],
+      [
+        "subito",
+        "",
+        "plötzlich"
+      ],
+      [
+        "num?",
+        "",
+        "etwa?"
+      ],
+      [
+        "aperire",
+        "aperio, aperui, apertum",
+        "öffnen, aufmachen"
+      ],
+      [
+        "intrare",
+        "intro",
+        "betreten, eintreten (in)"
+      ],
+      [
+        "non debere",
+        "",
+        "nicht müssen, nicht dürfen"
+      ],
+      [
+        "salvete!",
+        "",
+        "seid gegrüßt!, grüßt euch!"
+      ]
+    ],
+    "ws3": [
+      [
+        "verbum",
+        "n",
+        "das Wort"
+      ],
+      [
+        "tacere",
+        "",
+        "still sein, schweigen, verschweigen"
+      ],
+      [
+        "rogare",
+        "",
+        "fragen, bitten (um)"
+      ],
+      [
+        "respondere",
+        "",
+        "antworten"
+      ],
+      [
+        "docere",
+        "",
+        "lehren, beibringen, unterrichten"
+      ],
+      [
+        "fabula",
+        "f",
+        "die Geschichte, die Erzählung, das Theaterstück"
+      ],
+      [
+        "laudare",
+        "",
+        "loben"
+      ],
+      [
+        "bene",
+        "",
+        "gut"
+      ],
+      [
+        "tu",
+        "",
+        "du"
+      ],
+      [
+        "amare",
+        "",
+        "lieben, (gerne) mögen"
+      ],
+      [
+        "curare",
+        "",
+        "sich kümmern (um), sorgen (für), pflegen"
+      ],
+      [
+        "ego",
+        "",
+        "ich"
+      ],
+      [
+        "spectare",
+        "",
+        "(an)schauen, betrachten"
+      ],
+      [
+        "monere",
+        "",
+        "(er)mahnen, erinnern"
+      ],
+      [
+        "amicos fabulam docere",
+        "",
+        "die Freunde eine Geschichte lehren"
+      ],
+      [
+        "tandem",
+        "",
+        "endlich, schließlich"
+      ],
+      [
+        "puella",
+        "f",
+        "das Mädchen"
+      ],
+      [
+        "quis?",
+        "",
+        "wer?"
+      ],
+      [
+        "autem",
+        "",
+        "aber, jedoch"
+      ],
+      [
+        "semper",
+        "",
+        "immer"
+      ],
+      [
+        "narrare",
+        "",
+        "erzählen, berichten"
+      ],
+      [
+        "quaeso/quaesumus",
+        "",
+        "(ich) bitte / (wir) bitten"
+      ],
+      [
+        "enim",
+        "",
+        "denn, nämlich"
+      ]
+    ],
+    "ws4": [
+      [
+        "Romanus",
+        "-i m",
+        "der Römer"
+      ],
+      [
+        "dea",
+        "-ae f",
+        "die Göttin"
+      ],
+      [
+        "deus",
+        "dei m",
+        "der Gott"
+      ],
+      [
+        "sacrum",
+        "-i n",
+        "das Opfer(tier), Pl. die Opferhandlung"
+      ],
+      [
+        "ara",
+        "ae f",
+        "der Altar"
+      ],
+      [
+        "templum",
+        "-i n",
+        "der Tempel"
+      ],
+      [
+        "ignorare",
+        "ignoro",
+        "nicht wissen, nicht kennen"
+      ],
+      [
+        "non ignorare",
+        "",
+        "genau wissen, gut kennen"
+      ],
+      [
+        "habere",
+        "habeo",
+        "haben, halten"
+      ],
+      [
+        "timere",
+        "timeo",
+        "fürchten, sich fürchten, Angst haben"
+      ],
+      [
+        "colere",
+        "colo, colui, cultum",
+        "bebauen, pflegen, verehren"
+      ],
+      [
+        "emere",
+        "emo, emi, emptum",
+        "kaufen"
+      ],
+      [
+        "vendere",
+        "vendo, vendidi, venditum",
+        "verkaufen"
+      ],
+      [
+        "dicere",
+        "dico, dixi, dictum",
+        "sagen, sprechen, reden"
+      ],
+      [
+        "facere",
+        "facio, facio, factum",
+        "tun, machen, ausführen"
+      ],
+      [
+        "sacra facere",
+        "",
+        "opfern"
+      ],
+      [
+        "cupere",
+        "cupio, cupivi, cupitum",
+        "wünschen (zu tun), (haben) wollen, begehren"
+      ],
+      [
+        "novem",
+        "",
+        "neun"
+      ],
+      [
+        "mille",
+        "",
+        "tausend"
+      ],
+      [
+        "poscere",
+        "posco, poposci, -",
+        "fordern"
+      ],
+      [
+        "tres",
+        "",
+        "drei"
+      ],
+      [
+        "incendere",
+        "incendo, incendi, incensum",
+        "entflammen, in Brand setzen"
+      ],
+      [
+        "sex",
+        "",
+        "sechs"
+      ],
+      [
+        "iterum",
+        "",
+        "wiederum, ein zweites Mal"
+      ],
+      [
+        "certe",
+        "",
+        "sicher, gewiss"
+      ],
+      [
+        "si",
+        "",
+        "wenn, falls"
+      ]
+    ],
+    "ws5": [
+      [
+        "theatrum",
+        "n",
+        "das Theater"
+      ],
+      [
+        "videre",
+        "video",
+        "sehen"
+      ],
+      [
+        "ludus",
+        "m",
+        "das Spiel, die Schule, Pl. die (Zirkus-)Spiele"
+      ],
+      [
+        "incipere",
+        "icipio",
+        "anfangen, beginnen"
+      ],
+      [
+        "filius",
+        "m",
+        "der Sohn"
+      ],
+      [
+        "effugere",
+        "effugio (m. Akk.)",
+        "(jemandem) entkommen"
+      ],
+      [
+        "mercator",
+        "m",
+        "der Händler, der Kaufmann"
+      ],
+      [
+        "senator",
+        "m",
+        "der Senator"
+      ],
+      [
+        "gladiator",
+        "m",
+        "der Gladiator"
+      ],
+      [
+        "fur",
+        "m/f",
+        "der Dieb / die Diebin"
+      ],
+      [
+        "clamor",
+        "m",
+        "der Schrei, das Geschrei, der Lärm"
+      ],
+      [
+        "esse",
+        "sum",
+        "sein"
+      ],
+      [
+        "adesse",
+        "adsum",
+        "da sein, helfen"
+      ],
+      [
+        "abesse",
+        "absum",
+        "fort sein, weg sein, fehlen"
+      ],
+      [
+        "retinere",
+        "retineo",
+        "zurückhalten, behalten, festhalten"
+      ],
+      [
+        "turba",
+        "f",
+        "die (Menschen-)Menge, das Durcheinander, das Gedränge"
+      ],
+      [
+        "amor",
+        "m",
+        "die Liebe"
+      ],
+      [
+        "dolor",
+        "m",
+        "der Schmerz"
+      ],
+      [
+        "vita",
+        "f",
+        "das Leben, die Lebensweise"
+      ],
+      [
+        "bestia",
+        "f",
+        "das (wilde) Tier"
+      ],
+      [
+        "liberi",
+        "m (Pl.)",
+        "die Kinder"
+      ],
+      [
+        "porta",
+        "f",
+        "die Tür, das Tor, der Eingang"
+      ],
+      [
+        "claudere",
+        "claudo",
+        "schließen, einschließen, versperren"
+      ],
+      [
+        "non iam",
+        "",
+        "nicht mehr"
+      ]
+    ],
+    "ws6": [
+      [
+        "forum",
+        "-i n",
+        "das Forum, der (Markt-)Platz, das Stadtzentrum"
+      ],
+      [
+        "occurere",
+        "occuro, occuri, occursum",
+        "entgegenlaufen, -treten, begegnen"
+      ],
+      [
+        "orator",
+        "oratoris m",
+        "der Redner"
+      ],
+      [
+        "flamma",
+        "-ae f",
+        "die Flamme"
+      ],
+      [
+        "me",
+        "",
+        "mich"
+      ],
+      [
+        "fugere",
+        "fugio, fugio, fugiturus",
+        "fliehen (vor), meiden"
+      ],
+      [
+        "locus",
+        "-i m",
+        "der Ort, der Platz, die Stelle"
+      ],
+      [
+        "dare",
+        "do, dedi, datum",
+        "geben"
+      ],
+      [
+        "locum dare",
+        "",
+        "Platz machen"
+      ],
+      [
+        "appropinquare",
+        "appropinquo",
+        "sich nähern, näher kommen"
+      ],
+      [
+        "relinquere",
+        "relinquo, reliqui, relictum",
+        "verlassen, zurücklassen"
+      ],
+      [
+        "agere",
+        "ago, egi, actum",
+        "tun, handeln, verhandeln, treiben"
+      ],
+      [
+        "negotia agere",
+        "",
+        "Geschäfte betreiben"
+      ],
+      [
+        "bestiam agere",
+        "",
+        "ein (wildes) Tier treiben"
+      ],
+      [
+        "fabulam agere",
+        "",
+        "ein (Theater-)Stück aufführen"
+      ],
+      [
+        "quid agis?",
+        "",
+        "wie geht es dir?"
+      ],
+      [
+        "Vitam agere",
+        "",
+        "sein Leben verbringen"
+      ],
+      [
+        "mittere",
+        "mitto, misi, missum",
+        "schicken, loslassen, laufen lassen, werfen"
+      ],
+      [
+        "posse",
+        "possum, potui",
+        "können, vermögen"
+      ],
+      [
+        "nondum",
+        "",
+        "noch nicht"
+      ],
+      [
+        "exspectare",
+        "exspecto",
+        "warten (auf), erwarten"
+      ],
+      [
+        "statim",
+        "",
+        "sofort, auf der Stelle"
+      ],
+      [
+        "resistere",
+        "resisto, restiti",
+        "sich widersetzen, Widerstand leisten"
+      ],
+      [
+        "adhuc",
+        "",
+        "bis jetzt, immer noch"
+      ],
+      [
+        "explicare",
+        "explico",
+        "erklären"
+      ],
+      [
+        "nuper",
+        "",
+        "neulich"
+      ]
+    ],
+    "ws7": [
+      [
+        "signum",
+        "-i n",
+        "das Zeichen, das Feldzeichen"
+      ],
+      [
+        "vincere",
+        "vinco, vici, victum",
+        "siegen, besiegen"
+      ],
+      [
+        "praemium",
+        "praemii n",
+        "die Belohnung, der Lohn, der Preis"
+      ],
+      [
+        "honor",
+        "honoris m",
+        "die Ehre, das Ehrenamt"
+      ],
+      [
+        "studere",
+        "studeo",
+        "sich bemühen, sich (wissenschaftlich) beschäftigen mit, studieren"
+      ],
+      [
+        "vincere studere",
+        "",
+        "siegen wollen"
+      ],
+      [
+        "amico studere",
+        "",
+        "sich um den Freund bemühen"
+      ],
+      [
+        "vix",
+        "",
+        "kaum, nur mit Mühe"
+      ],
+      [
+        "equus",
+        "-i m",
+        "das Pferd"
+      ],
+      [
+        "frustra",
+        "",
+        "vergeblich, umsonst"
+      ],
+      [
+        "denique",
+        "",
+        "schließlich"
+      ],
+      [
+        "petere",
+        "peto, petivi, petitum",
+        "erbitten, verlangen, streben nach"
+      ],
+      [
+        "senex",
+        "senecis m",
+        "der Mann, der Greis"
+      ],
+      [
+        "adulescens",
+        "adulescentis m",
+        "der Jugendliche, der junge Mann"
+      ],
+      [
+        "vox",
+        "vocis f",
+        "die Stimme, das Wort"
+      ],
+      [
+        "credere",
+        "credo, credidi, creditum",
+        "glauben, vertrauen"
+      ],
+      [
+        "incendium",
+        "incendii n",
+        "der Brand, das Feuer"
+      ],
+      [
+        "auctor",
+        "auctoris m/f",
+        "der Urheber, der Gründer, der Schriftsteller"
+      ],
+      [
+        "taberna",
+        "-ae f",
+        "der Laden, das Wirtshaus"
+      ],
+      [
+        "forte",
+        "",
+        "zufällig"
+      ],
+      [
+        "intellegere",
+        "intellego, intellexi, intellectum",
+        "erkennen, verstehen"
+      ],
+      [
+        "comprehendere",
+        "comprehendo, comprehendi, comprehensum",
+        "ergreifen, festnehmen, erfassen"
+      ],
+      [
+        "servare",
+        "servo",
+        "retten (vor), bewahren, beschützen"
+      ],
+      [
+        "sollicitare",
+        "sollicito",
+        "beunruhigen, erregen"
+      ],
+      [
+        "convincere",
+        "convinco, convici, convictum",
+        "überführen"
+      ]
+    ],
+    "ws8": [
+      [
+        "gaudium",
+        "-i n",
+        "die Freude"
+      ],
+      [
+        "gladius",
+        "-i m",
+        "das Schwert"
+      ],
+      [
+        "arma",
+        "-orum n (Pl.)",
+        "die Waffen"
+      ],
+      [
+        "supplicium",
+        "-i n",
+        "die Strafe, die Todesstrafe, die Hinrichtung, das Gebet"
+      ],
+      [
+        "populus",
+        "-i m",
+        "das Volk"
+      ],
+      [
+        "exercere",
+        "exerceo",
+        "üben, trainieren"
+      ],
+      [
+        "se exercere",
+        "",
+        "sich üben, trainieren"
+      ],
+      [
+        "carere",
+        "careo",
+        "entbehren, nicht haben, frei sein (von)"
+      ],
+      [
+        "ferrum",
+        "-i n",
+        "das Eisen, die Waffe, das Schwert"
+      ],
+      [
+        "liberare",
+        "libero",
+        "befreien"
+      ],
+      [
+        "servum liberare",
+        "",
+        "einen Sklaven freilassen"
+      ],
+      [
+        "se",
+        "",
+        "sich (Akk.)"
+      ],
+      [
+        "afficere",
+        "afficio (m. Abl.)",
+        "versehen (mit)"
+      ],
+      [
+        "doloribus afficere",
+        "",
+        "Schmerzen zufügen"
+      ],
+      [
+        "gaudio afficere",
+        "",
+        "erfreuen"
+      ],
+      [
+        "honore afficere",
+        "",
+        "Ehre erweisen"
+      ],
+      [
+        "supplicio afficere",
+        "",
+        "hinrichten"
+      ],
+      [
+        "licet",
+        "",
+        "es ist (jemandem) möglich/erlaubt (zu tun)"
+      ],
+      [
+        "solum",
+        "",
+        "nur"
+      ],
+      [
+        "non solum ..., sed etiam ...",
+        "",
+        "nicht nur ..., sondern auch ..."
+      ],
+      [
+        "quoque",
+        "",
+        "auch"
+      ],
+      [
+        "recreare",
+        "recreo",
+        "erholen"
+      ],
+      [
+        "se recreare",
+        "",
+        "sich erholen"
+      ],
+      [
+        "corpus",
+        "corporis n",
+        "der Körper, der Leichnam"
+      ],
+      [
+        "raro",
+        "",
+        "selten"
+      ],
+      [
+        "vulnus",
+        "vulneris n",
+        "die Wunde"
+      ],
+      [
+        "vulnus curare",
+        "",
+        "eine Wunde behandeln"
+      ],
+      [
+        "labor",
+        "laboris m",
+        "die Arbeit, die Mühe"
+      ],
+      [
+        "domum",
+        "",
+        "heim, nach Hause"
+      ],
+      [
+        "decedere",
+        "decedo",
+        "(weg-)gehen, sterben"
+      ]
+    ],
+    "ws9": [
+      [
+        "vestis",
+        "vestis f, Gen. Pl. vestium",
+        "das Kleid, die Kleidung"
+      ],
+      [
+        "tunica",
+        "-ae f",
+        "die Tunika"
+      ],
+      [
+        "toga",
+        "-ae f",
+        "die Toga"
+      ],
+      [
+        "consul",
+        "-is m",
+        "der Konsul"
+      ],
+      [
+        "currere",
+        "curro",
+        "laufen, rennen"
+      ],
+      [
+        "habitare",
+        "habito",
+        "wohnen, bewohnen"
+      ],
+      [
+        "de",
+        "(m. Abl.)",
+        "von ... herab, von, über, um/wegen"
+      ],
+      [
+        "de amico narrare",
+        "",
+        "von/über den Freund erzählen"
+      ],
+      [
+        "de amicis timere",
+        "",
+        "um die Freunde Angst haben"
+      ],
+      [
+        "ad",
+        "(m. Akk.)",
+        "zu (... hin), bei, an"
+      ],
+      [
+        "per",
+        "(m. Akk.)",
+        "durch (... hindurch)"
+      ],
+      [
+        "post",
+        "(m. Akk.)",
+        "nach, hinter"
+      ],
+      [
+        "e/ex",
+        "(m. Abl.)",
+        "aus, aus ... heraus, von ... her"
+      ],
+      [
+        "super",
+        "(m. Akk.)",
+        "über"
+      ],
+      [
+        "cum",
+        "(m. Abl.)",
+        "(zusammen) mit"
+      ],
+      [
+        "sine",
+        "(m. Abl.)",
+        "ohne"
+      ],
+      [
+        "in",
+        "",
+        "(m. Akk.) in, auf, nach, gegen (wohin?); (m. Abl.) in, an, auf, bei (wo?)"
+      ],
+      [
+        "sub",
+        "",
+        "(m. Akk.) unter (wohin?); (m. Abl.) unter (wo?)"
+      ],
+      [
+        "stare",
+        "sto",
+        "stehen, dastehen"
+      ],
+      [
+        "sermo",
+        "sermonis m",
+        "das Gespräch, die Sprache"
+      ],
+      [
+        "sermonem habere (cum)",
+        "",
+        "ein Gespräch führen (mit)"
+      ],
+      [
+        "abdere",
+        "abdo",
+        "verstecken, verbergen"
+      ],
+      [
+        "oculus",
+        "-i m",
+        "das Auge"
+      ],
+      [
+        "amittere",
+        "amitto",
+        "verlieren"
+      ],
+      [
+        "vicus",
+        "-i m",
+        "die Gasse, das Dorf"
+      ],
+      [
+        "plebs",
+        "plebis f",
+        "das (einfache) Volk"
+      ],
+      [
+        "pecunia",
+        "-ae f",
+        "das Geld"
+      ],
+      [
+        "timor",
+        "timoris m",
+        "die Angst, die Furcht"
+      ],
+      [
+        "mutare",
+        "muto",
+        "ändern, wechseln, verwandeln"
+      ],
+      [
+        "in lectum se abdere",
+        "",
+        "sich im Bett verstecken"
+      ]
+    ],
+    "ws10": [
+      [
+        "possidere",
+        "possido, possedi, possesum",
+        "besitzen"
+      ],
+      [
+        "donum",
+        "-i n",
+        "das Geschenk"
+      ],
+      [
+        "poena",
+        "-ae f",
+        "die Strafe"
+      ],
+      [
+        "poena/poenis afficere",
+        "",
+        "bestrafen"
+      ],
+      [
+        "studium",
+        "studii n",
+        "die Bemühungen, das Streben, die (wissenschaftliche) Beschäftigung"
+      ],
+      [
+        "a/ab",
+        "",
+        "von, von…her, von…weg"
+      ],
+      [
+        "nihil",
+        "",
+        "nichts"
+      ],
+      [
+        "convenire",
+        "convenio, conventum",
+        "zusammenkommen, treffen, passen"
+      ],
+      [
+        "amicam convenire",
+        "",
+        "eine Freundin treffen"
+      ],
+      [
+        "amicae convenit",
+        "",
+        "es passt (zu) der Freundin"
+      ],
+      [
+        "in tabernam convenire",
+        "",
+        "im Wirtshaus zusammenkommen"
+      ],
+      [
+        "parentes",
+        "parent(i)um m,f Pl.",
+        "die Eltern"
+      ],
+      [
+        "libertas",
+        "libertatis f",
+        "die Freiheit"
+      ],
+      [
+        "fortuna",
+        "-ae f",
+        "das Schicksal, das Glück"
+      ],
+      [
+        "nos",
+        "",
+        "wir, uns"
+      ],
+      [
+        "vos",
+        "",
+        "ihr, euch"
+      ],
+      [
+        "is, ea, id",
+        "",
+        "dieser; der(jenige); er"
+      ],
+      [
+        "domi",
+        "",
+        "daheim, zuhause"
+      ],
+      [
+        "ut",
+        "",
+        "wie"
+      ],
+      [
+        "gratia",
+        "-ae",
+        "der Dank, die Anmut"
+      ],
+      [
+        "gratias agere",
+        "",
+        "danken"
+      ],
+      [
+        "libenter",
+        "",
+        "gern"
+      ],
+      [
+        "diligere",
+        "diligo, dilexi, dilectum",
+        "lieben, sehr schätzen"
+      ],
+      [
+        "itaque",
+        "",
+        "daher, deshalb"
+      ],
+      [
+        "prodesse",
+        "prosum, profui",
+        "nützen"
+      ],
+      [
+        "tamen",
+        "",
+        "dennoch, jedoch"
+      ],
+      [
+        "haud",
+        "",
+        "nicht"
+      ],
+      [
+        "paene",
+        "",
+        "beinahe, fast"
+      ]
+    ],
+    "ws11": [
+      [
+        "periculum",
+        "-i n",
+        "die Gefahr"
+      ],
+      [
+        "desinere",
+        "desino",
+        "ablassen, aufhören"
+      ],
+      [
+        "timere desino",
+        "",
+        "ich höre auf, mich zu fürchten"
+      ],
+      [
+        "deponere",
+        "depono",
+        "ablegen, niederlegen"
+      ],
+      [
+        "magnus",
+        "-a, -um",
+        "groß, wichtig"
+      ],
+      [
+        "magna voce",
+        "",
+        "mit lauter Stimme"
+      ],
+      [
+        "parvus",
+        "-a, -um",
+        "klein, gering"
+      ],
+      [
+        "parva voce",
+        "",
+        "mit leiser Stimme"
+      ],
+      [
+        "bonus",
+        "-a, -um",
+        "gut"
+      ],
+      [
+        "bonum",
+        "-i n",
+        "das Gute"
+      ],
+      [
+        "bona",
+        "-orum n (Pl.)",
+        "die Güter"
+      ],
+      [
+        "malus",
+        "-a, -um",
+        "böse, schlecht, schlimm"
+      ],
+      [
+        "malum",
+        "-i n",
+        "das Böse, das Übel, das Leid"
+      ],
+      [
+        "vir",
+        "viri m",
+        "der Mann"
+      ],
+      [
+        "puer",
+        "pueri m",
+        "der Junge, der Bub"
+      ],
+      [
+        "magister",
+        "magistri m",
+        "der Lehrer"
+      ],
+      [
+        "pulcher",
+        "pulchra, pulchrum",
+        "schön"
+      ],
+      [
+        "miser",
+        "misera, miserum",
+        "arm, unglücklich, erbärmlich"
+      ],
+      [
+        "cognoscere",
+        "cognosco",
+        "kennenlernen, erkennen, erfahren"
+      ],
+      [
+        "memoria",
+        "-ae f",
+        "die Erinnerung, das Gedächtnis"
+      ],
+      [
+        "memoria comprehendere",
+        "",
+        "im Gedächtnis behalten"
+      ],
+      [
+        "sumere",
+        "sumo",
+        "nehmen"
+      ],
+      [
+        "iacere",
+        "iaceo",
+        "liegen"
+      ],
+      [
+        "custos",
+        "custodis m",
+        "der Wächter"
+      ],
+      [
+        "tempus",
+        "temporis n",
+        "die Zeit"
+      ],
+      [
+        "mos",
+        "moris m",
+        "die Sitte, der Brauch; Pl. auch: der Charakter"
+      ],
+      [
+        "hodie",
+        "",
+        "heute"
+      ],
+      [
+        "multi",
+        "-ae, -a",
+        "viele"
+      ]
+    ],
+    "ws12": [
+      [
+        "bibere",
+        "bibo, bibi, bibitum",
+        "trinken"
+      ],
+      [
+        "saepe",
+        "",
+        "oft"
+      ],
+      [
+        "mirus",
+        "-a, -um",
+        "erstaunlich, sonderbar, wunderbar"
+      ],
+      [
+        "copia",
+        "-ae",
+        "die Menge, der Vorrat; Pl. die Truppen"
+      ],
+      [
+        "copia amicorum",
+        "",
+        "eine Menge (an) Freunden"
+      ],
+      [
+        "scelus",
+        "sceleris n",
+        "das Verbrechen, der Frevel"
+      ],
+      [
+        "scelus facere",
+        "",
+        "ein Verbrechen begehen"
+      ],
+      [
+        "parare",
+        "paro",
+        "bereiten, vorbereiten, erwerben; (m. Inf.) vorhaben (zu tun)"
+      ],
+      [
+        "cenare paro",
+        "",
+        "ich habe vor zu essen"
+      ],
+      [
+        "ita",
+        "",
+        "so"
+      ],
+      [
+        "ita est",
+        "",
+        "so ist es"
+      ],
+      [
+        "descendere",
+        "descendo, descendi, descensum",
+        "herabsteigen, hinabsteigen"
+      ],
+      [
+        "quaerere",
+        "quaero, quaesivi, quaesitum",
+        "suchen; (ex/de m. Abl.) (jmd.) fragen"
+      ],
+      [
+        "amicum quaerere",
+        "",
+        "den Freund suchen"
+      ],
+      [
+        "ex amico quaerere",
+        "",
+        "den Freund fragen"
+      ],
+      [
+        "invenire",
+        "invenio, inveni, inventum",
+        "finden, auffinden, erfinden"
+      ],
+      [
+        "qui, quae, quod",
+        "",
+        "der, die, das; welcher, welche, welches"
+      ],
+      [
+        "mulier",
+        "mulieris f",
+        "die (erwachsene) Frau"
+      ],
+      [
+        "maritus",
+        "-i m",
+        "der Ehemann, Gatte"
+      ],
+      [
+        "pugnare",
+        "pugno",
+        "kämpfen"
+      ],
+      [
+        "scire",
+        "scio",
+        "wissen, kennen"
+      ],
+      [
+        "modus",
+        "-i m",
+        "die Art, die Weise, das Maß"
+      ],
+      [
+        "eiusmodi/eius modi",
+        "",
+        "derartig, solcher"
+      ],
+      [
+        "eiusmodi arma",
+        "",
+        "solche Waffen"
+      ],
+      [
+        "arcessere",
+        "arcesso, arcessivi, arcessitum",
+        "herbeirufen, holen, holen lassen"
+      ],
+      [
+        "vinculum",
+        "-i n",
+        "die Fessel"
+      ],
+      [
+        "in vincula dare",
+        "",
+        "fesseln, in Fesseln legen"
+      ]
+    ],
+    "ws13": [
+      [
+        "via",
+        "-ae f",
+        "der Weg, die Straße"
+      ],
+      [
+        "viam facere",
+        "",
+        "eine Reise machen"
+      ],
+      [
+        "unus",
+        "-a, -um, Gen. unius, Dat. uni",
+        "ein(er), ein einziger"
+      ],
+      [
+        "unus e viris",
+        "",
+        "einer von den Männern"
+      ],
+      [
+        "accedere",
+        "accedo",
+        "herbeikommen, herantreten, sich nähern"
+      ],
+      [
+        "oratio",
+        "orationis f",
+        "die Rede"
+      ],
+      [
+        "ergo",
+        "",
+        "also, folglich"
+      ],
+      [
+        "urbs",
+        "urbis f, Gen. Pl. urbium",
+        "die Stadt, die Großstadt, die Hauptstadt"
+      ],
+      [
+        "componere",
+        "compono",
+        "zusammenstellen, verfassen, ordnen"
+      ],
+      [
+        "indicium",
+        "-i n",
+        "der Beweis"
+      ],
+      [
+        "animus",
+        "-i m",
+        "der Geist, die Gesinnung, der Sinn, der Mut"
+      ],
+      [
+        "in animo habere",
+        "",
+        "im Sinn haben, beabsichtigen"
+      ],
+      [
+        "magno animo",
+        "",
+        "mit großem Mut"
+      ],
+      [
+        "pergere",
+        "pergo",
+        "fortsetzen (zu tun), weitermachen, aufbrechen"
+      ],
+      [
+        "colere",
+        "colo, colui",
+        "bebauen, pflegen, verehren"
+      ],
+      [
+        "arcessere",
+        "arcesso, arcessivi",
+        "herbeirufen, holen, holen lassen"
+      ],
+      [
+        "petere",
+        "peto, petivi",
+        "(er)bitten, verlangen, streben nach, erreichen wollen, aufsuchen, angreifen"
+      ],
+      [
+        "cupere",
+        "cupio, cupivi (m. Inf.)",
+        "wünschen (zu tun), (haben) wollen, begehren"
+      ],
+      [
+        "posse",
+        "possum, potui",
+        "können, vermögen"
+      ],
+      [
+        "esse",
+        "sum, fui",
+        "sein"
+      ],
+      [
+        "abesse",
+        "absum, afui",
+        "fort sein, weg sein, fehlen"
+      ],
+      [
+        "adesse",
+        "adsum, affui",
+        "da sein, helfen"
+      ],
+      [
+        "prodesse",
+        "prosum, profui",
+        "nützen"
+      ],
+      [
+        "pater",
+        "patris m",
+        "der Vater"
+      ],
+      [
+        "clarus",
+        "-a, -um",
+        "berühmt, klar"
+      ],
+      [
+        "diu",
+        "",
+        "lange (Zeit)"
+      ],
+      [
+        "reprehendere",
+        "reprehendo",
+        "tadeln, kritisieren"
+      ],
+      [
+        "perdere",
+        "perdo",
+        "vernichten, verderben, verlieren"
+      ],
+      [
+        "sceleratus",
+        "-a, -um",
+        "verbrecherisch, frevelhaft; Subst.: der Verbrecher"
+      ],
+      [
+        "magis",
+        "",
+        "mehr"
+      ],
+      [
+        "quam",
+        "",
+        "als (bei Vergleichen)"
+      ],
+      [
+        "magis ... quam",
+        "",
+        "mehr ... als"
+      ],
+      [
+        "verba facere",
+        "",
+        "sprechen, reden"
+      ]
+    ],
+    "ws14": [
+      [
+        "componere",
+        "compono, composui, compositum",
+        "zusammenstellen, verfassen, ordnen"
+      ],
+      [
+        "deponere",
+        "depono, deposui, depositum",
+        "ablegen, niederlegen"
+      ],
+      [
+        "quaerere",
+        "quaero, quasivi, quaesitum",
+        "suchen; (ex/de m. Abl.) (jmd.) fragen"
+      ],
+      [
+        "coniunx",
+        "coniugis m/f",
+        "der Ehemann, die Ehefrau, der Gatte, die Gattin"
+      ],
+      [
+        "cena",
+        "-ae",
+        "die (Haupt-)Mahlzeit, das Essen, das Gastmahl"
+      ],
+      [
+        "quia",
+        "",
+        "weil"
+      ],
+      [
+        "sustinere",
+        "sustineo, sustinui, sustentum",
+        "aushalten, ertragen"
+      ],
+      [
+        "nonne?",
+        "",
+        "(etwa) nicht?, denn nicht?"
+      ],
+      [
+        "placere",
+        "placeo, placui, placitum",
+        "gefallen"
+      ],
+      [
+        "mihi placet",
+        "",
+        "mir gefällt, ich beschließe"
+      ],
+      [
+        "hospes",
+        "hospitis m",
+        "der Gast, der Gastgeber"
+      ],
+      [
+        "fames",
+        "famis f",
+        "der Hunger"
+      ],
+      [
+        "velle",
+        "volo, volui",
+        "wollen"
+      ],
+      [
+        "nolle",
+        "nolo, nolui",
+        "nicht wollen"
+      ],
+      [
+        "malle",
+        "malo, malui",
+        "lieber wollen"
+      ],
+      [
+        "frater",
+        "fratris m",
+        "der Bruder"
+      ],
+      [
+        "ecce!",
+        "",
+        "sieh da!, schau!, schaut!"
+      ],
+      [
+        "tam",
+        "",
+        "so"
+      ],
+      [
+        "saevus",
+        "-a, -um",
+        "wild, wütend, grimmig"
+      ],
+      [
+        "quondam",
+        "",
+        "einmal, einst"
+      ],
+      [
+        "intituere",
+        "instituo, instittui, institutum",
+        "unterrichten, einführen, errichten"
+      ],
+      [
+        "pax",
+        "pacis f",
+        "der Friede"
+      ],
+      [
+        "parcere",
+        "parco, peperci, parsurus",
+        "(ver)schonen, sparen"
+      ],
+      [
+        "irae parcere",
+        "",
+        "seinen Zorn zurückhalten"
+      ],
+      [
+        "furi parcere",
+        "",
+        "den Dieb verschonen"
+      ],
+      [
+        "pecuniae parcere",
+        "",
+        "Geld sparen"
+      ],
+      [
+        "ira",
+        "-ae",
+        "der Zorn, die Wut"
+      ],
+      [
+        "mater",
+        "matris f",
+        "die Mutter"
+      ],
+      [
+        "tempus agere",
+        "",
+        "seine Zeit verbringen"
+      ]
+    ],
+    "ws15": [
+      [
+        "condere",
+        "condo",
+        "gründen, bestatten"
+      ],
+      [
+        "potentia",
+        "-ae f",
+        "die Macht"
+      ],
+      [
+        "conspicere",
+        "conspicio",
+        "erblicken, sehen"
+      ],
+      [
+        "iter",
+        "itineris n",
+        "die Reise, der Weg, der Marsch"
+      ],
+      [
+        "iter facere",
+        "",
+        "reisen"
+      ],
+      [
+        "prope",
+        "",
+        "(Adv.) nahe, in der Nähe; (Präp. m. Akk.) nahe (bei), in der Nähe von"
+      ],
+      [
+        "huc",
+        "",
+        "hierher"
+      ],
+      [
+        "ducere",
+        "duco",
+        "führen, ziehen"
+      ],
+      [
+        "caelum",
+        "-i n",
+        "der Himmel"
+      ],
+      [
+        "terra",
+        "-ae f",
+        "das Land, die Erde"
+      ],
+      [
+        "mons",
+        "montis m, Gen. Pl. montium",
+        "der Berg"
+      ],
+      [
+        "altus",
+        "-a, -um",
+        "hoch, tief"
+      ],
+      [
+        "currere",
+        "curro, cucurri",
+        "laufen, rennen"
+      ],
+      [
+        "dare",
+        "do, dedi",
+        "geben"
+      ],
+      [
+        "abdere",
+        "abdo, abdidi",
+        "verstecken, verbergen"
+      ],
+      [
+        "condere",
+        "condo, condidi",
+        "gründen, bestatten"
+      ],
+      [
+        "parcere",
+        "parco, peperci (m. Dat.)",
+        "(ver)schonen, sparen"
+      ],
+      [
+        "accedere",
+        "accedo, accessi",
+        "herbeikommen, herantreten, sich nähern"
+      ],
+      [
+        "conspicere",
+        "conspicio, conspexi",
+        "erblicken, sehen"
+      ],
+      [
+        "dicere",
+        "dico, dixi",
+        "sagen, sprechen, reden"
+      ],
+      [
+        "ducere",
+        "duco, duxi",
+        "führen, ziehen"
+      ],
+      [
+        "ridere",
+        "rideo, risi",
+        "lachen (über), auslachen"
+      ],
+      [
+        "sumere",
+        "sumo, sumpsi",
+        "nehmen"
+      ],
+      [
+        "facere",
+        "facio, feci",
+        "tun, machen, ausführen"
+      ],
+      [
+        "venire",
+        "venio, veni",
+        "kommen"
+      ],
+      [
+        "invenire",
+        "invenio, inveni",
+        "finden, auffinden, erfinden"
+      ],
+      [
+        "videre",
+        "video, vidi",
+        "sehen"
+      ],
+      [
+        "vincere",
+        "vinco, vici",
+        "siegen, besiegen"
+      ],
+      [
+        "comprehendere",
+        "comprehendo, comprehendi",
+        "ergreifen, festnehmen, erfassen"
+      ],
+      [
+        "reprehendere",
+        "reprehendo, reprehendi",
+        "tadeln, kritisieren"
+      ],
+      [
+        "tangere",
+        "tango, tetigi",
+        "berühren, erreichen"
+      ],
+      [
+        "villa",
+        "-ae f",
+        "die Villa, das Landhaus"
+      ],
+      [
+        "superare",
+        "supero",
+        "überwinden, besiegen"
+      ],
+      [
+        "consistere",
+        "consisto, constiti",
+        "stehen bleiben, sich aufstellen"
+      ],
+      [
+        "movere",
+        "moveo, movi",
+        "bewegen, erregen"
+      ],
+      [
+        "inferi",
+        "-orum m",
+        "die (Bewohner der) Unterwelt"
+      ],
+      [
+        "neglegere",
+        "neglego, neglexi",
+        "vernachlässigen, gering schätzen, nicht beachten"
+      ],
+      [
+        "ut dicunt",
+        "",
+        "wie man sagt"
+      ]
+    ],
+    "ws16": [
+      [
+        "aperire",
+        "aperio, aperui, apertum",
+        "öffnen, aufmachen"
+      ],
+      [
+        "descendere",
+        "descendo, descendi, descensum",
+        "herabsteigen, hinabsteigen"
+      ],
+      [
+        "intellegere",
+        "intellego, intellexi, intellectum",
+        "erkennen, verstehen"
+      ],
+      [
+        "mittere",
+        "misi, missum",
+        "schicken, loslassen, laufen lassen, werfen"
+      ],
+      [
+        "respondere",
+        "respondeo, respondi, responsum",
+        "antworten"
+      ],
+      [
+        "bellum",
+        "-i n",
+        "der Krieg"
+      ],
+      [
+        "homo",
+        "homonis m",
+        "der Mensch"
+      ],
+      [
+        "tradere",
+        "trado, tradidi, traditum",
+        "übergeben, überliefern"
+      ],
+      [
+        "fingere",
+        "fingo, finxi, fictum",
+        "formen, gestalten, sich ausdenken, erfinden"
+      ],
+      [
+        "nomen",
+        "nominis n",
+        "der Name"
+      ],
+      [
+        "terrere",
+        "terreo",
+        "(jmd.) heftig erschrecken"
+      ],
+      [
+        "voluntas",
+        "voluntatis f",
+        "der Wille"
+      ],
+      [
+        "nescire",
+        "nescio",
+        "nicht wissen, nicht kennen"
+      ],
+      [
+        "vivere",
+        "vivo, vixi, victurus",
+        "leben"
+      ],
+      [
+        "tectum",
+        "-i n",
+        "das Haus"
+      ],
+      [
+        "ager",
+        "agri m",
+        "der Acker, das Feld; (Pl.) das Land"
+      ],
+      [
+        "pecus",
+        "pecoris n",
+        "das Vieh; (Pl.) die Viehherde"
+      ],
+      [
+        "alere",
+        "alo, alui, al(i)tum",
+        "aufziehen, (er)nähren"
+      ],
+      [
+        "ignis",
+        "ignis m",
+        "das Feuer"
+      ],
+      [
+        "rapere",
+        "rapio, rapui, raptum",
+        "rauben"
+      ],
+      [
+        "antea",
+        "",
+        "vorher, früher"
+      ],
+      [
+        "dolus",
+        "-i m",
+        "die List, die Täuschung"
+      ],
+      [
+        "morbus",
+        "-i m",
+        "die Krankheit"
+      ]
+    ],
+    "ws17": [
+      [
+        "afficere",
+        "afficio, affeci (m. Abl.)",
+        "versehen (mit)"
+      ],
+      [
+        "credere",
+        "credo, credidi",
+        "glauben, vertrauen"
+      ],
+      [
+        "perdere",
+        "perdo, perdidi",
+        "vernichten, verderben, verlieren"
+      ],
+      [
+        "pergere",
+        "pergo, perrexi",
+        "fortsetzen (zu tun), weitermachen, aufbrechen"
+      ],
+      [
+        "tenere",
+        "teneo",
+        "halten, festhalten"
+      ],
+      [
+        "(in) memoria tenere",
+        "",
+        "in Erinnerung haben, im Gedächtnis behalten"
+      ],
+      [
+        "oportet",
+        "oportuit",
+        "es gehört sich, man muss"
+      ],
+      [
+        "mors",
+        "mortis f",
+        "der Tod"
+      ],
+      [
+        "torquere",
+        "torqueo, torsi",
+        "foltern, quälen, drehen"
+      ],
+      [
+        "servire",
+        "servio",
+        "dienen, Sklave sein"
+      ],
+      [
+        "rex",
+        "regis m",
+        "der König"
+      ],
+      [
+        "iubere",
+        "iubeo, iussi (m. Akk.)",
+        "befehlen, anordnen"
+      ],
+      [
+        "vis",
+        "vis, -, vim, vi f; Pl. vires, virium",
+        "die Kraft, die Gewalt, die Menge; Pl. auch: die Streitkräfte"
+      ],
+      [
+        "sic",
+        "",
+        "so, auf diese Weise"
+      ],
+      [
+        "negare",
+        "nego",
+        "leugnen; (m. AcI) sagen, dass nicht"
+      ],
+      [
+        "putare",
+        "puto",
+        "glauben, meinen"
+      ],
+      [
+        "instare",
+        "insto, institi",
+        "bevorstehen, drohen, bedrängen"
+      ],
+      [
+        "iuvenis",
+        "invenis m",
+        "der junge Mann"
+      ],
+      [
+        "aureus",
+        "-a, -um",
+        "golden, vergoldet"
+      ]
+    ],
+    "ws18": [
+      [
+        "agere",
+        "ago, egi, actum",
+        "tun, treiben, handeln, verhandeln"
+      ],
+      [
+        "fugere",
+        "fugio, fugi, fugiturus",
+        "(m. Akk.) fliehen (vor), meiden"
+      ],
+      [
+        "effugere",
+        "effugio, effugi, effugiturus",
+        "(m. Akk.) entkommen"
+      ],
+      [
+        "relinquere",
+        "relinquo, reliqui, relictum",
+        "verlassen, zurücklassen"
+      ],
+      [
+        "resistere",
+        "resisto, resititi",
+        "sich widersetzen, Widerstand leisten"
+      ],
+      [
+        "stare",
+        "sto, steti, statum",
+        "stehen, dastehen"
+      ],
+      [
+        "suscipere",
+        "suscipio, suscepi, susceptum (m. Akk.)",
+        "aufnehmen, auf sich nehmen, unternehmen"
+      ],
+      [
+        "necare",
+        "neco",
+        "töten"
+      ],
+      [
+        "umerus",
+        "-i m",
+        "die Schulter"
+      ],
+      [
+        "socius",
+        "socii m",
+        "der Gefährte, Kamerad, der Bundesgenosse"
+      ],
+      [
+        "nonnulli",
+        "nonnulae, nonnulla",
+        "einige, manche"
+      ],
+      [
+        "constat",
+        "constit",
+        "es steht fest, es ist bekannt"
+      ],
+      [
+        "poeta",
+        "ae m",
+        "der Dichter"
+      ],
+      [
+        "imponere",
+        "impono, imposui, impositum",
+        "hineinstellen, auferlegen"
+      ],
+      [
+        "umeris imponere",
+        "",
+        "(jdn./etw.) auf die Schulter legen, aufbürden"
+      ],
+      [
+        "ponere",
+        "pono, posui, positum",
+        "(in m. Abl.) setzen, stellen, legen (auf)"
+      ],
+      [
+        "pauci",
+        "-ae",
+        "wenige"
+      ],
+      [
+        "hora",
+        "-ae",
+        "die Stunde"
+      ],
+      [
+        "saeculum",
+        "-i n",
+        "das Jahrhundert, das Zeitalter"
+      ],
+      [
+        "procul",
+        "",
+        "in die Ferne, aus der Ferne, fern"
+      ],
+      [
+        "custodire",
+        "custodio",
+        "bewachen, behüten"
+      ],
+      [
+        "interea",
+        "",
+        "inzwischen"
+      ],
+      [
+        "profecto",
+        "",
+        "in der Tat, tatsächlich"
+      ]
+    ],
+    "ws19": [
+      [
+        "amittere",
+        "amitto, amisi",
+        "verlieren"
+      ],
+      [
+        "bibere",
+        "bibo, bibi",
+        "trinken"
+      ],
+      [
+        "convenire",
+        "convenio, conveni",
+        "passen, zusammenkommen, treffen"
+      ],
+      [
+        "convincere",
+        "convinco, convici",
+        "überführen"
+      ],
+      [
+        "poscere",
+        "posco, poposci",
+        "fordern"
+      ],
+      [
+        "augere",
+        "augeo, auxi",
+        "vermehren, vergrößern"
+      ],
+      [
+        "annus",
+        "-i m",
+        "das Jahr"
+      ],
+      [
+        "gloria",
+        "-ae f",
+        "der Ruhm, die Ehre"
+      ],
+      [
+        "ingens",
+        "Gen. ingentis",
+        "riesig, gewaltig"
+      ],
+      [
+        "celer",
+        "celeris, celere",
+        "schnell"
+      ],
+      [
+        "mortalis",
+        "mortale",
+        "sterblich; Subst.: der Sterbliche, der Mensch"
+      ],
+      [
+        "acer",
+        "acris, acre",
+        "scharf, heftig, wild"
+      ],
+      [
+        "omnis",
+        "omne",
+        "jeder, all, ganz"
+      ],
+      [
+        "incredibilis",
+        "incredibile",
+        "unglaublich"
+      ],
+      [
+        "mens",
+        "mentis f",
+        "der Geist, der Verstand"
+      ],
+      [
+        "-que",
+        "",
+        "und"
+      ],
+      [
+        "quidem",
+        "",
+        "zwar, freilich"
+      ],
+      [
+        "nullus",
+        "-a, -um, Gen. nullius, Dat. nulli",
+        "kein"
+      ],
+      [
+        "immo",
+        "",
+        "im Gegenteil, ja sogar"
+      ],
+      [
+        "ne ... quidem",
+        "",
+        "nicht einmal"
+      ],
+      [
+        "tollere",
+        "tollo, sustuli",
+        "hochheben, aufheben, beseitigen, wegnehmen"
+      ],
+      [
+        "gladio tollere",
+        "",
+        "mit dem Schwert töten"
+      ],
+      [
+        "demittere",
+        "demitto, demisi",
+        "hinabschicken, sinken lassen"
+      ],
+      [
+        "animum demittere",
+        "",
+        "den Mut sinken lassen"
+      ],
+      [
+        "lux",
+        "lucis f",
+        "das Licht, das Tageslicht"
+      ],
+      [
+        "caput",
+        "capitis n",
+        "das Haupt, der Kopf, die Hauptstadt"
+      ]
+    ],
+    "ws20": [
+      [
+        "decedere",
+        "decedo, decessi, decessum",
+        "(weg)gehen, sterben"
+      ],
+      [
+        "incendere",
+        "incendo, incendi, incensum",
+        "entflammen, in Brand setzen"
+      ],
+      [
+        "instituere",
+        "instituo, institui, institutum",
+        "unterrichten, einführen, errichten"
+      ],
+      [
+        "occurere",
+        "occuro, occuri, occursum",
+        "entgegenlaufen, entgegentreten, begegnen"
+      ],
+      [
+        "vendere",
+        "vendo, vendidi, venditum",
+        "verkaufen"
+      ],
+      [
+        "fatum",
+        "-i n",
+        "das Schicksal, das Verhängnis"
+      ],
+      [
+        "auxilium",
+        "auxilii n",
+        "die Hilfe"
+      ],
+      [
+        "ruere",
+        "ruo, rui, ruiturus",
+        "(sich) stürzen, eilen, rennen"
+      ],
+      [
+        "cedere",
+        "cedo, cessi, cessum",
+        "gehen, weggehen, weichen, nachgeben"
+      ],
+      [
+        "valere",
+        "valeo",
+        "gesund sein, vermögen, Einfluss haben"
+      ],
+      [
+        "vale! / valete!",
+        "",
+        "lebe wohl! / lebt wohl!"
+      ],
+      [
+        "nihil valere",
+        "",
+        "keinen Einfluss haben, nichts vermögen"
+      ],
+      [
+        "violare",
+        "violo",
+        "verletzen, misshandeln"
+      ],
+      [
+        "defendere",
+        "defendo, defendi, defensum",
+        "verteidigen; (a/ab m. Abl.) verteidigen gegen"
+      ],
+      [
+        "meus",
+        "-a, -um",
+        "mein"
+      ],
+      [
+        "vester",
+        "vestra, vestrum",
+        "euer"
+      ],
+      [
+        "tuus",
+        " -a, -um",
+        "dein"
+      ],
+      [
+        "noster",
+        "nostra, nostrum",
+        "unser"
+      ],
+      [
+        "suus",
+        "-a, -um",
+        "sein, ihr"
+      ],
+      [
+        "sui",
+        "suorum m Pl.",
+        "die Seinen (Ihren)"
+      ],
+      [
+        "soror",
+        "sororis f",
+        "die Schwester"
+      ],
+      [
+        "permittere",
+        "permitto, permisi, permissum",
+        "erlauben, überlassen"
+      ],
+      [
+        "prohibere",
+        "prohibeo",
+        "(m. Abl.) abhalten (von), hindern (an), verhindern"
+      ],
+      [
+        "necesse (est)",
+        "",
+        "(es ist) nötig"
+      ],
+      [
+        "novus",
+        "-a, -um",
+        "neu, neuartig"
+      ],
+      [
+        "mentem amittere",
+        "",
+        "den Verstand verlieren"
+      ]
+    ],
+    "ws21": [
+      [
+        "claudere",
+        "claudo, clausi",
+        "schließen, einschließen, versperren"
+      ],
+      [
+        "emere",
+        "emo, emi",
+        "kaufen"
+      ],
+      [
+        "insula",
+        "-ae f",
+        "die Insel, das (mehrstöckige) Mietshaus"
+      ],
+      [
+        "praeterea",
+        "",
+        "außerdem"
+      ],
+      [
+        "ars",
+        "artis f, Gen. Pl. artium",
+        "die Kunst, die Fertigkeit, die Geschicklichkeit"
+      ],
+      [
+        "unde?",
+        "",
+        "woher?"
+      ],
+      [
+        "quo",
+        "",
+        "wohin?, dorthin (rel. Satzanschluss)"
+      ],
+      [
+        "ire",
+        "eo, ii",
+        "gehen"
+      ],
+      [
+        "redire",
+        "redeo, redii",
+        "zurückgehen, zurückkehren"
+      ],
+      [
+        "adire",
+        "adeo, adii",
+        "herangehen (an), aufsuchen, auf sich nehmen, in Angriff nehmen, angehen"
+      ],
+      [
+        "abire",
+        "abeo, abii",
+        "weggehen"
+      ],
+      [
+        "inire",
+        "ineo, inii",
+        "hineingehen, betreten, beginnen"
+      ],
+      [
+        "praeterire",
+        "praetereo, praeterii (m. Akk.)",
+        "vorbeigehen, vergehen, übergehen"
+      ],
+      [
+        "bestias praetereo",
+        "",
+        "ich gehe an den Tieren vorbei"
+      ],
+      [
+        "fabulam praetereo",
+        "",
+        "ich übergehe die Geschichte"
+      ],
+      [
+        "subire",
+        "subeo, subii",
+        "daruntertreten, auf sich nehmen"
+      ],
+      [
+        "accipere",
+        "accipio, accepi",
+        "annehmen, empfangen, erhalten, vernehmen"
+      ],
+      [
+        "delectare",
+        "delecto",
+        "erfreuen"
+      ],
+      [
+        "praebere",
+        "praebeo",
+        "geben, gewähren"
+      ],
+      [
+        "nemo",
+        "",
+        "niemand"
+      ],
+      [
+        "restituere",
+        "restituo, restitui",
+        "wiederherstellen"
+      ],
+      [
+        "sinere",
+        "sino, sivi",
+        "lassen, zulassen, erlauben"
+      ],
+      [
+        "mentem mutare",
+        "",
+        "(seine) Meinung ändern"
+      ]
+    ],
+    "ws22": [
+      [
+        "incipere",
+        "incipio, coepi, coeptum",
+        "anfangen, beginnen"
+      ],
+      [
+        "cognoscere",
+        "cognosco, cognovi, cognitum",
+        "kennenlernen, erkennen, erfahren; Perf.: wissen, kennen"
+      ],
+      [
+        "nox",
+        "noctis (Gen. Pl. -ium) f",
+        "die Nacht"
+      ],
+      [
+        "ardere",
+        "ardeo, arsi, arsurus",
+        "brennen, glühen"
+      ],
+      [
+        "amore ardere",
+        "",
+        "vor Liebe brennen"
+      ],
+      [
+        "ira ardere",
+        "",
+        "vor Zorn glühen"
+      ],
+      [
+        "capere",
+        "capio, cepi, captum",
+        "nehmen, fangen, ergreifen, einnehmen"
+      ],
+      [
+        "patria",
+        "-ae f",
+        "die Heimat, das Vaterland"
+      ],
+      [
+        "mare",
+        "maris n (Abl. Sg. mari, Nom./Akk. Pl. maria, Gen. Pl. marium)",
+        "das Meer"
+      ],
+      [
+        "errare",
+        "erro",
+        "sich irren, (umher)irren"
+      ],
+      [
+        "ante",
+        "",
+        "vor"
+      ],
+      [
+        "lacrima",
+        "-ae f",
+        "die Träne"
+      ],
+      [
+        "cum lacrimis",
+        "",
+        "unter Tränen"
+      ],
+      [
+        "pius",
+        "-a, -um",
+        "fromm, verantwortungsbewusst, pflichtbewusst"
+      ],
+      [
+        "multa nocte",
+        "",
+        "tief in der Nacht"
+      ],
+      [
+        "prima nocte",
+        "",
+        "zu Beginn der Nacht"
+      ],
+      [
+        "prima luce",
+        "",
+        "bei Tagesanbruch"
+      ],
+      [
+        "nullo modo",
+        "",
+        "auf keine Weise"
+      ],
+      [
+        "mei",
+        "meorum",
+        "die Meinen, meine Leute"
+      ],
+      [
+        "et ... et",
+        "",
+        "sowohl ... als auch"
+      ],
+      [
+        "ex eo tempore",
+        "",
+        "seit dieser Zeit"
+      ],
+      [
+        "de vita decedere",
+        "",
+        "aus dem Leben scheiden, sterben"
+      ],
+      [
+        "in mentem venire",
+        "",
+        "in den Sinn kommen"
+      ]
+    ],
+    "ws23": [
+      [
+        "sedere",
+        "sedeo, sedi",
+        "sitzen, dasitzen"
+      ],
+      [
+        "possidere",
+        "possideo, possedi",
+        "besitzen"
+      ],
+      [
+        "causa",
+        "-ae f",
+        "der Grund, die Ursache"
+      ],
+      [
+        "ceteri",
+        "-ae, -a",
+        "die übrigen, die anderen"
+      ],
+      [
+        "infelix",
+        "Gen. infelicis",
+        "unglücklich"
+      ],
+      [
+        "superbus",
+        "-a, -um",
+        "hochmütig, stolz"
+      ],
+      [
+        "mox",
+        "",
+        "bald, dann"
+      ],
+      [
+        "umbra",
+        "-ae f",
+        "der Schatten"
+      ],
+      [
+        "inter",
+        "(m. Akk.)",
+        "zwischen, während"
+      ],
+      [
+        "inter se",
+        "",
+        "untereinander"
+      ],
+      [
+        "vertere",
+        "verto, verti",
+        "drehen, (um)wenden"
+      ],
+      [
+        "ferrum in se vertere",
+        "",
+        "das Schwert gegen sich (selbst) richten"
+      ],
+      [
+        "oculos vertere (in)",
+        "",
+        "seinen Blick wenden, richten (auf)"
+      ],
+      [
+        "-ne",
+        "",
+        "unübersetzte Fragepartikel"
+      ],
+      [
+        "iurare",
+        "iuro",
+        "schwören"
+      ],
+      [
+        "per deos iurare",
+        "",
+        "bei den Göttern schwören"
+      ],
+      [
+        "lacrimas tenere",
+        "",
+        "die Tränen zurückhalten"
+      ]
+    ],
+    "ws24": [
+      [
+        "diligere",
+        "diligo, dilexi, dilectum",
+        "lieben, (sehr) schätzen"
+      ],
+      [
+        "regnum",
+        "-i",
+        "die (Königs-)Herrschaft, das Reich"
+      ],
+      [
+        "regnum tenere",
+        "",
+        "die Herrschaft erlangen, die Herrschaft innehaben"
+      ],
+      [
+        "dum",
+        "",
+        "(solange) bis; solange; (m. Ind. Präs.) während"
+      ],
+      [
+        "postquam",
+        "",
+        "nachdem"
+      ],
+      [
+        "quamquam",
+        "",
+        "obwohl"
+      ],
+      [
+        "auspicium",
+        "-i",
+        "die Vogelschau"
+      ],
+      [
+        "murus",
+        "-i",
+        "die Mauer"
+      ],
+      [
+        "procul ab urbe",
+        "",
+        "weit entfernt von der Stadt, fern der Stadt"
+      ]
+    ],
+    "ws25": [],
+    "ws26": [
+      [
+        "auctoritas",
+        "auctoritatis f",
+        "das Ansehen, der Einfluss"
+      ],
+      [
+        "hostis",
+        "hostis m/f",
+        "der (die) (Landes-)Feind(in)"
+      ],
+      [
+        "gerere",
+        "gero, gessi, gestum",
+        "tragen, führen, ausführen"
+      ],
+      [
+        "negotia gerere",
+        "",
+        "seinen Geschäften nachgehen"
+      ],
+      [
+        "bellum gerere (cum)",
+        "",
+        "Krieg führen (mit)"
+      ],
+      [
+        "vestem gerere",
+        "",
+        "ein Kleidungsstück tragen"
+      ],
+      [
+        "se gerere",
+        "",
+        "sich benehmen"
+      ],
+      [
+        "alius",
+        "-a, -um",
+        "ein anderer"
+      ],
+      [
+        "alii ... alii",
+        "",
+        "die einen ... die anderen"
+      ],
+      [
+        "miles",
+        "militis m",
+        "der Soldat"
+      ],
+      [
+        "res",
+        "rei f",
+        "die Sache, das Ding, die Angelegenheit"
+      ],
+      [
+        "dies",
+        "diei m",
+        "der Tag"
+      ],
+      [
+        "acies",
+        "aciei f",
+        "die Schärfe, der Scharfsinn, die Schlachtreihe"
+      ],
+      [
+        "acies mentis",
+        "",
+        "der Scharfsinn, die Aufmerksamkeit"
+      ],
+      [
+        "aciem instituere",
+        "",
+        "eine Schlachtreihe aufstellen"
+      ],
+      [
+        "fides",
+        "fidei f",
+        "das Vertrauen, die Treue, die Zuverlässigkeit"
+      ],
+      [
+        "fidem dare",
+        "",
+        "sein Wort geben"
+      ],
+      [
+        "fidem habere",
+        "",
+        "Vertrauen schenken"
+      ],
+      [
+        "exercitus",
+        "-us m",
+        "das Heer"
+      ],
+      [
+        "manus",
+        "-us f",
+        "die Hand, die Schar"
+      ],
+      [
+        "domus",
+        "-us f",
+        "das Haus"
+      ],
+      [
+        "domo",
+        "",
+        "von zu Hause weg"
+      ],
+      [
+        "vultus",
+        "-us m",
+        "das Gesicht, die Miene, der Gesichtsausdruck; Pl. die Gesichtszüge"
+      ],
+      [
+        "cultus",
+        "-us m",
+        "die Pflege, die Verehrung"
+      ],
+      [
+        "brevis",
+        "-e",
+        "kurz"
+      ],
+      [
+        "brevi (tempore)",
+        "",
+        "in Kürze, in kurzer Zeit"
+      ],
+      [
+        "fama",
+        "-ae f",
+        "das Gerücht, der (gute/schlechte) Ruf"
+      ],
+      [
+        "tempestas",
+        "tempestatis f",
+        "das Unwetter, das Gewitter"
+      ],
+      [
+        "orare",
+        "oro",
+        "beten (zu), bitten"
+      ],
+      [
+        "indicare",
+        "indico",
+        "anzeigen, melden, verraten"
+      ],
+      [
+        "creare",
+        "creo",
+        "erschaffen, wählen"
+      ],
+      [
+        "lex",
+        "legis f",
+        "das Gesetz"
+      ],
+      [
+        "filia",
+        "-ae f",
+        "die Tochter"
+      ],
+      [
+        "sperare",
+        "spero",
+        "hoffen, erhoffen"
+      ],
+      [
+        "pacem facere",
+        "",
+        "Frieden schließen"
+      ]
+    ],
+    "ws27": [
+      [
+        "regere",
+        "rego, rexi",
+        "lenken, leiten, beherrschen"
+      ],
+      [
+        "publicus",
+        "-a, -um",
+        "öffentlich, staatlich"
+      ],
+      [
+        "civis",
+        "civis m/f, Gen. Pl. civium",
+        "der Bürger, die Bürgerin"
+      ],
+      [
+        "opprimere",
+        "opprimo, oppressi",
+        "überfallen, überwältigen, unterdrücken"
+      ],
+      [
+        "pellere",
+        "pello, pepuli",
+        "schlagen, stoßen, treiben, vertreiben"
+      ],
+      [
+        "postea",
+        "",
+        "nachher, später"
+      ],
+      [
+        "numquam",
+        "",
+        "niemals"
+      ],
+      [
+        "adiuvare",
+        "adiuvo, adiuvi (m. Akk.)",
+        "helfen, unterstützen"
+      ],
+      [
+        "te adiuvo",
+        "",
+        "ich helfe dir, ich unterstütze dich"
+      ],
+      [
+        "fallere",
+        "fallo, fefelli",
+        "täuschen, unbemerkt bleiben"
+      ],
+      [
+        "res publica",
+        "rei publicae f",
+        "der Staat, die Republik"
+      ],
+      [
+        "priusquam",
+        "",
+        "ehe, bevor"
+      ],
+      [
+        "vel",
+        "",
+        "oder"
+      ],
+      [
+        "vel ... vel",
+        "",
+        "entweder ... oder"
+      ],
+      [
+        "stultus",
+        "-a, -um",
+        "dumm"
+      ],
+      [
+        "insidiae",
+        "-arum f Pl.",
+        "der Hinterhalt, die Falle"
+      ],
+      [
+        "promittere",
+        "promitto, promisi",
+        "versprechen"
+      ],
+      [
+        "fere",
+        "",
+        "fast, ungefähr"
+      ],
+      [
+        "orbis",
+        "orbis m, Gen. Pl. orbium",
+        "der Kreis, die Scheibe"
+      ],
+      [
+        "orbis terrarum",
+        "",
+        "der Erdkreis"
+      ],
+      [
+        "velut",
+        "",
+        "wie, wie zum Beispiel"
+      ],
+      [
+        "ignoscere",
+        "ignosco, ignovi",
+        "verzeihen"
+      ],
+      [
+        "modo",
+        "",
+        "nur, eben noch, gerade"
+      ],
+      [
+        "servitus",
+        "servitutis f",
+        "die Sklaverei, die Knechtschaft"
+      ],
+      [
+        "exilium",
+        "-i n",
+        "die Verbannung, das Exil"
+      ],
+      [
+        "orationem habere",
+        "",
+        "eine Rede halten"
+      ]
+    ],
+    "ws28": [
+      [
+        "magistratus",
+        "magistratus m",
+        "das Amt, der Beamte"
+      ],
+      [
+        "moenia",
+        "moenium n Pl.",
+        "die Mauer(n), Stadtmauer(n)"
+      ],
+      [
+        "fortis",
+        "forte",
+        "tapfer, stark, tatkräftig"
+      ],
+      [
+        "honestus",
+        "-a, -um",
+        "ehrenhaft, angesehen"
+      ],
+      [
+        "neque / nec",
+        "",
+        "und nicht, auch nicht"
+      ],
+      [
+        "neque ... neque ... / nec ... nec ...",
+        "",
+        "weder ... noch ..."
+      ],
+      [
+        "nobilis",
+        "nobile",
+        "vornehm, adelig, berühmt"
+      ],
+      [
+        "exstinguere",
+        "exstinguo, exstinxi, exstinctum",
+        "löschen, auslöschen, vernichten"
+      ],
+      [
+        "parere",
+        "pario, peperi, partum",
+        "zur Welt bringen, erzeugen, erwerben"
+      ],
+      [
+        "flectere",
+        "flecto, flexi, flexum",
+        "biegen, beugen, umstimmen"
+      ],
+      [
+        "hic",
+        "haec, hoc",
+        "dieser (hier), diese (hier), dieses (hier)"
+      ],
+      [
+        "ille",
+        "illa, illud",
+        "jener, jene, jenes; dieser (dort)"
+      ],
+      [
+        "Hercules ille",
+        "",
+        "der berühmte Herkules"
+      ],
+      [
+        "mandare",
+        "mando",
+        "übergeben, anvertrauen, auftragen"
+      ],
+      [
+        "dux",
+        "ducis m/f",
+        "der Anführer, die Anführerin"
+      ],
+      [
+        "alter",
+        "altera, alterum, Gen. alterius, Dat. alteri",
+        "der eine (von beiden), der andere"
+      ],
+      [
+        "alter ... alter",
+        "",
+        "der eine ... der andere ..."
+      ],
+      [
+        "nuntiare",
+        "nuntio",
+        "melden, mitteilen"
+      ],
+      [
+        "femina",
+        "-ae f",
+        "die Frau"
+      ],
+      [
+        "castra",
+        "castrorum n Pl.",
+        "das Lager, das Kriegslager"
+      ],
+      [
+        "castra ponere / movere",
+        "",
+        "das Lager aufschlagen / abbrechen"
+      ],
+      [
+        "comes",
+        "comitis m/f",
+        "der Gefährte, die Gefährtin, der Begleiter, die Begleiterin"
+      ],
+      [
+        "nisi",
+        "",
+        "wenn nicht, außer"
+      ],
+      [
+        "non ... nisi",
+        "",
+        "nur ... wenn"
+      ],
+      [
+        "Non redibo nisi mihi aderis",
+        "",
+        "Ich werde nur zurückkehren, wenn du mir hilfst."
+      ],
+      [
+        "an",
+        "",
+        "oder (im Fragesatz)"
+      ],
+      [
+        "intra",
+        "(m. Akk.)",
+        "innerhalb"
+      ],
+      [
+        "odium",
+        "-i n",
+        "der Hass"
+      ]
+    ],
+    "ws29": [
+      [
+        "numerus",
+        "-i m",
+        "die Zahl, die Anzahl"
+      ],
+      [
+        "pugna",
+        "-ae f",
+        "der Kampf, die Schlacht"
+      ],
+      [
+        "magnitudo",
+        "magnitudinis f",
+        "die Größe, die Erhabenheit"
+      ],
+      [
+        "tacitus",
+        "-a, -um",
+        "still, schweigend"
+      ],
+      [
+        "fuga",
+        "-ae f",
+        "die Flucht"
+      ],
+      [
+        "in fugam vertere",
+        "",
+        "in die Flucht schlagen"
+      ],
+      [
+        "litus",
+        "litoris n",
+        "die Küste, der Strand"
+      ],
+      [
+        "salvus",
+        "-a, -um",
+        "heil, unversehrt"
+      ],
+      [
+        "laetus",
+        "-a, -um",
+        "froh, fröhlich"
+      ],
+      [
+        "navis",
+        "navis f, Gen. Pl. navium",
+        "das Schiff"
+      ],
+      [
+        "se navi credere",
+        "",
+        "sich einem Schiff anvertrauen"
+      ],
+      [
+        "centum",
+        "",
+        "hundert"
+      ],
+      [
+        "pervenire",
+        "pervenio, perveni",
+        "kommen zu/nach, gelangen"
+      ],
+      [
+        "somnus",
+        "-i m",
+        "der Schlaf"
+      ],
+      [
+        "consilium",
+        "-i n",
+        "der Rat, der Ratschlag, der Plan, der Beschluss"
+      ],
+      [
+        "consilium capere",
+        "",
+        "einen Plan fassen"
+      ],
+      [
+        "transire",
+        "transeo, transii (m. Akk.)",
+        "hinübergehen, überqueren, überschreiten"
+      ],
+      [
+        "Alpes transeo",
+        "",
+        "ich überquere die Alpen"
+      ],
+      [
+        "colligere",
+        "colligo, collegi",
+        "sammeln"
+      ],
+      [
+        "eques",
+        "equitis m",
+        "der Reiter, der Ritter"
+      ],
+      [
+        "utilis",
+        "utile",
+        "nützlich"
+      ],
+      [
+        "onus",
+        "oneris n",
+        "die Last"
+      ],
+      [
+        "portare",
+        "porto",
+        "tragen, bringen"
+      ],
+      [
+        "ubi",
+        "(Subj.)",
+        "sobald"
+      ],
+      [
+        "Amicus mihi auxilium negat.",
+        "",
+        "Der Freund verweigert mir Hilfe."
+      ],
+      [
+        "superare",
+        "(m. Abl.)",
+        "übertreffen (an)"
+      ],
+      [
+        "vi superare",
+        "",
+        "an Kraft übertreffen"
+      ]
+    ],
+    "ws30": [
+      [
+        "imperator",
+        "imperatoris m",
+        "der Feldherr; der Kaiser"
+      ],
+      [
+        "excitare",
+        "excito",
+        "antreiben, erregen, ermuntern, aufwecken"
+      ],
+      [
+        "imperium",
+        "-i n",
+        "der Befehl, die Herrschaft, das Reich"
+      ],
+      [
+        "finis",
+        "finis m/f, Gen. Pl. finium",
+        "das Ende; das Ziel, die Grenze; Pl. das Gebiet"
+      ],
+      [
+        "perterrere",
+        "perterreo",
+        "(jemanden) heftig erschrecken, einschüchtern"
+      ],
+      [
+        "occidere",
+        "occido, occidi, occisum",
+        "niederschlagen, töten"
+      ],
+      [
+        "praeesse",
+        "praesum, praefui",
+        "an der Spitze stehen, leiten"
+      ],
+      [
+        "exercitui praeest",
+        "",
+        "er steht an der Spitze des Heeres, leitet das Heer"
+      ],
+      [
+        "animadvertere",
+        "animadverto, animadverti, animadversum",
+        "wahrnehmen, bemerken; (in m. Akk.) vorgehen gegen, einschreiten"
+      ],
+      [
+        "augere",
+        "augeo, auxi, auctum",
+        "vergrößern, vermehren; fördern"
+      ],
+      [
+        "claudere",
+        "claudo, clausi, clausum",
+        "schließen, einschließen, versperren"
+      ],
+      [
+        "conspicere",
+        "conspicio, conspexi, conspectum",
+        "erblicken, sehen"
+      ],
+      [
+        "mittere",
+        "mitto, misi, missum",
+        "schicken, loslassen, laufen lassen; werfen"
+      ],
+      [
+        "amittere",
+        "amitto, amisi, amissum",
+        "verlieren"
+      ],
+      [
+        "demittere",
+        "demitto, demisi, demissum",
+        "hinabschicken, sinken lassen"
+      ],
+      [
+        "permittere",
+        "permitto, permisi, permissum",
+        "erlauben, überlassen"
+      ],
+      [
+        "promittere",
+        "promitto, promisi, promissum",
+        "versprechen"
+      ],
+      [
+        "dare",
+        "do, dedi, datum",
+        "geben"
+      ],
+      [
+        "abdere",
+        "abdo, abdidi, abditum",
+        "verstecken, verbergen"
+      ],
+      [
+        "condere",
+        "condo, condidi, conditum",
+        "gründen, bestatten"
+      ],
+      [
+        "occidere",
+        "occido, occidi, occisum",
+        "niederschlagen, töten"
+      ],
+      [
+        "capere",
+        "capio, cepi, captum",
+        "nehmen, fangen, ergreifen; einnehmen"
+      ],
+      [
+        "accipere",
+        "accipio, accepi, acceptum",
+        "annehmen, empfangen, erhalten; vernehmen"
+      ],
+      [
+        "relinquere",
+        "relinquo, reliqui, relictum",
+        "verlassen, zurücklassen"
+      ],
+      [
+        "inquam",
+        "inquīs, inquit, inquiunt",
+        "ich sage / du sagst / er, sie, es sagt / sie sagen"
+      ],
+      [
+        "agmen",
+        "agminis n",
+        "der Heereszug, die Schar"
+      ],
+      [
+        "plerique",
+        "pleraeque, pleraque",
+        "die meisten, sehr viele"
+      ],
+      [
+        "accusare",
+        "accuso",
+        "anklagen, beschuldigen"
+      ],
+      [
+        "exemplum",
+        "-i n",
+        "das Beispiel; das Vorbild"
+      ],
+      [
+        "culpa",
+        "-ae f",
+        "die Schuld"
+      ],
+      [
+        "maiores",
+        "maiorum m Pl.",
+        "die Vorfahren"
+      ],
+      [
+        "aedificare",
+        "aedifico",
+        "bauen, erbauen"
+      ],
+      [
+        "delere",
+        "deleo, delevi, deletum",
+        "zerstören, vernichten"
+      ],
+      [
+        "atque / ac",
+        "",
+        "und, und auch"
+      ]
+    ],
+    "ws31": [
+      [
+        "docere",
+        "doceo, docui, doctum",
+        "lehren, beibringen, unterrichten"
+      ],
+      [
+        "gerere",
+        "gero, gessi, gestum",
+        "tragen, führen, ausführen"
+      ],
+      [
+        "facere",
+        "facio, feci, factum",
+        "tun, machen, ausführen"
+      ],
+      [
+        "afficere",
+        "afficio, affeci, affectum (m. Abl.)",
+        "versehen mit"
+      ],
+      [
+        "venire",
+        "venio, veni, ventum",
+        "kommen"
+      ],
+      [
+        "convenire",
+        "convenio, conveni, conventum",
+        "passen, zusammenkommen, treffen"
+      ],
+      [
+        "invenire",
+        "invenio, inveni, inventum",
+        "finden, auffinden, erfinden"
+      ],
+      [
+        "pervenire",
+        "pervenio, perveni, perventum",
+        "kommen zu/nach, gelangen"
+      ],
+      [
+        "vincere",
+        "vinco, vici, victum",
+        "siegen, besiegen"
+      ],
+      [
+        "convincere",
+        "convinco, convici, convictum",
+        "überführen"
+      ],
+      [
+        "comprehendere",
+        "comprehendo, comprehendi, comprehensum",
+        "ergreifen, festnehmen, erfassen"
+      ],
+      [
+        "reprehendere",
+        "reprehendo, reprehendi, reprehensum",
+        "tadeln, kritisieren"
+      ],
+      [
+        "scribere",
+        "scribo, scripsi, scriptum",
+        "schreiben"
+      ],
+      [
+        "lingua",
+        "-ae f",
+        "die Zunge, die Sprache"
+      ],
+      [
+        "discere",
+        "disco, didici, -",
+        "lernen"
+      ],
+      [
+        "oppidum",
+        "-i n",
+        "die Stadt, die Befestigung"
+      ],
+      [
+        "liber",
+        "libri m",
+        "das Buch"
+      ],
+      [
+        "aedificium",
+        "-i n",
+        "das Gebäude, das Bauwerk"
+      ],
+      [
+        "littera",
+        "-ae f",
+        "der Buchstabe; Pl.: der Brief, die Literatur, die Wissenschaft(en)"
+      ],
+      [
+        "pauper",
+        "Gen. pauperis",
+        "arm, armselig"
+      ],
+      [
+        "vetus",
+        "Gen. veteris",
+        "alt"
+      ],
+      [
+        "dives",
+        "Gen. divitis",
+        "reich, kostbar"
+      ],
+      [
+        "cor",
+        "cordis n",
+        "das Herz"
+      ],
+      [
+        "maxime",
+        "",
+        "am meisten, ganz besonders"
+      ],
+      [
+        "legere",
+        "lego, legi, lectum",
+        "lesen"
+      ],
+      [
+        "praeclarus",
+        "-a, -um",
+        "vortrefflich, ausgezeichnet"
+      ],
+      [
+        "totus",
+        "-a, -um, Gen. totius, Dat. toti",
+        "ganz"
+      ],
+      [
+        "donare",
+        "dono",
+        "schenken, beschenken"
+      ],
+      [
+        "grandis",
+        "grande",
+        "groß, großartig, wichtig"
+      ],
+      [
+        "carmen",
+        "carminis n",
+        "das Lied, das Gedicht"
+      ],
+      [
+        "more Graecorum",
+        "",
+        "nach Art der Griechen"
+      ]
+    ],
+    "ws32": [
+      [
+        "diligere",
+        "diligo, dilexi, dilectum",
+        "lieben, (sehr) schätzen"
+      ],
+      [
+        "intellegere",
+        "intellego, intellexi, intellectum",
+        "erkennen, verstehen, einsehen"
+      ],
+      [
+        "neglegere",
+        "neglego, neglexi, neglectum",
+        "vernachlässigen; gering schätzen, nicht beachten"
+      ],
+      [
+        "opprimere",
+        "opprimo, oppressi, oppressum",
+        "unterdrücken; überfallen, überwältigen"
+      ],
+      [
+        "credere",
+        "credo, credidi, creditum",
+        "glauben; vertrauen"
+      ],
+      [
+        "perdere",
+        "perdo, perdidi, perditum",
+        "vernichten, umbringen; verderben; verlieren"
+      ],
+      [
+        "tradere",
+        "trado, tradidi, traditum",
+        "übergeben; überliefern"
+      ],
+      [
+        "vendere",
+        "vendo, vendidi, venditum",
+        "verkaufen"
+      ],
+      [
+        "colligere",
+        "colligo, collegi, collectum",
+        "sammeln"
+      ],
+      [
+        "summus",
+        "-a, -um",
+        "der höchste, der oberste; der letzte"
+      ],
+      [
+        "spoliare",
+        "spolio",
+        "(einer Sache) berauben, (aus)rauben"
+      ],
+      [
+        "Hominēs pecuniā spoliat.",
+        "",
+        "Er beraubt die Menschen ihres Geldes."
+      ],
+      [
+        "occidere",
+        "occido, occidi, occasurus",
+        "untergehen; umkommen, sterben"
+      ],
+      [
+        "senatus",
+        "senatus m",
+        "der Senat"
+      ],
+      [
+        "perturbare",
+        "perturbo",
+        "durcheinanderbringen, verwirren"
+      ],
+      [
+        "dimittere",
+        "dimitto, dimisi, dimissum",
+        "entsenden, wegschicken, entlassen"
+      ],
+      [
+        "iustus",
+        "-a, -um",
+        "gerecht, rechtschaffen"
+      ],
+      [
+        "censere",
+        "censeo, censui, censum",
+        "meinen, schätzen, einschätzen"
+      ],
+      [
+        "virtus",
+        "virtutis f",
+        "die Tugend; die Tapferkeit; die Tüchtigkeit; Pl. die guten Taten, die Leistung"
+      ],
+      [
+        "pro",
+        "(m. Abl.)",
+        "vor; für; statt, anstelle von"
+      ],
+      [
+        "frangere",
+        "frango, fregi, fractum",
+        "brechen, (etwas) zerbrechen"
+      ],
+      [
+        "praeter",
+        "(m. Akk.)",
+        "an … vorbei, außer, gegen"
+      ],
+      [
+        "eripere",
+        "eripio, eripui, ereptum",
+        "entreißen"
+      ],
+      [
+        "posterus",
+        "-a, -um",
+        "der nachfolgende, der nächste"
+      ],
+      [
+        "posteri",
+        "posterorum",
+        "die Nachfahren, die Nachkommen"
+      ],
+      [
+        "testis",
+        "testis m/f, Gen. Pl. testium",
+        "der Zeuge"
+      ],
+      [
+        "iudex",
+        "iudicis m",
+        "der Richter"
+      ],
+      [
+        "damnare",
+        "damno",
+        "verurteilen"
+      ],
+      [
+        "legatus",
+        "-i m",
+        "der Gesandte, der Offizier, der Unterfeldherr"
+      ]
+    ],
+    "ws33": [
+      [
+        "arcessere",
+        "arcesso, arcessivi, arcessitum",
+        "herbeirufen, holen, holen lassen"
+      ],
+      [
+        "cupere",
+        "cupio, cupivi, cupitum (m. Inf.)",
+        "wünschen (zu tun), (haben) wollen, begehren"
+      ],
+      [
+        "petere",
+        "peto, petivi, petitum",
+        "(er)bitten; verlangen; streben nach; erreichen wollen; aufsuchen; angreifen"
+      ],
+      [
+        "quaerere",
+        "quaero, quaesivi, quaesitum",
+        "suchen; (e/ex) (jemanden) fragen"
+      ],
+      [
+        "rapere",
+        "rapio, rapui, raptum",
+        "rauben"
+      ],
+      [
+        "dicere",
+        "dico, dixi, dictum",
+        "sagen, sprechen, reden"
+      ],
+      [
+        "ducere",
+        "duco, duxi, ductum",
+        "führen, ziehen"
+      ],
+      [
+        "movere",
+        "moveo, movi, motum",
+        "bewegen; erregen"
+      ],
+      [
+        "incendere",
+        "incendo, incendi, incensum",
+        "entflammen, in Brand setzen"
+      ],
+      [
+        "audacia",
+        "-ae f",
+        "der Wagemut, die Kühnheit; die Frechheit"
+      ],
+      [
+        "gens",
+        "gentis f, Gen. Pl. gentium",
+        "das Geschlecht; der Stamm, das Volk"
+      ],
+      [
+        "praeda",
+        "-ae f",
+        "die Beute, die Kriegsbeute"
+      ],
+      [
+        "ops",
+        "opis f; Pl. opes, opum",
+        "die Hilfe; die Kraft, die Macht; Pl. der Reichtum"
+      ],
+      [
+        "forma",
+        "-ae f",
+        "die Form, die Gestalt; die Schönheit"
+      ],
+      [
+        "victoria",
+        "-ae f",
+        "der Sieg"
+      ],
+      [
+        "ostendere",
+        "ostendo, ostendi, ostentum",
+        "zeigen, erklären, offenbaren"
+      ],
+      [
+        "libido",
+        "libidinis f",
+        "die Begierde; die Hemmungslosigkeit"
+      ],
+      [
+        "flere",
+        "fleo, flevi, fletum",
+        "weinen (über); beweinen; beklagen"
+      ],
+      [
+        "temperare",
+        "tempero",
+        "(m. Dat.) mäßigen; schonen; (m. Akk.) mischen; ordnen; (a/ab) sich fernhalten (von)"
+      ],
+      [
+        "irae tempero",
+        "",
+        "ich mäßige den Zorn"
+      ],
+      [
+        "rem publicam tempero",
+        "",
+        "ich ordne den Staat"
+      ],
+      [
+        "a malis hominibus tempero",
+        "",
+        "ich halte mich von bösen Menschen fern"
+      ],
+      [
+        "antiquus",
+        "-a, -um",
+        "alt"
+      ],
+      [
+        "occupare",
+        "occupo",
+        "einnehmen, besetzen; beschäftigen"
+      ],
+      [
+        "victor",
+        "victoris m",
+        "der Sieger"
+      ],
+      [
+        "obsecrare",
+        "obsecro",
+        "anflehen, beschwören"
+      ],
+      [
+        "turbare",
+        "turbo",
+        "durcheinanderbringen, verwirren, stören"
+      ],
+      [
+        "tristis",
+        "triste",
+        "traurig, düster"
+      ],
+      [
+        "nuntius",
+        "-i m",
+        "der Bote; die Nachricht"
+      ],
+      [
+        "ornare",
+        "orno",
+        "schmücken; auszeichnen, ausstatten"
+      ]
+    ],
+    "ws34": [
+      [
+        "cedere",
+        "cedo, cessi, cessum",
+        "gehen, weggehen, weichen, nachgeben"
+      ],
+      [
+        "accedere",
+        "accedo, accessi, accessum",
+        "herbeikommen, herantreten, sich nähern"
+      ],
+      [
+        "decedere",
+        "decedo, decessi, decessum",
+        "(weg)gehen; sterben"
+      ],
+      [
+        "iubere",
+        "iubeo, iussi, iussum (m. Akk.)",
+        "befehlen, anordnen"
+      ],
+      [
+        "pellere",
+        "pello, pepuli, pulsum",
+        "schlagen, stoßen, treiben, vertreiben"
+      ],
+      [
+        "adiuvare",
+        "adiuvo, adiuvi, adiutum (m. Akk.)",
+        "helfen, unterstützen"
+      ],
+      [
+        "adicere",
+        "adicio, adieci, adiectum",
+        "hinzufügen"
+      ],
+      [
+        "avaritia",
+        "-ae f",
+        "die Habgier; der Geiz"
+      ],
+      [
+        "calamitas",
+        "calamitatis f",
+        "das Unglück, Unheil, der Schaden"
+      ],
+      [
+        "potens",
+        "potentis",
+        "mächtig, stark"
+      ],
+      [
+        "proelium",
+        "-i n",
+        "die Schlacht, das Gefecht"
+      ],
+      [
+        "dubitare",
+        "dubito",
+        "zweifeln, unschlüssig sein; m. Inf.: zögern (zu tun)"
+      ],
+      [
+        "dubitare de fide",
+        "",
+        "an der Treue zweifeln"
+      ],
+      [
+        "impellere",
+        "impello, impuli, impulsum",
+        "in Bewegung setzen; antreiben, veranlassen"
+      ],
+      [
+        "vindicere",
+        "vindico",
+        "in Anspruch nehmen; befreien, retten, bestrafen, rächen"
+      ],
+      [
+        "in libertatem vindicare",
+        "",
+        "befreien"
+      ],
+      [
+        "confirmare",
+        "confirmo",
+        "(be)kräftigen, verstärken, ermutigen"
+      ],
+      [
+        "patres",
+        "patrum m Pl.",
+        "die Senatoren"
+      ],
+      [
+        "quam",
+        "",
+        "als, wie (bei Vergleichen)"
+      ],
+      [
+        "tam ... quam",
+        "",
+        "so ... wie"
+      ],
+      [
+        "igitur",
+        "",
+        "also"
+      ],
+      [
+        "expellere",
+        "expello, expuli, expulsum",
+        "vertreiben, verjagen, verbannen"
+      ],
+      [
+        "trahere",
+        "traho, traxi, tractum",
+        "ziehen, schleppen"
+      ],
+      [
+        "aurum",
+        "-i n",
+        "das Gold"
+      ],
+      [
+        "argentum",
+        "-i n",
+        "das Silber, Geld"
+      ],
+      [
+        "complere",
+        "compleo, complevi, completum (m. Abl.)",
+        "ausfüllen, anfüllen (mit); erfüllen"
+      ],
+      [
+        "Navis opibus completur.",
+        "",
+        "Das Schiff wird mit Gütern angefüllt."
+      ],
+      [
+        "tribunus",
+        "-i m",
+        "der Tribun (politischer oder militärischer Amtsträger)"
+      ],
+      [
+        "tribuere",
+        "tribuo, tribui, tributum",
+        "zuteilen"
+      ],
+      [
+        "provincia",
+        "-ae f",
+        "die Provinz"
+      ],
+      [
+        "consilium habere",
+        "",
+        "eine (Rats-)Versammlung (ab)halten"
+      ],
+      [
+        "homo de plebe",
+        "",
+        "ein Mensch aus dem Volk"
+      ]
+    ],
+    "ws35": [
+      [
+        "flectere",
+        "flecto, flexi, flexum",
+        "biegen, beugen; umstimmen"
+      ],
+      [
+        "ire",
+        "eo, ii, itum",
+        "gehen"
+      ],
+      [
+        "abire",
+        "abeo, abii, abitum",
+        "weggehen"
+      ],
+      [
+        "adire",
+        "adeo, adii, aditum",
+        "herangehen (an), aufsuchen; auf sich nehmen; in Angriff nehmen, angehen"
+      ],
+      [
+        "inire",
+        "ineo, inii, initum",
+        "hineingehen, betreten; beginnen"
+      ],
+      [
+        "praeterire",
+        "praetereo, praeterii, praeteritum (m. Akk.)",
+        "vorbeigehen; vergehen; übergehen"
+      ],
+      [
+        "redire",
+        "redeo, redii, reditum",
+        "zurückgehen"
+      ],
+      [
+        "subire",
+        "subeo, subii, subitum",
+        "daruntertreten; auf sich nehmen"
+      ],
+      [
+        "transire",
+        "transeo, transii, transitum (m. Akk.)",
+        "hinübergehen, überqueren, überschreiten"
+      ],
+      [
+        "respondere",
+        "respondeo, respondi, responsum",
+        "antworten"
+      ],
+      [
+        "sors",
+        "sortis f, Gen. Pl. sortium",
+        "das Los, das Schicksal"
+      ],
+      [
+        "acerbus",
+        "-a, -um",
+        "bitter; schmerzlich; rücksichtslos"
+      ],
+      [
+        "tutus",
+        "-a, -um (a/ab)",
+        "sicher (vor), geschützt (vor/gegen)"
+      ],
+      [
+        "commovere",
+        "commoveo, commovi, commotum",
+        "bewegen; beunruhigen; veranlassen"
+      ],
+      [
+        "furor",
+        "furoris m",
+        "der Wahnsinn, das Wüten, die Wut"
+      ],
+      [
+        "par",
+        "Gen. paris",
+        "gleich; ebenbürtig"
+      ],
+      [
+        "metuere",
+        "metuo, metui, -",
+        "fürchten, sich fürchten"
+      ],
+      [
+        "praestare",
+        "praesto, praestiti, -",
+        "(m. Dat.) übertreffen; (m. Abl.) an etwas übertreffen; (m. Akk.) erweisen, geben"
+      ],
+      [
+        "ceteris vi praesto",
+        "",
+        "ich übertreffe die anderen an Kraft"
+      ],
+      [
+        "Populus regi honores praestat.",
+        "",
+        "Das Volk erweist dem König Ehren."
+      ],
+      [
+        "tantus",
+        "-a, -um",
+        "so groß"
+      ],
+      [
+        "quando",
+        "",
+        "wann"
+      ],
+      [
+        "terror",
+        "terroris m",
+        "der Schrecken, die Angst"
+      ],
+      [
+        "circum",
+        "(m. Akk.)",
+        "rings um, um ... herum"
+      ],
+      [
+        "arx",
+        "arcis f, Gen. Pl. arcium",
+        "die Burg"
+      ],
+      [
+        "recipere",
+        "recipio, recepi, receptum",
+        "zurücknehmen, aufnehmen (in etwas)"
+      ],
+      [
+        "se recipere",
+        "",
+        "sich zurückziehen"
+      ],
+      [
+        "supplex",
+        "Gen. supplicis",
+        "demütig, flehentlich"
+      ],
+      [
+        "aestimare",
+        "",
+        "schätzen, einschätzen; meinen"
+      ],
+      [
+        "magni aestimare",
+        "",
+        "hoch/sehr achten, schätzen"
+      ],
+      [
+        "cuncti",
+        "-ae, -a",
+        "alle"
+      ],
+      [
+        "laus",
+        "laudis f",
+        "das Lob; der Ruhm"
+      ],
+      [
+        "universus",
+        "-a, -um",
+        "all, ganz, sämtlich"
+      ]
+    ],
+    "ws36": [
+      [
+        "sinere",
+        "sino, sivi, situm",
+        "lassen, zulassen, erlauben"
+      ],
+      [
+        "desinere",
+        "desino, desii, desitum",
+        "ablassen, aufhören"
+      ],
+      [
+        "colere",
+        "colo, colui, cultum",
+        "bebauen; pflegen; verehren"
+      ],
+      [
+        "ponere",
+        "pono, posui, positum (in m. Abl.)",
+        "setzen, stellen, legen (auf)"
+      ],
+      [
+        "componere",
+        "compono, composui, compositum",
+        "zusammenstellen, verfassen, ordnen"
+      ],
+      [
+        "deponere",
+        "depono, deposui, depositum",
+        "ablegen, niederlegen"
+      ],
+      [
+        "imponere",
+        "impono, imposui, impositum",
+        "hineinstellen, auferlegen"
+      ],
+      [
+        "regere",
+        "rego, rexi, rectum",
+        "lenken, leiten; beherrschen"
+      ],
+      [
+        "comperire",
+        "comperio, comperi, compertum",
+        "erfahren, in Erfahrung bringen"
+      ],
+      [
+        "sentire",
+        "sentio, sensi, sensum",
+        "fühlen, spüren; meinen"
+      ],
+      [
+        "metus",
+        "-us m",
+        "die Angst, Furcht"
+      ],
+      [
+        "pars",
+        "partis f, Gen. Pl. partium",
+        "der Teil; die Seite; die Richtung"
+      ],
+      [
+        "sol",
+        "solis m",
+        "die Sonne"
+      ],
+      [
+        "currus",
+        "-us m",
+        "der Wagen"
+      ],
+      [
+        "aer",
+        "aeris m (Akk. Sg. auch aera)",
+        "die Luft"
+      ],
+      [
+        "ascendere",
+        "ascendo, ascendi, ascensum",
+        "hinaufsteigen, besteigen"
+      ],
+      [
+        "conficere",
+        "conficio, confeci, confectum",
+        "anfertigen, vollenden; aufbrauchen, erschöpfen"
+      ],
+      [
+        "uxor",
+        "uxoris f",
+        "die Ehefrau"
+      ],
+      [
+        "uxorem ducere",
+        "",
+        "(eine Frau) heiraten"
+      ],
+      [
+        "prex",
+        "precis f",
+        "die Bitte"
+      ],
+      [
+        "repellere",
+        "repello, reppuli, repulsum",
+        "zurückstoßen, abwehren, zurückweisen"
+      ],
+      [
+        "abducere",
+        "abduco, abduxi, abductum",
+        "wegführen, wegbringen; entführen"
+      ],
+      [
+        "cura",
+        "-ae f",
+        "die Sorge, die Pflege"
+      ],
+      [
+        "mora",
+        "-ae f",
+        "die Verzögerung, der Aufenthalt"
+      ],
+      [
+        "iratus",
+        "-a, -um",
+        "zornig, erzürnt"
+      ],
+      [
+        "fundere",
+        "fundo, fudi, fusum",
+        "(ver)gießen, ausschütten"
+      ],
+      [
+        "lacrimas fundere",
+        "",
+        "Tränen vergießen"
+      ],
+      [
+        "apud",
+        "(m. Akk.)",
+        "bei"
+      ],
+      [
+        "dies noctesque",
+        "",
+        "Tag und Nacht"
+      ],
+      [
+        "sub monte",
+        "",
+        "am Fuß des Berges"
+      ]
+    ],
+    "ws37": [
+      [
+        "exstinguere",
+        "exstinguo, exstinxi, exstinctum",
+        "löschen, auslöschen, vernichten"
+      ],
+      [
+        "fingere",
+        "fingo, finxi, fictum",
+        "formen, gestalten, sich ausdenken, erfinden"
+      ],
+      [
+        "defendere",
+        "defendo, defendi, defensum",
+        "verteidigen; (a/ab m. Abl.) verteidigen gegen"
+      ],
+      [
+        "descendere",
+        "descendo, descendi, descensum",
+        "herabsteigen, hinabsteigen"
+      ],
+      [
+        "vertere",
+        "verto, verti, versum",
+        "drehen, (um)wenden"
+      ],
+      [
+        "parere",
+        "pario, peperi, partum",
+        "zur Welt bringen, erzeugen, erwerben"
+      ],
+      [
+        "tollere",
+        "tollo, sustuli, sublatum",
+        "hochheben, aufheben, beseitigen, wegnehmen"
+      ],
+      [
+        "evenire",
+        "evenio, eveni, eventum",
+        "geschehen, sich ereignen"
+      ],
+      [
+        "evenit",
+        "evenit",
+        "es geschieht, es ereignet sich"
+      ],
+      [
+        "unda",
+        "-ae f",
+        "die Welle, Woge"
+      ],
+      [
+        "primum",
+        "",
+        "zuerst, zum ersten Mal, erstmals"
+      ],
+      [
+        "solere",
+        "soleo",
+        "gewohnt sein, pflegen (zu tun)"
+      ],
+      [
+        "cogitare",
+        "cogito",
+        "denken, nachdenken, beabsichtigen (zu tun)"
+      ],
+      [
+        "puellam cogitare",
+        "",
+        "an ein Mädchen denken"
+      ],
+      [
+        "secum cogitare",
+        "",
+        "bei sich / im Stillen denken"
+      ],
+      [
+        "respicere",
+        "respicio, respexi, respectum",
+        "zurückblicken (auf), berücksichtigen"
+      ],
+      [
+        "convertere",
+        "converto, converti, conversum",
+        "wenden, verwandeln, (ver)ändern"
+      ],
+      [
+        "se convertere",
+        "",
+        "sich verwandeln"
+      ],
+      [
+        "cum",
+        "(m. Ind.)",
+        "(damals) als; (dann) wenn; (immer) wenn; als (plötzlich); sobald"
+      ],
+      [
+        "cum primum",
+        "(m. Ind. Perf.)",
+        "sobald"
+      ],
+      [
+        "ubi primum",
+        "(m. Ind. Perf.)",
+        "sobald"
+      ],
+      [
+        "ut primum",
+        "(m. Ind. Perf.)",
+        "sobald"
+      ],
+      [
+        "quod",
+        "",
+        "weil, dass"
+      ],
+      [
+        "bene evenit, quod",
+        "",
+        "es trifft sich gut, dass"
+      ],
+      [
+        "bene/male facere, quod",
+        "",
+        "gut/schlecht daran tun, dass"
+      ],
+      [
+        "quiescere",
+        "quiesco, quievi, quieturus",
+        "ruhen, sich ausruhen"
+      ],
+      [
+        "bos",
+        "bovis m/f",
+        "das Rind, der Ochse, die Kuh"
+      ],
+      [
+        "quoniam",
+        "",
+        "weil ja, da ja"
+      ],
+      [
+        "considere",
+        "consido, consedi, consessum",
+        "sich setzen, sich niederlassen"
+      ],
+      [
+        "tergum",
+        "-i n",
+        "der Rücken"
+      ],
+      [
+        "surgere",
+        "surgo, surrexi, surrectum",
+        "aufstehen, sich erheben"
+      ],
+      [
+        "dexter",
+        "dextra, dextrum (auch dextera, dexterum)",
+        "rechts"
+      ],
+      [
+        "dextra (manus)",
+        "",
+        "die rechte Hand"
+      ],
+      [
+        "cornu",
+        "cornus n",
+        "das Horn, der Heeresflügel"
+      ],
+      [
+        "sinister",
+        "sinistra, sinistrum",
+        "links"
+      ],
+      [
+        "ventus",
+        "-i m",
+        "der Wind"
+      ],
+      [
+        "dum haec geruntur",
+        "",
+        "währenddessen"
+      ]
+    ],
+    "ws38": [
+      [
+        "currere",
+        "curro, cucurri, cursum",
+        "laufen, rennen"
+      ],
+      [
+        "occurrere",
+        "occurro, occurri, occursum",
+        "entgegenlaufen, entgegentreten, begegnen"
+      ],
+      [
+        "tangere",
+        "tango, tetigi, tactum",
+        "berühren, erreichen"
+      ],
+      [
+        "emere",
+        "emo, emi, emptum",
+        "kaufen"
+      ],
+      [
+        "sedere",
+        "sedeo, sedi, sessum",
+        "sitzen, dasitzen"
+      ],
+      [
+        "possidere",
+        "possideo, possedi, possessum",
+        "besitzen"
+      ],
+      [
+        "spes",
+        "spei f",
+        "die Hoffnung, die Erwartung"
+      ],
+      [
+        "spem deponere",
+        "",
+        "die Hoffnung aufgeben"
+      ],
+      [
+        "cavere",
+        "caveo, cavi, cautum",
+        "(m. Akk.) sich hüten (vor), sich in Acht nehmen (vor)"
+      ],
+      [
+        "Cave bestiam!",
+        "",
+        "Hüte dich vor dem wilden Tier! / Nimm dich vor dem wilden Tier in Acht!"
+      ],
+      [
+        "crescere",
+        "cresco, crevi, cretum",
+        "wachsen, zunehmen"
+      ],
+      [
+        "adeo",
+        "",
+        "so sehr"
+      ],
+      [
+        "impedire",
+        "impedio (a/ab)",
+        "hindern (an), (ver)hindern"
+      ],
+      [
+        "at",
+        "",
+        "aber, jedoch"
+      ],
+      [
+        "aut",
+        "",
+        "oder"
+      ],
+      [
+        "aut ... aut",
+        "",
+        "entweder ... oder"
+      ],
+      [
+        "medius",
+        "-a, -um",
+        "der mittlere, mitten in"
+      ],
+      [
+        "ut",
+        "(m. Konj.)",
+        "dass, sodass, damit, um … zu"
+      ],
+      [
+        "ne",
+        "(m. Konj.)",
+        "dass nicht, damit nicht, um … nicht zu; dass (nach Fürchten/Hindern)"
+      ],
+      [
+        "desiderare",
+        "desidero",
+        "sich sehnen nach, vermissen; m. Inf.: ersehnen (zu tun)"
+      ],
+      [
+        "decernere",
+        "decerno, decrevi, decretum",
+        "beschließen, entscheiden"
+      ],
+      [
+        "portus",
+        "portus m",
+        "der Hafen"
+      ],
+      [
+        "volare",
+        "volo",
+        "fliegen, eilen"
+      ],
+      [
+        "gravis",
+        "grave",
+        "schwer, gewichtig, ernst, bedeutend"
+      ],
+      [
+        "primo",
+        "",
+        "zuerst"
+      ],
+      [
+        "deserere",
+        "desero, deserui, desertum",
+        "verlassen, im Stich lassen"
+      ],
+      [
+        "paulatim",
+        "",
+        "allmählich"
+      ],
+      [
+        "coniungere",
+        "coniungo, coniunxi, coniunctum",
+        "verbinden, vereinigen"
+      ],
+      [
+        "aestus",
+        "-us m",
+        "die Hitze"
+      ],
+      [
+        "solvere",
+        "solvo, solvi, solutum",
+        "lösen, auflösen"
+      ],
+      [
+        "cadere",
+        "cado, cecidi, casurus",
+        "fallen"
+      ]
+    ],
+    "ws39": [
+      [
+        "agere",
+        "ago, egi, actum",
+        "tun, treiben, handeln, verhandeln"
+      ],
+      [
+        "suscipere",
+        "suscipio, suscepi, susceptum",
+        "m. Akk.: aufnehmen, auf sich nehmen, unternehmen"
+      ],
+      [
+        "incipere",
+        "incipio, coepi, coeptum",
+        "anfangen, beginnen"
+      ],
+      [
+        "cantare",
+        "canto",
+        "singen"
+      ],
+      [
+        "dulcis",
+        "dulce",
+        "süß, lieblich"
+      ],
+      [
+        "crudelis",
+        "crudele",
+        "grausam, hartherzig"
+      ],
+      [
+        "rursus",
+        "",
+        "wieder, zurück"
+      ],
+      [
+        "numen",
+        "numinis n",
+        "die Gottheit, der göttliche Wille, die göttliche Macht"
+      ],
+      [
+        "carus",
+        "-a, -um",
+        "lieb, teuer, wertvoll"
+      ],
+      [
+        "tendere",
+        "tendo, tetendi, tentum",
+        "spannen, (aus)strecken, richten, nach etw. streben"
+      ],
+      [
+        "cogere",
+        "cogo, coegi, coactum",
+        "versammeln, zwingen"
+      ],
+      [
+        "cum",
+        "(m. Konj.)",
+        "als, nachdem, da, weil, obwohl, während (dagegen)"
+      ],
+      [
+        "repetere",
+        "repeto, repetivi, repetitum",
+        "zurückverlangen, wieder aufsuchen, wiederholen"
+      ],
+      [
+        "temptare",
+        "tempto",
+        "(m. Inf.) versuchen (etw. zu tun); (m. Akk.) angreifen, betasten"
+      ],
+      [
+        "oppidum temptare",
+        "",
+        "die Stadt angreifen"
+      ],
+      [
+        "oppidum defendere temptare",
+        "",
+        "versuchen, die Stadt zu verteidigen"
+      ],
+      [
+        "superi",
+        "superorum m Pl.",
+        "die Götter der Oberwelt, die Oberwelt"
+      ],
+      [
+        "notus",
+        "-a, -um",
+        "bekannt"
+      ],
+      [
+        "noscere",
+        "nosco, novi, notum",
+        "kennenlernen, erkennen; Perf.: kennen, wissen"
+      ],
+      [
+        "reddere",
+        "reddo, reddidi, redditum",
+        "zurückgeben"
+      ],
+      [
+        "condicio",
+        "condicionis f",
+        "die Bedingung, die Lage"
+      ],
+      [
+        "remanere",
+        "remaneo, remansi, remansurus",
+        "zurückbleiben"
+      ],
+      [
+        "supremus",
+        "-a, -um",
+        "der oberste, der letzte, der äußerste"
+      ],
+      [
+        "iterum atque iterum",
+        "",
+        "immer wieder"
+      ]
+    ],
+    "ws40": [
+      [
+        "cōgnōscere",
+        "cōgnōscō, cōgnōvī, cōgnitum",
+        "kennenlernen, erkennen, erfahren, (Perf.) kennen, wissen"
+      ],
+      [
+        "īnstituere",
+        "īnstituō, īnstituī, īnstitūtum",
+        "unterrichten, einführen, errichten"
+      ],
+      [
+        "restituere",
+        "restituō, restituī, restitūtum",
+        "wiederherstellen"
+      ],
+      [
+        "barbarus",
+        "-a, -um",
+        "fremd, barbarisch, Subst. der Barbar"
+      ],
+      [
+        "occultus",
+        "-a, -um",
+        "geheim, verborgen, versteckt"
+      ],
+      [
+        "idōneus",
+        "-a, -um",
+        "geeignet"
+      ],
+      [
+        "turpis",
+        "turpe",
+        "hässlich, schändlich"
+      ],
+      [
+        "cernere",
+        "cernō, -",
+        "sehen, erkennen"
+      ],
+      [
+        "prīvāre",
+        "prīvō (m. Abl.)",
+        "(einer Sache) berauben"
+      ],
+      [
+        "Iāsōn rēgem pelle prīvat.",
+        "",
+        "Jason beraubt den König des Vlieses."
+      ],
+      [
+        "tēlum",
+        "-ī n",
+        "das (Wurf-)Geschoss, der Pfeil"
+      ],
+      [
+        "opus est",
+        "(m. Abl.)",
+        "es ist nötig (für jdn.), jmd. braucht etw., jmd. benötigt etw."
+      ],
+      [
+        "mihī opus est (m. Abl)",
+        "",
+        "für mich ist etw. nötig, ich brauche etw."
+      ],
+      [
+        "uterque",
+        "utraque, utrumque (Gen. utrīusque, Dat. utrīque)",
+        "jeder (von beiden), beide"
+      ],
+      [
+        "saxum",
+        "-ī n",
+        "der Fels(brocken), der Stein"
+      ],
+      [
+        "ipse",
+        "-a, -um (Gen. ipsīus, Dat. ipsī)",
+        "(er, sie, es) selbst, gerade, persönlich"
+      ],
+      [
+        "vocāre/dicere (m. dopp. Akk.)",
+        "",
+        "nennen, bezeichnen als"
+      ],
+      [
+        "putāre/ducere/habere (m. dopp. Akk.)",
+        "",
+        "halten für"
+      ],
+      [
+        "facere/reddere (m. dopp. Akk.)",
+        "",
+        "jmd. zu etw. machen"
+      ],
+      [
+        "sē (pārem) praestāre",
+        "",
+        "sich (als ebenbürtig) erweisen, zeigen"
+      ],
+      [
+        "prōdere",
+        "prōdō, prōdidī, prōditum",
+        "verraten, preisgeben, überliefern"
+      ],
+      [
+        "lūmen",
+        "lūminis n",
+        "das Licht, das Augenlicht, Auge"
+      ],
+      [
+        "ōs",
+        "ōris n",
+        "der Mund, das Gesicht"
+      ],
+      [
+        "proinde",
+        "",
+        "deshalb"
+      ],
+      [
+        "conicere",
+        "coniciō, coniēcī, coniectum",
+        "werfen, vermuten"
+      ],
+      [
+        "nāvigare",
+        "nāvigō",
+        "(mit dem Schiff) fahren, segeln"
+      ],
+      [
+        "impetus",
+        "impetus m",
+        "der Angriff, der Ansturm, der Schwung"
+      ],
+      [
+        "interesse",
+        "intersum, interfuī (m. Dat.)",
+        "dazwischen sein, teilnehmen (an)"
+      ],
+      [
+        "bellō interest",
+        "",
+        "er nimmt am Krieg teil"
+      ],
+      [
+        "interest",
+        "(m. Gen.)",
+        "es ist wichtig (für jmd.), es besteht ein Unterschied"
+      ],
+      [
+        "rēgis interest",
+        "",
+        "es ist wichtig für den König"
+      ],
+      [
+        "inter ōtium et gaudium interest",
+        "",
+        "zwischen Muße und Freude besteht ein Unterschied"
+      ],
+      [
+        "praemittere",
+        "praemittō, praemīsī, praemissum",
+        "vorausschicken"
+      ],
+      [
+        "discēdere",
+        "discēdō, discessī, discessum",
+        "auseinandergehen, weggehen"
+      ]
+    ],
+    "ws41": [
+      [
+        "retinēre",
+        "retineō, retinuī, retentum",
+        "zurückhalten, behalten, festhalten"
+      ],
+      [
+        "sustinēre",
+        "sustineō, sustinuī, sustentum",
+        "aushalten, ertragen"
+      ],
+      [
+        "inimīcus",
+        "-a, -um",
+        "feindlich, Subst. der (persönliche) Feind"
+      ],
+      [
+        "beneficium",
+        "beneficiī n",
+        "die Wohltat, Gefälligkeit"
+      ],
+      [
+        "beneficium dāre",
+        "",
+        "eine Gefälligkeit erweisen"
+      ],
+      [
+        "appellāre",
+        "appellō",
+        "ansprechen, benennen, (m. dopp. Akk.) nennen, bezeichnen als"
+      ],
+      [
+        "facinus",
+        "facinoris n",
+        "die Tat, Untat"
+      ],
+      [
+        "nefārius",
+        "-a, -um",
+        "frevelhaft, verbrecherisch"
+      ],
+      [
+        "manēre",
+        "maneō, mānsī, mānsūrus",
+        "bleiben, warten (auf), erwarten"
+      ],
+      [
+        "quantus",
+        "-a, -um",
+        "wie groß, wie viel"
+      ],
+      [
+        "committere",
+        "committō, commīsī, commissum",
+        "zusammenbringen, begehen, beginnen, anvertrauen"
+      ],
+      [
+        "scelus committere",
+        "",
+        "ein Verbrechen begehen"
+      ],
+      [
+        "proelium committere",
+        "",
+        "eine Schlacht beginnen"
+      ],
+      [
+        "persuādēre",
+        "persuādeō, persuāsī, persuāsum",
+        "(m. ut) überreden, (m. AcI) überzeugen"
+      ],
+      [
+        "Tibi persuādeō, ut mē adiuvēs.",
+        "",
+        "Ich überrede dich, mir zu helfen."
+      ],
+      [
+        "Tibi persuādeō tē mihi adesse dēbēre.",
+        "",
+        "Ich überzeuge dich davon, dass du mir helfen musst."
+      ],
+      [
+        "īdem",
+        "eadem, idem",
+        "derselbe, dieselbe, dasselbe"
+      ],
+      [
+        "īdem ... ac ...",
+        "",
+        "derselbe ... wie ..."
+      ],
+      [
+        "redūcere",
+        "redūcō, redūxī, reductum",
+        "zurückführen"
+      ],
+      [
+        "in memoriam redūcere",
+        "",
+        "ins Gedächtnis / in Erinnerung zurückrufen"
+      ],
+      [
+        "addere",
+        "addō, addidī, additum",
+        "hinzufügen"
+      ],
+      [
+        "sponte meā (tuā/suā/nostra/vestra/sua)",
+        "",
+        "von selbst, freiwillig, auf eigenen Entschluss"
+      ],
+      [
+        "nātūra",
+        "-ae f",
+        "die Natur, das Wesen"
+      ],
+      [
+        "namque",
+        "",
+        "denn, nämlich"
+      ],
+      [
+        "illūc",
+        "",
+        "dorthin"
+      ],
+      [
+        "ūnā",
+        "",
+        "zusammen"
+      ],
+      [
+        "tantum",
+        "",
+        "nur"
+      ],
+      [
+        "spīritus",
+        "spiritūs m",
+        "der Atem, das Leben, der Lebensgeist"
+      ],
+      [
+        "membrum",
+        "-ī n",
+        "das (Körper-)Glied, Pl. die Gliedmaßen"
+      ]
+    ],
+    "ws42": [
+      [
+        "rīdēre",
+        "rīdeō, rīsī, rīsum",
+        "lachen (über), auslachen"
+      ],
+      [
+        "torquēre",
+        "torqueō, torsī, tortum",
+        "foltern, quälen, drehen"
+      ],
+      [
+        "vidēre",
+        "videō, vīdī, vīsum",
+        "sehen"
+      ],
+      [
+        "salūs",
+        "salūtis f",
+        "die Rettung, das Wohl(ergehen), der Gruß"
+      ],
+      [
+        "reperīre",
+        "reperiō, repperī, repertum",
+        "finden, wiederfinden, entdecken"
+      ],
+      [
+        "crīmen",
+        "crīminis n",
+        "das Verbrechen, der Vorwurf, die Anklage"
+      ],
+      [
+        "vitium",
+        "-ī n",
+        "der Fehler, das Laster, die schlechte Eigenschaft"
+      ],
+      [
+        "incolumis",
+        "incolume",
+        "heil, unversehrt"
+      ],
+      [
+        "īgnōtus",
+        "-a, -um",
+        "unbekannt"
+      ],
+      [
+        "crīminī dare (, quod)",
+        "",
+        "zum Vorwurf machen (, dass)"
+      ],
+      [
+        "cōnsulere",
+        "cōnsulō, cōnsuluī, cōnsultum",
+        "(m. Dat.) sorgen für, (m. Akk.) um Rat fragen, (dē) beraten (über)"
+      ],
+      [
+        "prōspicere",
+        "prōspiciō, prōspēxī, prōspectum",
+        "(m. Dat.) sorgen für, (m. Akk.) vor sich erblicken, vorhersehen"
+      ],
+      [
+        "prōvidēre",
+        "prōvideō, prōvīdī, prōvīsum",
+        "(m. Dat.) sorgen für, (m. Akk.) vorhersehen"
+      ],
+      [
+        "commūnis",
+        "commune",
+        "allgemein, gemeinsam"
+      ],
+      [
+        "impius",
+        "-a, -um",
+        "gottlos, frevelhaft"
+      ],
+      [
+        "quisnam",
+        "quidnam",
+        "wer denn, was denn"
+      ],
+      [
+        "āter",
+        "ātra, ātrum",
+        "schwarz, finster"
+      ],
+      [
+        "lūctus",
+        "luctus m",
+        "die Trauer"
+      ],
+      [
+        "quārē",
+        "",
+        "weswegen?, deswegen (relativer Satzanschluss)"
+      ],
+      [
+        "praeceps",
+        "Gen. praecipitis",
+        "Hals über Kopf, kopfüber, überstürzt"
+      ],
+      [
+        "dī",
+        "(Nom./Vok. Pl.) = dei",
+        "Götter"
+      ],
+      [
+        "rēs bene ēvenit",
+        "",
+        "die Sache geht gut aus"
+      ]
+    ],
+    "ws43": [
+      [
+        "concēdere",
+        "concēdō, concessī, concessum",
+        "weichen, nachgeben, erlauben, zugestehen"
+      ],
+      [
+        "flāgitium",
+        "flāgitiī n",
+        "die Schandtat, die Gemeinheit"
+      ],
+      [
+        "propter",
+        "(m. Akk.)",
+        "wegen"
+      ],
+      [
+        "cōnstituere",
+        "cōnstituō, cōnstituī, cōnstitūtum",
+        "aufstellen, festsetzen, einrichten, (m. Inf.) beschließen (etw. zu tun)"
+      ],
+      [
+        "poenam cōnstituere",
+        "",
+        "eine Strafe festsetzen"
+      ],
+      [
+        "Patrem quaerere cōnstituī.",
+        "",
+        "Ich habe beschlossen, (meinen) Vater zu suchen."
+      ],
+      [
+        "pēs",
+        "pedis m",
+        "der Fuß"
+      ],
+      [
+        "laedere",
+        "laedō, laesī, laesum",
+        "verletzen, beschädigen"
+      ],
+      [
+        "ēdere",
+        "ēdō, ēdidī, ēditum",
+        "herausgeben, äußern, gebären"
+      ],
+      [
+        "(līberōs) ēdere",
+        "",
+        "(Kinder) gebären"
+      ],
+      [
+        "(verba) ēdere",
+        "",
+        "(Worte) äußern"
+      ],
+      [
+        "deinde",
+        "",
+        "hierauf, dann"
+      ],
+      [
+        "cīvitās",
+        "cīvitātis f",
+        "der Staat, die Bürgerschaft, das Bürgerrecht"
+      ],
+      [
+        "vītāre",
+        "vītō",
+        "meiden, vermeiden"
+      ],
+      [
+        "angustus",
+        "-a, -um",
+        "eng"
+      ],
+      [
+        "cāsus",
+        "casus m",
+        "der Fall, der Zufall, der Unglücksfall"
+      ],
+      [
+        "aliēnus",
+        "-a, -um",
+        "fremd"
+      ],
+      [
+        "rēgīna",
+        "-ae f",
+        "die Königin"
+      ],
+      [
+        "terribilis",
+        "terribile",
+        "schrecklich"
+      ],
+      [
+        "familiāris",
+        "familiare",
+        "freundschaftlich, verwandt, Subst. der Freund, der Verwandte"
+      ],
+      [
+        "dēmum",
+        "",
+        "endlich, erst"
+      ],
+      [
+        "pudor",
+        "pudōris m",
+        "die Scham, das Ehrgefühl, der Anstand"
+      ]
+    ],
+    "ws44": [
+      [
+        "sōlus",
+        "-a, -um (Gen. sōlīus, Dat. sōlī)",
+        "einzig, allein"
+      ],
+      [
+        "oppūgnāre",
+        "oppūgnō",
+        "angreifen"
+      ],
+      [
+        "sepelīre",
+        "sepeliō, sepelīvī, sepultum",
+        "bestatten"
+      ],
+      [
+        "corripere",
+        "corripiō, corripuī, correptum",
+        "packen, (gewaltsam) ergreifen"
+      ],
+      [
+        "vīvus",
+        "-a, -um",
+        "lebend, lebendig, zu Lebzeiten"
+      ],
+      [
+        "invītus",
+        "-a, -um",
+        "unwillig, gegen den Willen"
+      ],
+      [
+        "ferus",
+        "-a, -um",
+        "wild"
+      ],
+      [
+        "statuere",
+        "statuō, statuī, statūtum",
+        "aufstellen, festsetzen, beschließen"
+      ],
+      [
+        "lēgem statuere",
+        "",
+        "ein Gesetz aufstellen"
+      ],
+      [
+        "Frātrem sepelīre statuī.",
+        "",
+        "Ich habe beschlossen, (meinen) Bruder zu bestatten."
+      ],
+      [
+        "contendere",
+        "contendō, contendī, contentum",
+        "sich anstrengen, kämpfen, eilen, (m. AcI) behaupten"
+      ],
+      [
+        "iuvāre",
+        "iuvō, iūvī, iūtum (m. Akk.)",
+        "helfen, unterstützen, erfreuen"
+      ],
+      [
+        "tē iuvō",
+        "",
+        "ich helfe dir / unterstütze dich"
+      ],
+      [
+        "humus",
+        "-ī f",
+        "die Erde, der (Erd-)Boden"
+      ],
+      [
+        "tegere",
+        "tegō, tēxī, tēctum",
+        "bedecken, schützen, verbergen"
+      ],
+      [
+        "praedicāre",
+        "praedicō",
+        "rühmen, verkünden, predigen"
+      ],
+      [
+        "campus",
+        "-ī m",
+        "das Feld"
+      ],
+      [
+        "canis",
+        "canis m/f",
+        "der Hund, die Hündin"
+      ]
+    ],
+    "ws45": [
+      [
+        "classis",
+        "classis f, Gen. Pl. classium",
+        "die Flotte, die Abteilung"
+      ],
+      [
+        "subicere",
+        "subiciō, subiēcī, subiectum",
+        "unterwerfen"
+      ],
+      [
+        "perficere",
+        "perficiō, perfēcī, perfectum",
+        "vollenden, durchsetzen"
+      ],
+      [
+        "ultimus",
+        "-a, -um",
+        "der letzte, der entfernteste, der äußerste"
+      ],
+      [
+        "prōcēdere",
+        "prōcēdō, prōcessī, prōcessum",
+        "vorwärtsschreiten, vorrücken, Fortschritte machen"
+      ],
+      [
+        "īnfēstus",
+        "-a, -um",
+        "feindselig, kampfbereit"
+      ],
+      [
+        "hūmānus",
+        "-a, -um",
+        "menschlich, gebildet"
+      ],
+      [
+        "auris",
+        "auris f, Gen. Pl. aurium",
+        "das Ohr"
+      ],
+      [
+        "flūmen",
+        "flūminis n",
+        "der Fluss"
+      ],
+      [
+        "perpetuus",
+        "-a, -um",
+        "ununterbrochen, dauerhaft, ewig"
+      ],
+      [
+        "undique",
+        "",
+        "von überall her, von allen Seiten"
+      ],
+      [
+        "exīre",
+        "exeō, exiī, exitum",
+        "herausgehen, verlassen"
+      ],
+      [
+        "monumentum",
+        "-ī n",
+        "das Denkmal, das Grabmal"
+      ]
+    ],
+    "ws46": [
+      [
+        "alere",
+        "alō, aluī, al(i)tum",
+        "aufziehen, (er)nähren"
+      ],
+      [
+        "aperīre",
+        "aperiō, aperuī, apertum",
+        "öffnen, aufmachen"
+      ],
+      [
+        "sūmere",
+        "sūmō, sūmpsī, sūmptum",
+        "nehmen"
+      ],
+      [
+        "ingenium",
+        "-i n",
+        "die Begabung, der Geist, Charakter"
+      ],
+      [
+        "futūrus",
+        "-a, -um",
+        "künftig, zukünftig"
+      ],
+      [
+        "futura",
+        "futurorum n. (Pl.)",
+        "die Zukunft"
+      ],
+      [
+        "rēs futūrae",
+        "rerum futurarum f (Pl.)",
+        "die Zukunft"
+      ],
+      [
+        "ēgregius",
+        "-a, -um",
+        "hervorragend, ausgezeichnet"
+      ],
+      [
+        "rēs gestae",
+        "rerum gestarum f. (Pl.)",
+        "die Taten, die Geschichte"
+      ],
+      [
+        "interrogāre",
+        "interrogō",
+        "fragen"
+      ],
+      [
+        "iste",
+        "ista, istud",
+        "dieser, dieser da"
+      ],
+      [
+        "cupidus",
+        "-a, -um (m. Gen.)",
+        "gierig, begierig (nach)"
+      ],
+      [
+        "memor",
+        "(m. Gen.)",
+        "eingedenk, in Erinnerung (an), (sich einer Sache) bewusst"
+      ],
+      [
+        "cōnscius",
+        "-a, -um (m. Gen.)",
+        "mitwissend, eingeweiht (in), sich bewusst; Subst. der Mitwisser"
+      ],
+      [
+        "īgnārus",
+        "-a, -um (m. Gen.)",
+        "unwissend, ohne Wissen"
+      ],
+      [
+        "virgō",
+        "virginis f",
+        "die Jungfrau, junge Frau, das Mädchen"
+      ],
+      [
+        "vērus",
+        "-a, -um",
+        "echt, richtig, wahr"
+      ],
+      [
+        "accidere",
+        "accidō, accidī",
+        "geschehen, sich ereignen, zustoßen"
+      ],
+      [
+        "corrumpere",
+        "corrumpō, corrūpī, corruptum",
+        "verderben, bestechen"
+      ],
+      [
+        "caedēs",
+        "caedis f, Gen. Pl. caedium",
+        "der Mord, das Blutbad"
+      ],
+      [
+        "nex",
+        "necis f",
+        "der Mord, der (gewaltsame) Tod"
+      ],
+      [
+        "appetere",
+        "appetō, appetīvī, appetītum",
+        "begehren, anstreben, streben nach"
+      ],
+      [
+        "addūcere",
+        "addūcō, addūxī, adductum",
+        "heranführen, veranlassen"
+      ],
+      [
+        "aedis",
+        "aedis f, Gen. Pl. aedium",
+        "der Tempel, Pl. das Haus"
+      ],
+      [
+        "facile",
+        "(Adv.)",
+        "einfach, leicht, mühelos"
+      ],
+      [
+        "tot",
+        "(indekl.)",
+        "so viele"
+      ]
+    ],
+    "ws47": [
+      [
+        "cupiditās",
+        "cupiditātis f.",
+        "die Begierde, das Verlangen, die Leidenschaft"
+      ],
+      [
+        "incēdere",
+        "incēdō, incessī, incessum",
+        "einherschreiten, eintreten"
+      ],
+      [
+        "Caesar ut rēx incēdit.",
+        "",
+        "Caesar schreitet wie ein König (einher)."
+      ],
+      [
+        "palam",
+        "Adv.",
+        "offen, öffentlich, offenkundig"
+      ],
+      [
+        "restāre",
+        "restō, restitī, -",
+        "übrig bleiben, widerstehen"
+      ],
+      [
+        "(id/hoc) restat, ut ...",
+        "",
+        "es fehlt noch, dass ..."
+      ],
+      [
+        "Id restat, ut Caesar rēgnum teneat.",
+        "",
+        "Es fehlt noch, dass Caesar die Königsherrschaft erlangt."
+      ],
+      [
+        "pariter",
+        "Adv.",
+        "in gleicher Weise"
+      ],
+      [
+        "pariter atque/ac",
+        "",
+        "in gleicher Weise wie"
+      ],
+      [
+        "dīgnitās",
+        "dīgnitātis f",
+        "die Würde, das Ansehen"
+      ],
+      [
+        "quī, quae, quod?",
+        "",
+        "welcher, welche, welches?"
+      ],
+      [
+        "(utrum) ... an ...?",
+        "",
+        "... oder ...?"
+      ],
+      [
+        "num",
+        "(indirekte Frage)",
+        "ob"
+      ],
+      [
+        "Rogō, num veniat.",
+        "",
+        "Ich frage, ob er kommt."
+      ],
+      [
+        "(utrum) ... an ...",
+        "(indirekte Frage)",
+        "ob ... oder ..."
+      ],
+      [
+        "Rogō, utrum veniat an nōn./Rogō, veniat an nōn.",
+        "",
+        "Ich frage, ob er kommt oder nicht."
+      ],
+      [
+        "circumdare",
+        "circumdō, circumdedī, circumdatum",
+        "umgeben, umzingeln, umschließen"
+      ],
+      [
+        "ultrō",
+        "Adv.",
+        "freiwillig, darüber hinaus"
+      ],
+      [
+        "Rōmānī Caesarī ultrō honōribus afficiunt.",
+        "",
+        "Die Römer erweisen Caesar freiwillig Ehren."
+      ],
+      [
+        "Ultrōque eī togam purpuream dant.",
+        "",
+        "Und darüber hinaus geben sie ihm die Purpurtoga."
+      ],
+      [
+        "dēspicere",
+        "dēspiciō, dēspēxī, dēspectum",
+        "herabsehen (auf), verachten"
+      ],
+      [
+        "pudet, puduit (m. Akk. + Gen.)",
+        "",
+        "es beschämt (jemanden)"
+      ],
+      [
+        "Mē pudet sceleris.",
+        "",
+        "Ich schäme mich für das Verbrechen."
+      ],
+      [
+        "dēdere",
+        "dēdō, dēdidī, dēditum",
+        "ausliefern, übergeben"
+      ],
+      [
+        "se dēdere",
+        "",
+        "sich hingeben, sich widmen"
+      ],
+      [
+        "Caesar bellō sē dēdit.",
+        "",
+        "Caesar widmete sich dem Krieg."
+      ],
+      [
+        "Caesar cupiditātī sē dēdit.",
+        "",
+        "Caesar gab sich seinem Verlangen hin."
+      ],
+      [
+        "equidem",
+        "",
+        "(ich) allerdings, freilich"
+      ],
+      [
+        "dēmōnstrāre",
+        "dēmōnstrō",
+        "zeigen, darlegen, beweisen"
+      ],
+      [
+        "salūtem dīcere",
+        "",
+        "grüßen"
+      ],
+      [
+        "mē fugit",
+        "",
+        "es entgeht mir"
+      ]
+    ],
+    "ws48": [
+      [
+        "perspicere",
+        "perspiciō, perspēxī, perspectum",
+        "durchschauen, untersuchen, erkennen"
+      ],
+      [
+        "manifestus",
+        "-a, -um",
+        "offenbar, offenkundig"
+      ],
+      [
+        "occāsiō",
+        "occāsiōnis f",
+        "die Gelegenheit, die Möglichkeit"
+      ],
+      [
+        "līber",
+        "libera, liberum (m. Abl./ā/ab m. Abl.)",
+        "frei (von)"
+      ],
+      [
+        "multitūdō",
+        "multitūdinis f",
+        "die Vielzahl, die Menge"
+      ],
+      [
+        "memorāre",
+        "memorō",
+        "erinnern, erwähnen, erzählen"
+      ],
+      [
+        "obicere",
+        "obiciō, obiēcī, obiectum",
+        "entgegenwerfen, vorwerfen"
+      ],
+      [
+        "contingere",
+        "contingō, contigī, contāctum",
+        "berühren, gelingen"
+      ],
+      [
+        "contigit, ut",
+        "",
+        "es gelingt, dass / es glückt, dass"
+      ],
+      [
+        "iūs",
+        "iūris n",
+        "das Recht"
+      ],
+      [
+        "iūre",
+        "",
+        "mit Recht"
+      ],
+      [
+        "improbus",
+        "-a, -um",
+        "schlecht, unanständig, niederträchtig"
+      ],
+      [
+        "dēesse",
+        "dēsum, dēfuī, dēfutūrus",
+        "fehlen"
+      ],
+      [
+        "sēdēs",
+        "sēdis f",
+        "der Sitz, Wohnsitz"
+      ],
+      [
+        "gemitus",
+        "gemitūs m",
+        "das Seufzen, das Stöhnen"
+      ],
+      [
+        "rēgius",
+        "-a, -um",
+        "königlich"
+      ],
+      [
+        "āvertere",
+        "āvertō, āvertī, āversum",
+        "abwenden, fernhalten"
+      ]
+    ],
+    "ws49": [
+      [
+        "cōnspectus",
+        "-ūs m",
+        "der Anblick, das Blickfeld"
+      ],
+      [
+        "simulācrum",
+        "-ī n",
+        "das Bild, Götterbild, die Götterstatue"
+      ],
+      [
+        "legiō",
+        "legiōnis f",
+        "die Legion"
+      ],
+      [
+        "īnferre",
+        "īnferō, intulī, illātum",
+        "hineintragen, einflößen"
+      ],
+      [
+        "bellum īnferre (m. Dat.)",
+        "",
+        "Krieg anfangen (mit)"
+      ],
+      [
+        "mortem sibi īnferre",
+        "",
+        "sich das Leben nehmen"
+      ],
+      [
+        "timōrem īnferre",
+        "",
+        "Furcht einflößen"
+      ],
+      [
+        "ferre",
+        "ferō, tulī, lātum",
+        "tragen, bringen, ertragen"
+      ],
+      [
+        "cōnferre",
+        "cōnferō, contulī, collātum",
+        "zusammentragen, zusammenbringen, vergleichen"
+      ],
+      [
+        "sē cōnferre",
+        "",
+        "sich begeben"
+      ],
+      [
+        "auferre",
+        "auferō, abstulī, ablātum",
+        "wegtragen, wegbringen, wegnehmen"
+      ],
+      [
+        "afferre",
+        "afferō, attulī, allātum",
+        "herbeibringen, bringen, melden"
+      ],
+      [
+        "gaudium afferre",
+        "",
+        "Freude bereiten"
+      ],
+      [
+        "timōrem afferre",
+        "",
+        "Angst machen"
+      ],
+      [
+        "referre",
+        "referō, rettulī, relātum",
+        "zurückbringen, berichten"
+      ],
+      [
+        "victōriam referre (ē/ex)",
+        "",
+        "den Sieg davontragen (über)"
+      ],
+      [
+        "victōriam ad cīvēs referre",
+        "",
+        "den Sieg den Bürgern melden"
+      ],
+      [
+        "imāgō",
+        "imāginis f",
+        "das Bild, Gemälde"
+      ],
+      [
+        "sanguis",
+        "sanguinis m",
+        "das Blut"
+      ],
+      [
+        "spargere",
+        "spargō, sparsī, sparsum",
+        "streuen, ausstreuen, bespritzen"
+      ],
+      [
+        "varius",
+        "-a, -um",
+        "vielfältig, verschieden, bunt"
+      ],
+      [
+        "perferre",
+        "perferō, pertulī, perlātum",
+        "überbringen, ertragen"
+      ],
+      [
+        "longus",
+        "-a, -um",
+        "lang, lang anhaltend"
+      ],
+      [
+        "ōrdō",
+        "ōrdinis m",
+        "die Ordnung, Reihe, der (gesellschaftliche) Stand"
+      ],
+      [
+        "sinus",
+        "-ūs m",
+        "der Bogen, die Bucht, die Brust"
+      ],
+      [
+        "terrā marīque",
+        "",
+        "zu Wasser und zu Lande"
+      ]
+    ],
+    "ws50": [
+      [
+        "fēlīx",
+        "fēlīcis",
+        "glücklich, erfolgreich"
+      ],
+      [
+        "probāre",
+        "probō",
+        "billigen, gutheißen, prüfen"
+      ],
+      [
+        "dīgnus",
+        "-a, -um (m. Abl.)",
+        "würdig, wert (einer Sache)"
+      ],
+      [
+        "laude dīgnus/-a, -um",
+        "",
+        "würdig/wert des Lobes, lobenswert"
+      ],
+      [
+        "amplus",
+        "-a, -um",
+        "weit, geräumig, bedeutend"
+      ],
+      [
+        "opus",
+        "operis n",
+        "das Werk, die Arbeit, Tätigkeit"
+      ],
+      [
+        "vīsere",
+        "vīsō, vīsī, -",
+        "besuchen, besichtigen"
+      ],
+      [
+        "nātiō",
+        "nātiōnis f",
+        "das Volk, der Volksstamm"
+      ],
+      [
+        "aetās",
+        "aetātis f",
+        "das Lebensalter, das Zeitalter, die Zeit"
+      ],
+      [
+        "frōns",
+        "frontis f",
+        "die Vorderseite, die Stirn"
+      ],
+      [
+        "placidus",
+        "-a, -um",
+        "sanft, ruhig, friedlich"
+      ],
+      [
+        "sacer",
+        "sacra, sacrum",
+        "heilig"
+      ],
+      [
+        "lātus",
+        "-a, -um",
+        "breit, weit, ausgedehnt"
+      ],
+      [
+        "āiō",
+        "(āis, āit, āiunt)",
+        "ich sage, ich behaupte"
+      ],
+      [
+        "ut āiunt",
+        "",
+        "wie man sagt"
+      ],
+      [
+        "tālis",
+        "tale",
+        "solch, von solcher Art, so (beschaffen)"
+      ],
+      [
+        "cella",
+        "-ae f",
+        "die Kammer, das Tempelinnere"
+      ],
+      [
+        "in summō templō",
+        "",
+        "oben auf dem Tempel, am höchsten Punkt des Tempels"
+      ],
+      [
+        "prōmissum praestāre",
+        "",
+        "ein Versprechen einlösen"
+      ]
+    ],
+    "ws51": [
+      [
+        "nōmināre",
+        "nōminō",
+        "nennen (m. dopp. Akk.), bezeichnen … als"
+      ],
+      [
+        "inīquus",
+        "-a, -um",
+        "ungleich, ungerecht"
+      ],
+      [
+        "inīque ferre",
+        "",
+        "missbilligen"
+      ],
+      [
+        "cupīdō",
+        "cupīdinis f",
+        "die Gier, die Begierde, das Verlangen, die Leidenschaft"
+      ],
+      [
+        "inaudītus",
+        "-a, -um",
+        "unerhört, beispiellos"
+      ],
+      [
+        "immānis",
+        "immane",
+        "riesig, ungeheuerlich, entsetzlich, furchtbar"
+      ],
+      [
+        "dīligēns",
+        "dīligentis",
+        "sorgfältig, gewissenhaft"
+      ],
+      [
+        "ūsus",
+        "usus m",
+        "der Gebrauch, der Nutzen"
+      ],
+      [
+        "ūsuī est (Dat. d. Zwecks)",
+        "",
+        "es ist nützlich"
+      ],
+      [
+        "indūcere",
+        "indūcō, indūxī, inductum",
+        "hineinführen, veranlassen"
+      ],
+      [
+        "cupīdine inductus/-a, -um",
+        "",
+        "aus Begierde"
+      ],
+      [
+        "vehemēns",
+        "Gen. vehementis",
+        "heftig, nachdrücklich, energisch"
+      ],
+      [
+        "iūdicāre",
+        "iūdicō",
+        "urteilen, beurteilen, entscheiden"
+      ],
+      [
+        "dēferre",
+        "dēferō, dētulī, dēlātum",
+        "(weg)bringen, abführen, melden, übertragen"
+      ],
+      [
+        "repente",
+        "",
+        "plötzlich"
+      ],
+      [
+        "cōnscrībere",
+        "cōnscrībō, cōnscrīpsī, cōnscrīptum",
+        "verfassen, anwerben, ausheben"
+      ],
+      [
+        "mīlitēs cōnscrībere",
+        "",
+        "Soldaten (für den Krieg) anwerben"
+      ],
+      [
+        "cōpiās cōnscrībere",
+        "",
+        "Truppen ausheben"
+      ],
+      [
+        "innocēns",
+        "Gen. innocentis",
+        "unschuldig"
+      ],
+      [
+        "sānctus",
+        "-a, -um",
+        "heilig, geweiht"
+      ],
+      [
+        "crux",
+        "crucis f",
+        "das Kreuz"
+      ],
+      [
+        "immēnsus",
+        "-a, -um",
+        "riesig, gewaltig, ungeheuerlich"
+      ],
+      [
+        "umquam",
+        "",
+        "jemals"
+      ]
+    ],
+    "ws52": [
+      [
+        "commodus",
+        "-a, -um",
+        "vorteilhaft, günstig, bequem"
+      ],
+      [
+        "imprīmīs",
+        "(Adv.)",
+        "hauptsächlich, besonders, vor allem"
+      ],
+      [
+        "opīniō",
+        "opīniōnis f",
+        "die Meinung, die Erwartung"
+      ],
+      [
+        "mea opīniōne",
+        "",
+        "meiner Meinung nach"
+      ],
+      [
+        "officium",
+        "-ī n",
+        "die Pflicht, Aufgabe"
+      ],
+      [
+        "officium praestāre",
+        "",
+        "(seine) Pflicht erfüllen"
+      ],
+      [
+        "sēditiō",
+        "sēditiōnis f",
+        "der Aufstand"
+      ],
+      [
+        "coercēre",
+        "coerceō",
+        "bändigen, einschränken"
+      ],
+      [
+        "pūnīre",
+        "pūniō",
+        "strafen, bestrafen"
+      ],
+      [
+        "multō (m. Komparativ)",
+        "",
+        "viel, um vieles"
+      ],
+      [
+        "multō pulchrior",
+        "",
+        "viel schöner"
+      ],
+      [
+        "disputāre",
+        "disputō",
+        "diskutieren, sprechen über"
+      ],
+      [
+        "probus",
+        "-a, -um",
+        "anständig, gut, tüchtig"
+      ],
+      [
+        "volvere",
+        "volvō, volvī, volūtum",
+        "wälzen, rollen"
+      ],
+      [
+        "librum volvere",
+        "",
+        "ein Buch lesen"
+      ],
+      [
+        "in animō volvere",
+        "",
+        "überlegen, erwägen"
+      ],
+      [
+        "decet",
+        "decuit (m. Akk.)",
+        "es schickt sich (für jemanden), es steht (jemandem)"
+      ],
+      [
+        "vestis mē decet",
+        "",
+        "das Kleid steht mir"
+      ],
+      [
+        "Senātōrem decet togam gerere.",
+        "",
+        "Für einen Senator schickt es sich, die Toga zu tragen."
+      ],
+      [
+        "convīvium",
+        "-ī n",
+        "das Gastmahl, Gelage"
+      ],
+      [
+        "cubāre",
+        "cubō, cubuī, cubitum",
+        "liegen, schlafen, zu Tische liegen, speisen"
+      ],
+      [
+        "aquaeductus",
+        "-ūs m",
+        "die Wasserleitung, das Aquädukt"
+      ],
+      [
+        "thermae",
+        "-ārum f (Pl.)",
+        "die Thermen, öffentlichen Badeanlagen"
+      ],
+      [
+        "quotiēns",
+        "",
+        "wie oft"
+      ],
+      [
+        "cottīdiē",
+        "(Adv.)",
+        "täglich"
+      ],
+      [
+        "ambulāre",
+        "ambulō",
+        "spazieren gehen"
+      ]
+    ],
+    "ws53": [
+      [
+        "initium",
+        "-i n",
+        "der Eingang, der Anfang"
+      ],
+      [
+        "complures",
+        "complura (Pl.), Gen. complurium",
+        "mehrere"
+      ],
+      [
+        "iniuria",
+        "-ae f",
+        "das Unrecht, die Beleidigung"
+      ],
+      [
+        "indignus",
+        "-a, -um (m. Abl.)",
+        "unwürdig, empörend"
+      ],
+      [
+        "convocare",
+        "convoco",
+        "herbeirufen, zusammenrufen, versammeln"
+      ],
+      [
+        "eicere",
+        "eicio, eieci, eiectum",
+        "hinauswerfen, vertreiben"
+      ],
+      [
+        "finire",
+        "finio",
+        "beenden, begrenzen"
+      ],
+      [
+        "incitare",
+        "incito",
+        "antreiben, anfeuern, reizen"
+      ],
+      [
+        "vastare",
+        "vasto",
+        "verwüsten"
+      ],
+      [
+        "superesse",
+        "supersum, superfui, -",
+        "übrig sein, im Überfluss vorhanden sein, überleben (m. Dat.)"
+      ],
+      [
+        "obire",
+        "obeo, obii, obitum (m. Akk.)",
+        "entgegengehen, sterben"
+      ],
+      [
+        "post",
+        "(Adv.)",
+        "später"
+      ],
+      [
+        "multo post",
+        "",
+        "viel später"
+      ],
+      [
+        "duobus annis post",
+        "",
+        "zwei Jahre später"
+      ],
+      [
+        "paulum/paulo",
+        "(Adv.)",
+        "ein wenig, ein bisschen"
+      ],
+      [
+        "paulo post",
+        "",
+        "etwas später, kurz darauf"
+      ],
+      [
+        "ambo",
+        "ambae, ambo",
+        "beide"
+      ],
+      [
+        "trans",
+        "(m. Akk.)",
+        "über … hinüber, jenseits"
+      ],
+      [
+        "fluctus",
+        "-us m",
+        "die Flut"
+      ],
+      [
+        "adiungere",
+        "adiungo, adiunxi, adiunctum",
+        "anbinden, anfügen, anschließen"
+      ],
+      [
+        "se ad alios adiungere",
+        "",
+        "sich anderen anschließen"
+      ],
+      [
+        "eo",
+        "",
+        "deswegen, dorthin"
+      ],
+      [
+        "sero",
+        "(Adv.)",
+        "spät, zu spät"
+      ],
+      [
+        "venenum",
+        "-i n",
+        "das Gift"
+      ],
+      [
+        "vim afferre",
+        "",
+        "Gewalt antun"
+      ]
+    ],
+    "ws54": [
+      [
+        "regio",
+        "regionis f",
+        "das Gebiet, die Gegend, die Richtung"
+      ],
+      [
+        "epistula",
+        "-ae f",
+        "der Brief"
+      ],
+      [
+        "durus",
+        "-a, -um",
+        "hart, hartherzig"
+      ],
+      [
+        "asper",
+        "aspera, asperum",
+        "rau, grob, hart"
+      ],
+      [
+        "vastus",
+        "-a, -um",
+        "wüst, öde, weit, unermesslich"
+      ],
+      [
+        "atrox",
+        "Gen. atrocis",
+        "schrecklich, wild"
+      ],
+      [
+        "optare",
+        "opto",
+        "wünschen"
+      ],
+      [
+        "frigus",
+        "frigoris n",
+        "die Kälte, der Frost"
+      ],
+      [
+        "tenebrae",
+        "-arum f (Pl.)",
+        "die Finsternis, die Dunkelheit"
+      ],
+      [
+        "iussu",
+        "(Adv.)",
+        "auf Befehl"
+      ],
+      [
+        "necessarius",
+        "-a, -um",
+        "nötig, notwendig; Subst. der Freund, der Verwandte"
+      ],
+      [
+        "efferre",
+        "efferō, extulī, ēlātum",
+        "hinaustragen, hinausbringen, beerdigen"
+      ],
+      [
+        "victoria elatus",
+        "-a, -um",
+        "stolz auf den Sieg / hochmütig wegen des Siegs"
+      ],
+      [
+        "spatium",
+        "-i n",
+        "der Raum, der Zeitraum"
+      ],
+      [
+        "postremo",
+        "(Adv.)",
+        "schließlich, zuletzt"
+      ],
+      [
+        "plenus",
+        "-a, -um (m. Gen.)",
+        "voll (von/mit)"
+      ],
+      [
+        "plenus timoris",
+        "",
+        "voller Angst"
+      ],
+      [
+        "funus",
+        "funeris n",
+        "die Bestattung"
+      ],
+      [
+        "proximus",
+        "-a, -um",
+        "der nächste"
+      ],
+      [
+        "lupus",
+        "-i m",
+        "der Wolf"
+      ],
+      [
+        "ullus",
+        "-a, -um, Gen. ullius, Dat. ulli (nach Verneinung)",
+        "irgendein"
+      ]
+    ],
+    "ws55": [
+      [
+        "statua",
+        "-ae f",
+        "die Statue"
+      ],
+      [
+        "certamen",
+        "certaminis n",
+        "der Streit, Wettstreit, Wettkampf"
+      ],
+      [
+        "prodire",
+        "prodeo, prodii, proditum",
+        "vortreten, auftreten"
+      ],
+      [
+        "in scaenam prodire",
+        "",
+        "auf der Bühne auftreten"
+      ],
+      [
+        "in publicum prodire",
+        "",
+        "in der Öffentlichkeit auftreten"
+      ],
+      [
+        "cursus",
+        "cursus m",
+        "der Lauf, der Kurs, die Fahrt"
+      ],
+      [
+        "iudicium",
+        "-i n",
+        "das Urteil, die Entscheidung, das Gericht"
+      ],
+      [
+        "pretium",
+        "-i n",
+        "der Lohn, der Preis"
+      ],
+      [
+        "oliva",
+        "-ae f",
+        "die Olive, der Olivenbaum, der Olivenzweig"
+      ],
+      [
+        "iungere",
+        "iungo, iunxi, iunctum",
+        "verbinden, vereinen"
+      ],
+      [
+        "equum ad currum iungere",
+        "",
+        "ein Pferd vor den Wagen spannen"
+      ],
+      [
+        "existimare",
+        "existimo",
+        "einschätzen, meinen"
+      ],
+      [
+        "fiducia",
+        "-ae f",
+        "das Vertrauen, die Zuversicht"
+      ],
+      [
+        "gratus",
+        "-a, -um",
+        "dankbar, willkommen"
+      ],
+      [
+        "natus",
+        "-a, -um",
+        "geboren; Subst. Sohn/Tochter"
+      ],
+      [
+        "excedere",
+        "excedo, excessi, excessum",
+        "herausgehen, hinausgehen"
+      ],
+      [
+        "domo excedere",
+        "",
+        "aus dem Haus hinausgehen"
+      ],
+      [
+        "excedere modum",
+        "",
+        "das rechte Maß überschreiten"
+      ],
+      [
+        "taedium",
+        "-i n",
+        "der Ekel, der Überdruss"
+      ],
+      [
+        "pristinus",
+        "-a, -um",
+        "der frühere, der ehemalige"
+      ],
+      [
+        "vestigium",
+        "-i n",
+        "die Spur"
+      ],
+      [
+        "nimis",
+        "",
+        "zu, allzu"
+      ],
+      [
+        "omittere",
+        "omitto, omisi, omissum",
+        "aufgeben, unterlassen"
+      ],
+      [
+        "spem omittere",
+        "",
+        "die Hoffnung aufgeben"
+      ],
+      [
+        "inde",
+        "",
+        "von dort, von da an, daher, daraufhin"
+      ],
+      [
+        "sapiens",
+        "Gen. sapientis",
+        "weise; Subst. der Weise"
+      ],
+      [
+        "se praebere",
+        "me praebeo (m. dopp. Akk.)",
+        "sich erweisen (als)"
+      ],
+      [
+        "se fortem praebere",
+        "",
+        "sich als tapfer erweisen"
+      ],
+      [
+        "tunc",
+        "(Adv.)",
+        "dann, darauf, da, damals"
+      ]
+    ],
+    "ws56": [
+      [
+        "medicus",
+        "-i m",
+        "der Arzt"
+      ],
+      [
+        "valetudo",
+        "valetudinis f",
+        "das Befinden, die Gesundheit, Krankheit"
+      ],
+      [
+        "facilis",
+        "facile (Superlativ: facillimus, -a, -um)",
+        "einfach, leicht"
+      ],
+      [
+        "difficilis",
+        "difficile (Superlativ: difficillimus, -a, -um)",
+        "schwer, schwierig"
+      ],
+      [
+        "apparere",
+        "appareo",
+        "erscheinen, sich zeigen"
+      ],
+      [
+        "aspectus",
+        "aspectus m",
+        "der Anblick"
+      ],
+      [
+        "convalescere",
+        "convalesco, convalui, -",
+        "gesund werden, genesen"
+      ],
+      [
+        "sanare",
+        "sano",
+        "heilen"
+      ],
+      [
+        "vulgus",
+        "-i n",
+        "das Volk"
+      ],
+      [
+        "dolere",
+        "doleo, dolui, -",
+        "schmerzen, Schmerz empfinden (über)"
+      ],
+      [
+        "Pes dolet.",
+        "",
+        "Der Fuß schmerzt."
+      ],
+      [
+        "Mortem eius doleo.",
+        "",
+        "Mich schmerzt sein Tod."
+      ],
+      [
+        "advenire",
+        "advenio, adveni, adventum",
+        "ankommen"
+      ],
+      [
+        "ratio",
+        "rationis f",
+        "die Vernunft, Art und Weise, Methode, Rechnung, Überlegung"
+      ],
+      [
+        "utinam",
+        "",
+        "hoffentlich; wenn doch"
+      ],
+      [
+        "vellem/nollem",
+        "",
+        "(unerfüllbar) wenn doch / wenn doch nicht"
+      ],
+      [
+        "velim/nolim",
+        "",
+        "(erfüllbar) hoffentlich / hoffentlich nicht"
+      ],
+      [
+        "inanis",
+        "inane",
+        "sinnlos, wertlos, leer"
+      ],
+      [
+        "festinare",
+        "festino",
+        "eilen, sich beeilen"
+      ],
+      [
+        "cito",
+        "(Adv.)",
+        "schnell"
+      ],
+      [
+        "vacare",
+        "vaco (m. Abl.)",
+        "leer sein, frei sein (von), Zeit haben"
+      ],
+      [
+        "doloribus vacat",
+        "",
+        "er hat keine Schmerzen"
+      ],
+      [
+        "latus",
+        "lateris n",
+        "die Seite, die Flanke"
+      ],
+      [
+        "attingere",
+        "attingo, attigi, attactum",
+        "berühren, grenzen an, gelangen an/nach"
+      ],
+      [
+        "divinus",
+        "-a, -um",
+        "göttlich"
+      ],
+      [
+        "deterrere",
+        "deterreo",
+        "abschrecken, abbringen"
+      ],
+      [
+        "te a/de consilio deterreo",
+        "",
+        "ich bringe dich von deinem Plan ab"
+      ],
+      [
+        "omnino",
+        "(Adv.)",
+        "insgesamt, überhaupt, völlig"
+      ],
+      [
+        "merces",
+        "mercedis f",
+        "der Lohn, die Zahlung"
+      ]
+    ],
+    "ws57": [
+      [
+        "oraculum",
+        "-i n",
+        "das Orakel, der Orakelspruch"
+      ],
+      [
+        "sacerdos",
+        "sacerdotis m/f",
+        "der Priester / die Priesterin"
+      ],
+      [
+        "mundus",
+        "-i m",
+        "die Welt, das Weltall"
+      ],
+      [
+        "lapis",
+        "lapidis m",
+        "der Stein"
+      ],
+      [
+        "collocare",
+        "colloco",
+        "aufstellen, errichten; ansiedeln"
+      ],
+      [
+        "destinare",
+        "destino",
+        "festsetzen, bestimmen"
+      ],
+      [
+        "continere",
+        "contineo, continui, contentum (m. Abl.)",
+        "zusammenhalten, festhalten, im Zaum halten, enthalten"
+      ],
+      [
+        "aequus",
+        "-a, -um",
+        "gleich, gerecht"
+      ],
+      [
+        "aequo animo",
+        "",
+        "mit Gelassenheit"
+      ],
+      [
+        "peritus",
+        "-a, -um (m. Gen.)",
+        "erfahren, kundig (in)"
+      ],
+      [
+        "iuris peritus",
+        "",
+        "rechtskundig"
+      ],
+      [
+        "religio",
+        "religionis f",
+        "die Götterverehrung, religiöse Scheu, Religion, Glaube"
+      ],
+      [
+        "aliquis",
+        "aliquid (subst.)",
+        "irgendjemand, irgendetwas"
+      ],
+      [
+        "aliqui",
+        "aliqua, aliquod (adj.)",
+        "irgendein, irgendeine, irgendein"
+      ],
+      [
+        "conservare",
+        "conservo",
+        "retten (vor), bewahren, beschützen (vor)"
+      ],
+      [
+        "fossa",
+        "-ae f",
+        "der Graben"
+      ],
+      [
+        "patrius",
+        "-a, -um",
+        "väterlich; heimisch"
+      ],
+      [
+        "contemnere",
+        "contemno, contempsi, contemptum",
+        "verachten, gering schätzen"
+      ],
+      [
+        "falsus",
+        "-a, -um",
+        "falsch"
+      ],
+      [
+        "falsum dicere",
+        "",
+        "die Unwahrheit sagen"
+      ],
+      [
+        "spernere",
+        "sperno, sprevi, spretum",
+        "verachten, verschmähen"
+      ],
+      [
+        "aquila",
+        "-ae f",
+        "der Adler, der Legionsadler"
+      ],
+      [
+        "extremus",
+        "-a, -um",
+        "der äußerste, der entfernteste"
+      ],
+      [
+        "extremus orbis terrarum",
+        "",
+        "das Ende der Welt"
+      ],
+      [
+        "sol oriens",
+        "solis orientis m",
+        "die aufgehende Sonne, der Osten"
+      ],
+      [
+        "sol occidens",
+        "solis occidentis m",
+        "die untergehende Sonne, der Westen"
+      ],
+      [
+        "celeritas",
+        "celeritatīs f",
+        "die Schnelligkeit"
+      ],
+      [
+        "certus",
+        "-a, -um",
+        "sicher, gewiss, bestimmt"
+      ],
+      [
+        "vel etiam",
+        "",
+        "oder sogar"
+      ]
+    ],
+    "ws58": [
+      [
+        "dictum",
+        "-i n",
+        "der Spruch, das Wort"
+      ],
+      [
+        "aeternus",
+        "-a, -um",
+        "ewig"
+      ],
+      [
+        "in aeternum",
+        "",
+        "ewig, für immer"
+      ],
+      [
+        "superbia",
+        "-ae f",
+        "der Hochmut, Stolz, die Überheblichkeit"
+      ],
+      [
+        "deficere",
+        "deficio, defeci, defectum (m. Akk., a/ab m. Abl.)",
+        "ausgehen; fehlen; abfallen (von)"
+      ],
+      [
+        "vires me deficiunt",
+        "",
+        "die Kräfte verlassen mich"
+      ],
+      [
+        "a duce deficiunt",
+        "",
+        "sie fallen vom Anführer ab"
+      ],
+      [
+        "conciliare",
+        "concilio",
+        "(für sich) gewinnen"
+      ],
+      [
+        "vereri",
+        "vereor, veritus sum",
+        "fürchten, verehren"
+      ],
+      [
+        "intueri",
+        "intueor, intuitus sum",
+        "(genau) betrachten"
+      ],
+      [
+        "polliceri",
+        "polliceor, pollicitus sum",
+        "versprechen"
+      ],
+      [
+        "arbitrari",
+        "arbitror, arbitratus sum",
+        "glauben, meinen"
+      ],
+      [
+        "precari",
+        "precor, precatus sum",
+        "beten, bitten, anflehen"
+      ],
+      [
+        "versari",
+        "versor, versatus sum (in m. Abl.)",
+        "sich aufhalten (in), sich befinden (in), sich beschäftigen (mit)"
+      ],
+      [
+        "in Italia versor",
+        "",
+        "ich halte mich in Italien auf / ich befinde mich in Italien"
+      ],
+      [
+        "in artibus versor",
+        "",
+        "ich beschäftige mich mit den Künsten"
+      ],
+      [
+        "opinari",
+        "opinor, opinatus sum",
+        "glauben, meinen"
+      ],
+      [
+        "fateri",
+        "fateor, fassus sum",
+        "gestehen, bekennen, offenbaren"
+      ],
+      [
+        "recusare",
+        "recuso",
+        "zurückweisen, sich weigern"
+      ],
+      [
+        "humum",
+        "(Adv.)",
+        "auf die Erde, auf den Boden"
+      ],
+      [
+        "porrigere",
+        "porrigo, porrexi, porrectum",
+        "ausstrecken, hinstrecken; darreichen"
+      ],
+      [
+        "quot",
+        "(indekl.)",
+        "wie viel"
+      ],
+      [
+        "ob",
+        "(m. Akk.)",
+        "wegen, entgegen"
+      ],
+      [
+        "conari",
+        "conor, conatus sum",
+        "versuchen"
+      ],
+      [
+        "iuventus",
+        "iuventutis f",
+        "die Jugend"
+      ],
+      [
+        "consumere",
+        "consumo, consumpsi, consumptum",
+        "aufbrauchen, verwenden, verbringen"
+      ],
+      [
+        "laborem in religione consumo",
+        "",
+        "ich verwende Mühe auf die Götterverehrung"
+      ],
+      [
+        "tempus in religione consumo",
+        "",
+        "ich verbringe Zeit bei der Götterverehrung"
+      ],
+      [
+        "minuere",
+        "minuo, minui, minutum",
+        "vermindern, verringern"
+      ],
+      [
+        "eo magis",
+        "",
+        "umso mehr"
+      ],
+      [
+        "mirari",
+        "miror, miratus sum (m. Akk.)",
+        "bewundern; sich wundern (über), staunen"
+      ],
+      [
+        "templa miror",
+        "",
+        "ich bewundere die Tempel"
+      ]
+    ],
+    "ws59": [
+      [
+        "princeps",
+        "principis m",
+        "der Erste, der führende Mann, Kaiser"
+      ],
+      [
+        "clades",
+        "cladis f (Gen. Pl. cladium)",
+        "die Niederlage, der Verlust"
+      ],
+      [
+        "expugnare",
+        "expugno",
+        "erobern"
+      ],
+      [
+        "incola",
+        "-ae m/f",
+        "der Einwohner / die Einwohnerin"
+      ],
+      [
+        "loqui",
+        "loquor, locutus sum",
+        "sprechen"
+      ],
+      [
+        "reri",
+        "reor, ratus sum",
+        "glauben, meinen"
+      ],
+      [
+        "proficisci",
+        "proficiscor, profectus sum",
+        "aufbrechen, marschieren, reisen"
+      ],
+      [
+        "queri",
+        "queror, questus sum (m. Akk.)",
+        "klagen (über), sich beklagen"
+      ],
+      [
+        "fatum queritur",
+        "",
+        "er beklagt sein Schicksal"
+      ],
+      [
+        "oriri",
+        "orior, ortus sum",
+        "geboren werden, entstehen, aufgehen"
+      ],
+      [
+        "uti",
+        "utor, usus sum (m. Abl.)",
+        "gebrauchen, benutzen"
+      ],
+      [
+        "consequi",
+        "consequor, consecutus sum (m. Akk.)",
+        "(ver)folgen, erreichen"
+      ],
+      [
+        "superior",
+        "superius",
+        "der höhere, der frühere"
+      ],
+      [
+        "vero",
+        "",
+        "wirklich, aber"
+      ],
+      [
+        "cervix",
+        "cervicis f",
+        "der Nacken, der Hals"
+      ],
+      [
+        "secare",
+        "seco, secui, sectum",
+        "schneiden, abschneiden, abtrennen"
+      ],
+      [
+        "usque ad",
+        "(m. Akk.)",
+        "bis nach, bis zu"
+      ],
+      [
+        "ignominia",
+        "-ae f",
+        "die Schande, die Schmach"
+      ],
+      [
+        "militia",
+        "-ae f",
+        "der Kriegsdienst"
+      ],
+      [
+        "aes",
+        "aeris n",
+        "das Erz, die Bronze, das Geld"
+      ],
+      [
+        "aes militare",
+        "aeris militaris n",
+        "der Sold"
+      ],
+      [
+        "captivus",
+        "-i m/f",
+        "gefangen; Subst. der/die Gefangene"
+      ],
+      [
+        "mihi persuasum est",
+        "(m. AcI)",
+        "ich bin überzeugt (davon), dass"
+      ]
+    ],
+    "ws60": [
+      [
+        "postulare",
+        "postulo",
+        "fordern, verlangen"
+      ],
+      [
+        "venerari",
+        "veneror",
+        "verehren, anbeten"
+      ],
+      [
+        "minari",
+        "minor, minatus sum",
+        "drohen, androhen"
+      ],
+      [
+        "mori",
+        "morior, mortuus sum",
+        "sterben"
+      ],
+      [
+        "mortuus",
+        "-a, -um",
+        "tot"
+      ],
+      [
+        "confiteri",
+        "confiteor, confessus sum",
+        "gestehen, bekennen"
+      ],
+      [
+        "deducere",
+        "deduco, deduxi, deductum",
+        "hinabführen, wegführen; geleiten"
+      ],
+      [
+        "satis/sat",
+        "",
+        "genug"
+      ],
+      [
+        "impetrare",
+        "",
+        "durchsetzen, erreichen"
+      ],
+      [
+        "solere",
+        "soleo, solitus sum",
+        "gewohnt sein, pflegen (zu tun)"
+      ],
+      [
+        "gaudere",
+        "gaudeo, gavisus sum (m. Abl.)",
+        "sich freuen, froh sein"
+      ],
+      [
+        "audere",
+        "audeo, ausus sum",
+        "wagen"
+      ],
+      [
+        "confidere",
+        "confido, confisus sum (m. Dat.)",
+        "vertrauen (auf)"
+      ],
+      [
+        "Deo confisus",
+        "",
+        "im Vertrauen auf Gott"
+      ],
+      [
+        "reverti",
+        "revertor, reverti",
+        "zurückkehren"
+      ],
+      [
+        "quidam",
+        "quaedam, quoddam / quiddam",
+        "ein gewisser; einige; eine Art von; geradezu"
+      ],
+      [
+        "Christianus",
+        "-a, -um",
+        "christlich; Subst. der Christ"
+      ],
+      [
+        "beatus",
+        "-a, -um",
+        "glücklich"
+      ],
+      [
+        "videri",
+        "videor, visus sum",
+        "scheinen"
+      ],
+      [
+        "diligentia",
+        "-ae f",
+        "die Sorgfalt, Gewissenhaftigkeit"
+      ],
+      [
+        "tamquam",
+        "",
+        "wie, als ob"
+      ],
+      [
+        "conquirere",
+        "conquiro, conquisivi, conquisitum",
+        "suchen; fahnden (nach)"
+      ],
+      [
+        "etsi",
+        "",
+        "auch wenn"
+      ],
+      [
+        "supplicare",
+        "supplico (m. Dat.)",
+        "demütig bitten; Dankopfer darbringen"
+      ],
+      [
+        "Deo supplico",
+        "",
+        "ich bitte Gott demütig"
+      ],
+      [
+        "libellus",
+        "-i m",
+        "das Büchlein"
+      ],
+      [
+        "proponere",
+        "propono, proposui, propositum",
+        "vorschlagen, vor Augen stellen, in Aussicht stellen"
+      ],
+      [
+        "Iustitia",
+        "-ae f",
+        "die Gerechtigkeit"
+      ]
+    ],
+    "ws61": [
+      [
+        "hortari",
+        "hortor, hortatus sum",
+        "ermuntern, auffordern"
+      ],
+      [
+        "efficere",
+        "efficio, effeci, effectum",
+        "durchsetzen, bewirken, vollenden"
+      ],
+      [
+        "creber",
+        "crebra, crebrum",
+        "zahlreich, häufig"
+      ],
+      [
+        "succurrere",
+        "succurro, succurri, succursum",
+        "zu Hilfe eilen"
+      ],
+      [
+        "pernicies",
+        "perniciei f",
+        "das Verderben, der Untergang"
+      ],
+      [
+        "praesidium",
+        "-i n",
+        "der Schutz, die Schutztruppe, Besatzungstruppe"
+      ],
+      [
+        "suadere",
+        "suadeo, suasi, suasum",
+        "raten, empfehlen"
+      ],
+      [
+        "sitis",
+        "-is f (Akk. sitim, Abl. siti)",
+        "der Durst"
+      ],
+      [
+        "anima",
+        "-ae f",
+        "der Lufthauch; der Atem, die Seele, das Leben"
+      ],
+      [
+        "experiri",
+        "experior, expertus sum",
+        "versuchen, erfahren, kennenlernen"
+      ],
+      [
+        "morari",
+        "moror, moratus sum",
+        "aufhalten; sich aufhalten, verweilen; zögern"
+      ],
+      [
+        "laetitia",
+        "-ae f",
+        "die Freude; die Fröhlichkeit"
+      ],
+      [
+        "captare",
+        "capto",
+        "fangen, fassen"
+      ],
+      [
+        "excipere",
+        "excipio, excepi, exceptum",
+        "(her)ausnehmen, aufnehmen"
+      ],
+      [
+        "fulmen",
+        "fulminis n",
+        "der Blitz"
+      ],
+      [
+        "controversia",
+        "-ae f",
+        "der Streit, die Streitfrage"
+      ],
+      [
+        "quin",
+        "(m. Konj.)",
+        "dass"
+      ],
+      [
+        "non dubitare, quin",
+        "",
+        "nicht (daran) zweifeln, dass (nicht)"
+      ],
+      [
+        "causa",
+        "(m. Gen. nachgestellt)",
+        "um … willen, wegen"
+      ],
+      [
+        "gloriae causa",
+        "",
+        "um der Ehre willen, wegen der Ehre"
+      ],
+      [
+        "bono animo esse",
+        "",
+        "guten Mutes sein"
+      ]
+    ],
+    "ws62": [
+      [
+        "arcere",
+        "arceo",
+        "abwehren, abhalten, fernhalten, hindern"
+      ],
+      [
+        "praecipere",
+        "praecipio, praecepi, praeceptum",
+        "vorschreiben, lehren"
+      ],
+      [
+        "opera",
+        "-ae f",
+        "die Mühe, die Arbeit"
+      ],
+      [
+        "operam dare, ut",
+        "",
+        "sich Mühe geben, dass"
+      ],
+      [
+        "operam dare",
+        "(m. Dat.)",
+        "sich Mühe geben bei, sich bemühen um"
+      ],
+      [
+        "operam ponere",
+        "(in m. Abl.)",
+        "Mühe verwenden auf etwas"
+      ],
+      [
+        "sequi",
+        "sequor, secutus sum (m. Akk.)",
+        "folgen"
+      ],
+      [
+        "hominem sequor",
+        "",
+        "ich folge einem Menschen"
+      ],
+      [
+        "genus",
+        "generis n",
+        "die Art, das Geschlecht, die Abstammung"
+      ],
+      [
+        "ecclesia",
+        "-ae f",
+        "die Kirche"
+      ],
+      [
+        "olim",
+        "",
+        "einst; (früher/später) einmal"
+      ],
+      [
+        "columna",
+        "-ae f",
+        "die Säule"
+      ],
+      [
+        "exstruere",
+        "exstruo, exstruxi, exstructum",
+        "errichten, bauen, erbauen"
+      ],
+      [
+        "globus",
+        "-i m",
+        "die Kugel; die Erdkugel"
+      ],
+      [
+        "radius",
+        "-i m",
+        "der Strahl"
+      ],
+      [
+        "merere",
+        "mereo",
+        "verdienen, erwerben, gewinnen"
+      ],
+      [
+        "quamobrem",
+        "",
+        "weswegen?; deswegen"
+      ],
+      [
+        "deliberare",
+        "delibero",
+        "überlegen; abwägen"
+      ],
+      [
+        "firmus",
+        "-a, -um",
+        "stark, fest"
+      ],
+      [
+        "inceptum",
+        "-i n",
+        "das Vorhaben"
+      ],
+      [
+        "noctu",
+        "(Adv.)",
+        "nachts"
+      ],
+      [
+        "somnium",
+        "-i n",
+        "der Traum"
+      ],
+      [
+        "valde",
+        "",
+        "sehr"
+      ],
+      [
+        "opportunus",
+        "-a, -um",
+        "günstig"
+      ],
+      [
+        "commercium",
+        "-i n",
+        "der Handel, der Verkehr, der Austausch"
+      ],
+      [
+        "splendere",
+        "splendeo",
+        "glänzen"
+      ]
+    ],
+    "ws63": [
+      [
+        "similis",
+        "simile; Superlativ simillimus -a, -um",
+        "ähnlich"
+      ],
+      [
+        "tueri",
+        "tueor, -",
+        "betrachten; bewahren; schützen"
+      ],
+      [
+        "evertere",
+        "everto, everti, eversum",
+        "umstürzen, zerstören"
+      ],
+      [
+        "foedus",
+        "foederis n",
+        "das Bündnis, der Vertrag"
+      ],
+      [
+        "amicitia",
+        "-ae f",
+        "die Freundschaft"
+      ],
+      [
+        "deditio",
+        "-onis f",
+        "die Unterwerfung, die Kapitulation"
+      ],
+      [
+        "Saxones in deditionem accipere",
+        "",
+        "die Sachsen unterwerfen"
+      ],
+      [
+        "exter(us)",
+        "-era, -erum",
+        "auswärtig, ausländisch"
+      ],
+      [
+        "praesens",
+        "Gen. praesentis",
+        "gegenwärtig, anwesend"
+      ],
+      [
+        "pati",
+        "patior, passus sum",
+        "leiden, ertragen; zulassen"
+      ],
+      [
+        "edicere",
+        "edico, edixi, edictum",
+        "bekannt machen, erlassen"
+      ],
+      [
+        "curare",
+        "(m. Gerundivum im Akk.)",
+        "lassen"
+      ],
+      [
+        "dare",
+        "(m. Gerundivum im Akk.)",
+        "geben"
+      ],
+      [
+        "suscipere",
+        "(m. Gerundivum im Akk.)",
+        "auf sich nehmen"
+      ],
+      [
+        "tradere",
+        "(m. Gerundivum im Akk.)",
+        "übergeben"
+      ],
+      [
+        "arbor",
+        "arboris f",
+        "der Baum"
+      ],
+      [
+        "erigere",
+        "erigo, erexi, erectum",
+        "aufrichten"
+      ],
+      [
+        "quasi",
+        "",
+        "wie; gleichsam als"
+      ],
+      [
+        "armatus",
+        "-a, -um",
+        "bewaffnet"
+      ],
+      [
+        "cingere",
+        "cingo, cinxi, cinctum",
+        "umgeben, umzingeln"
+      ],
+      [
+        "adversus",
+        "(m. Akk.)",
+        "gegen"
+      ],
+      [
+        "nullo pacto",
+        "",
+        "auf keine Weise"
+      ],
+      [
+        "certo",
+        "(Adv.)",
+        "sicher, gewiss"
+      ],
+      [
+        "aliter",
+        "",
+        "auf andere Weise, sonst"
+      ],
+      [
+        "posthac",
+        "(Adv.)",
+        "nachher, seitdem"
+      ]
+    ],
+    "ws64": [
+      [
+        "philosophari",
+        "philosophor",
+        "philosophieren"
+      ],
+      [
+        "philosophus",
+        "-i m",
+        "der Philosoph"
+      ],
+      [
+        "motus",
+        "motus m",
+        "die Bewegung"
+      ],
+      [
+        "animal",
+        "animalis n; Abl. Sg. animali, Nom./Akk. Pl. animalia, Gen. Pl. animalium",
+        "das Lebewesen, das Tier"
+      ],
+      [
+        "requirere",
+        "requiro, requisivi, requisitum",
+        "fragen, nachfragen"
+      ],
+      [
+        "luna",
+        "-ae f",
+        "der Mond"
+      ],
+      [
+        "sidus",
+        "sideris n",
+        "der Stern; das Sternbild"
+      ],
+      [
+        "fieri",
+        "fio, factus sum",
+        "gemacht werden, werden; entstehen, geschehen"
+      ],
+      [
+        "fit, ut",
+        "",
+        "es geschieht/es kommt vor, dass"
+      ],
+      [
+        "factum est, ut",
+        "",
+        "es geschah/es kam vor, dass"
+      ],
+      [
+        "totiens",
+        "",
+        "so oft"
+      ],
+      [
+        "qualis",
+        "quale",
+        "welch, von welcher Art, wie (beschaffen)"
+      ],
+      [
+        "irascī",
+        "irascor, iratus sum",
+        "zornig werden, zürnen"
+      ],
+      [
+        "commodum",
+        "-i n",
+        "der Vorteil, die Annehmlichkeit"
+      ],
+      [
+        "facultas",
+        "facultatis f",
+        "die Fähigkeit; die Möglichkeit, die Gelegenheit"
+      ],
+      [
+        "nocturnus",
+        "-a, -um",
+        "nächtlich"
+      ],
+      [
+        "levis",
+        "leve",
+        "leicht; leichtsinnig, wankelmütig"
+      ],
+      [
+        "nonnumquam",
+        "",
+        "manchmal"
+      ],
+      [
+        "quo …, eo",
+        "",
+        "je …, desto"
+      ],
+      [
+        "quo facilius, eo melius",
+        "",
+        "je einfacher, desto besser"
+      ],
+      [
+        "propius",
+        "",
+        "näher"
+      ]
+    ],
+    "ws65": [
+      [
+        "instruere",
+        "instruo, instruxi, instructum",
+        "einrichten; unterweisen; erbauen"
+      ],
+      [
+        "sapere",
+        "sapio, sapivi, -",
+        "Verstand haben, weise sein"
+      ],
+      [
+        "fructus",
+        "fructus m",
+        "die Frucht; der Ertrag, der Gewinn"
+      ],
+      [
+        "fructum ferre",
+        "",
+        "Frucht tragen; Gewinn bringen"
+      ],
+      [
+        "consuescere",
+        "consuesco, consuevi, consuetum",
+        "sich gewöhnen an; Perf. gewohnt sein"
+      ],
+      [
+        "molestus",
+        "-a, -um",
+        "beschwerlich, lästig"
+      ],
+      [
+        "scilicet",
+        "",
+        "selbstverständlich, natürlich"
+      ],
+      [
+        "differre",
+        "differo, distuli, dilatum",
+        "aufschieben, verschieben; sich unterscheiden"
+      ],
+      [
+        "praeferre",
+        "praefero, praetuli, praelatum",
+        "vorantragen; vorziehen; zur Schau stellen"
+      ],
+      [
+        "meminisse",
+        "memini (m. Gen./Akk.)",
+        "sich erinnern (an)"
+      ],
+      [
+        "odisse",
+        "odi",
+        "hassen"
+      ],
+      [
+        "fertur/feruntur",
+        "(m. NcI)",
+        "er/sie/es soll (angeblich) …; sie sollen (angeblich) …; man sagt, dass …"
+      ],
+      [
+        "potestas",
+        "potestatis f",
+        "die Macht, die Amtsgewalt; die Möglichkeit"
+      ],
+      [
+        "potestas tecum loquendi",
+        "",
+        "die Möglichkeit, mit dir zu sprechen"
+      ],
+      [
+        "quisque",
+        "quidque (subst.) / quisque, quaeque, quodque (adj.); Gen. cuiusque, Dat. cuique",
+        "jeder (einzelne)"
+      ],
+      [
+        "invidia",
+        "-ae f",
+        "der Neid, die Missgunst; die Anfeindung"
+      ],
+      [
+        "exigere",
+        "exigo, exegi, exactum",
+        "vollenden; einfordern, eintreiben"
+      ],
+      [
+        "an?",
+        "(im Fragesatz)",
+        "etwa?; oder?"
+      ],
+      [
+        "versus",
+        "-us m",
+        "die Zeile, der Vers"
+      ],
+      [
+        "recitare",
+        "recito",
+        "vorlesen, vortragen"
+      ],
+      [
+        "figura",
+        "-ae f",
+        "die Gestalt, die Form; die Schönheit"
+      ],
+      [
+        "vexare",
+        "vexo",
+        "quälen"
+      ],
+      [
+        "vere",
+        "",
+        "echt, wahrhaftig"
+      ],
+      [
+        "libet",
+        "libuit",
+        "es beliebt, es gefällt"
+      ]
+    ],
+    "ws66": [
+      [
+        "inopia",
+        "-ae f",
+        "die Armut, die Not, der Mangel"
+      ],
+      [
+        "iucundus",
+        "-a, -um",
+        "angenehm, erfreulich"
+      ],
+      [
+        "contentus",
+        "-a, -um",
+        "zufrieden"
+      ],
+      [
+        "sententia",
+        "-ae f",
+        "der Satz; der Sinnspruch; die Meinung"
+      ],
+      [
+        "sapientia",
+        "-ae f",
+        "die Weisheit"
+      ],
+      [
+        "saevire",
+        "saevio",
+        "wüten, toben"
+      ],
+      [
+        "iactare",
+        "iacto",
+        "werfen; (hin und her) schleudern"
+      ],
+      [
+        "auctoritatem iactare",
+        "",
+        "mit seinem Einfluss prahlen"
+      ],
+      [
+        "philosophia",
+        "-ae f",
+        "die Philosophie"
+      ],
+      [
+        "gubernare",
+        "guberno",
+        "das Steuerruder halten; lenken, leiten"
+      ],
+      [
+        "quisquis",
+        "quidquid",
+        "jeder, der; wer/was auch immer; alles, was"
+      ],
+      [
+        "quicumque",
+        "quaecumque, quodcumque",
+        "jeder, der; welcher/welche/welches auch immer"
+      ],
+      [
+        "formare",
+        "formo",
+        "formen, gestalten"
+      ],
+      [
+        "disponere",
+        "dispono, disposui, dispositum",
+        "verteilen, ordnen"
+      ],
+      [
+        "actio",
+        "actionis f",
+        "die Tätigkeit, die Handlung; die Gerichtsverhandlung"
+      ],
+      [
+        "quamvis",
+        "(m. Konj.)",
+        "wenn auch; wenn auch noch so"
+      ],
+      [
+        "obtinere",
+        "obtineo, obtinui, obtentum",
+        "innehaben, in Besitz haben; besetzt halten"
+      ],
+      [
+        "sive/seu",
+        "",
+        "oder, beziehungsweise"
+      ],
+      [
+        "sive … sive … / seu … seu …",
+        "",
+        "sei es (, dass) … oder (dass …)"
+      ],
+      [
+        "quippe",
+        "",
+        "freilich, ja"
+      ],
+      [
+        "quippe qui",
+        "quae, quod (im Relativsatz im Konj.)",
+        "der/die/das ja"
+      ]
+    ],
+    "ws67": [
+      [
+        "voluptas",
+        "voluptatis f",
+        "die Lust, das Vergnügen"
+      ],
+      [
+        "adipisci",
+        "adipiscor, adeptus sum",
+        "erreichen, erlangen"
+      ],
+      [
+        "frui",
+        "fruor, fructus sum (m. Abl.)",
+        "genießen"
+      ],
+      [
+        "otio frui",
+        "",
+        "die Ruhe genießen"
+      ],
+      [
+        "premere",
+        "premo, pressi, pressum",
+        "drücken, unterdrücken, bedrängen"
+      ],
+      [
+        "temperantia",
+        "-ae f",
+        "das Maßhalten, die Besonnenheit"
+      ],
+      [
+        "insequi",
+        "insequor, insecutus sum (m. Akk.)",
+        "unmittelbar folgen, verfolgen; (mit Worten) angreifen"
+      ],
+      [
+        "hortus",
+        "-i m",
+        "der Garten"
+      ],
+      [
+        "monstrare",
+        "monstro",
+        "zeigen"
+      ],
+      [
+        "offerre",
+        "offero, obtuli, oblatum",
+        "entgegenbringen, anbieten"
+      ],
+      [
+        "inscribere",
+        "inscribo, inscripsi, inscriptum",
+        "auf/in etwas schreiben; betiteln"
+      ],
+      [
+        "sensus",
+        "sensus m",
+        "der Sinn, das Gefühl, die Empfindung"
+      ],
+      [
+        "panis",
+        "-is m",
+        "das Brot"
+      ],
+      [
+        "quisquam",
+        "quicquam",
+        "irgendjemand, irgendetwas"
+      ],
+      [
+        "neque quisquam",
+        "",
+        "und niemand"
+      ],
+      [
+        "neque quicquam",
+        "",
+        "und nichts"
+      ],
+      [
+        "interdum",
+        "",
+        "manchmal"
+      ],
+      [
+        "quo",
+        "(m. Konj.)",
+        "damit umso"
+      ],
+      [
+        "Oportet legem brevem esse, quo facilius intellegatur.",
+        "",
+        "Ein Gesetz muss kurz sein, damit es umso leichter verstanden wird."
+      ],
+      [
+        "pertinere",
+        "pertineo",
+        "sich erstrecken, sich beziehen"
+      ],
+      [
+        "ad mare pertinere",
+        "",
+        "sich bis zum Meer erstrecken"
+      ],
+      [
+        "ad rem publicam pertinere",
+        "",
+        "sich auf den Staat beziehen"
+      ],
+      [
+        "nasci",
+        "nascor, natus sum",
+        "geboren werden, entstehen"
+      ],
+      [
+        "haerere",
+        "haereo, haesi, (haesurus)",
+        "hängen (an), stecken bleiben"
+      ],
+      [
+        "In latere meo haeret.",
+        "",
+        "Er weicht mir nicht von der Seite."
+      ],
+      [
+        "diversus",
+        "-a, -um",
+        "entgegengesetzt; verschieden"
+      ]
+    ],
+    "ws68": [
+      [
+        "contemplari",
+        "contemplor",
+        "betrachten, bedenken"
+      ],
+      [
+        "admirari",
+        "admiror, admiratus sum (m. Akk.)",
+        "bewundern; sich wundern (über)"
+      ],
+      [
+        "proprius",
+        "-a, -um",
+        "eigen, charakteristisch"
+      ],
+      [
+        "miraculum",
+        "-i n",
+        "das Wunder"
+      ],
+      [
+        "singularis",
+        "-e",
+        "einzeln; einzigartig"
+      ],
+      [
+        "angustiae",
+        "-arum f Pl.",
+        "die Enge, die Engstelle"
+      ],
+      [
+        "circumspicere",
+        "circumspicio, circumspexi, circumspectum",
+        "umherblicken"
+      ],
+      [
+        "alloqui",
+        "alloquor, allocutus sum",
+        "ansprechen"
+      ],
+      [
+        "caelestis",
+        "-e",
+        "himmlisch"
+      ],
+      [
+        "pulchritudo",
+        "pulchritudinis f",
+        "die Schönheit"
+      ],
+      [
+        "terrenus",
+        "-a, -um",
+        "irdisch"
+      ],
+      [
+        "inferior",
+        "inferius",
+        "der untere; der geringere"
+      ],
+      [
+        "hinc",
+        "",
+        "von hier; hierauf; daher"
+      ],
+      [
+        "producere",
+        "produco, produxi, productum",
+        "hervorbringen, vorführen, ausdehnen"
+      ],
+      [
+        "verum",
+        "",
+        "aber, sondern"
+      ],
+      [
+        "dos",
+        "dotis f",
+        "die Gabe, die Mitgift"
+      ],
+      [
+        "species",
+        "-ei f",
+        "der Anblick, das Aussehen; der Schein"
+      ],
+      [
+        "liberalitas",
+        "liberalitatis f",
+        "die Freigebigkeit, der Edelmut"
+      ],
+      [
+        "consentire",
+        "consentio, consensi, consensum",
+        "übereinstimmen, einverstanden sein"
+      ],
+      [
+        "votum",
+        "-i n",
+        "das Gelübde; das Gebet"
+      ]
+    ]
+  },
+  "Legamus": {
+    "PhaedrusProlog": [
+      [
+        "versus",
+        "-us m",
+        "Gedichtzeile, Vers"
+      ],
+      [
+        "dos",
+        "dotis f",
+        "Mitgift; Gabe, Talent, Nutzen"
+      ],
+      [
+        "prudens",
+        "-entis",
+        "klug, verständig"
+      ],
+      [
+        "tantum",
+        "(Adv.)",
+        "so viel, so sehr; nur"
+      ]
+    ],
+    "PhaedrusDerWolfunddasLamm": [
+      [
+        "lumpus",
+        "-i m",
+        "Wolf"
+      ]
+    ]
+  }
+}

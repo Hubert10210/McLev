@@ -1,3 +1,4 @@
+/*
 window.onload = setup;
 
 
@@ -97,7 +98,7 @@ async function main() {
     PhaedrusDerWolfunddasLamm.name = "PhaedrusDerWolfunddasLamm";
 }
 
-main();
+//main();
 
 
 let list = [];
@@ -474,4 +475,98 @@ function fehlerbeimEingeben(){
     document.getElementById("buttzurück").hidden = true;
     document.getElementById("lat").hidden = true;
     document.getElementById("wortanzahl").hidden = true;
+}
+*/
+
+let darkmode;
+let books;
+
+window.onload = setup;
+
+async function setup(){
+    console.log("Loaded");
+    darkmode = false;
+    
+    books = await getBooks();
+    console.log(books);
+    let bookSelectCont = document.getElementById("bookselection-cont");
+    for (let b of books){
+        console.log(b)
+        let button = document.createElement("button");
+        button.id = `book:${b}`;
+        button.onclick = () => getchapters(b);
+        button.innerHTML = b;
+        bookSelectCont.appendChild(button);
+    }
+
+}
+
+async function getchapters(book){
+    document.getElementById("bookselection-cont").style.display = "none";
+    document.getElementById("chapterselection-cont").style.display = "flex";
+    const fetchParams = new URLSearchParams({
+        book
+    });
+    
+    const response = await fetch(`/api/getchapters?${fetchParams.toString()}`,{
+       method: "GET",
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    const chapters = data.chapters;
+    let chapterselection = document.getElementById("chapterselection");
+
+    for (let c of chapters){
+        let text = document.createElement("div");
+        text.innerHTML = c;
+        text.id = `chapter:${c}`;
+        chapterselection.appendChild(text);
+    }
+}
+
+function toggleTheme(){
+    darkmode = !darkmode;
+    if (darkmode){
+        document.getElementById("darkmode").innerHTML = "Darkmode";
+        document.body.style.backgroundColor = "rgb(40,40,40)";
+    } else {
+        document.getElementById("darkmode").innerHTML = "Lightmode";
+        document.body.style.backgroundColor = "white";
+    }
+    document.body.classList.toggle("darkmode");
+    
+}
+
+async function getBooks(){
+    const response = await fetch("/api/getbooks",{
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    return data.books;
+}
+
+async function vocChosen(){
+    let subject = document.getElementById("fach").value;
+    let book = document.getElementById("buch").value;
+    let chapters = document.getElementById("wortschatz").value;
+
+    const fetchParams = new URLSearchParams({
+        subject, book, chapters
+    });
+    const response = await fetch(`/api/getvoc?${fetchParams.toString()}`, {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    console.log(data.voc);
 }
