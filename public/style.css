@@ -72,6 +72,11 @@ body.darkmode #darkmode{
     gap: 8px;
 }
 
+.chapterselectline{
+    display: flex;
+    gap: 5px;
+}
+
 /*#container-1{
     display: flex;
     gap: 8px;

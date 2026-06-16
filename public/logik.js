@@ -520,10 +520,19 @@ async function getchapters(book){
     let chapterselection = document.getElementById("chapterselection");
 
     for (let c of chapters){
+        let line = document.createElement("div");
+        line.classList.add("chapterselectline");
+
         let text = document.createElement("div");
         text.innerHTML = c;
-        text.id = `chapter:${c}`;
-        chapterselection.appendChild(text);
+
+        let checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.id = `chapter:${c}`;
+
+        line.append(checkbox)
+        line.appendChild(text);
+        chapterselection.appendChild(line);
     }
 }
 
