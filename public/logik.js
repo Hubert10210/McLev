@@ -1,3 +1,4 @@
+/*
 window.onload = setup;
 
 
@@ -97,7 +98,7 @@ async function main() {
     PhaedrusDerWolfunddasLamm.name = "PhaedrusDerWolfunddasLamm";
 }
 
-main();
+//main();
 
 
 let list = [];
@@ -475,3 +476,136 @@ function fehlerbeimEingeben(){
     document.getElementById("lat").hidden = true;
     document.getElementById("wortanzahl").hidden = true;
 }
+*/
+
+let darkmode;
+let books;
+let selectedBook;
+let chapters;
+let selectedChapters;
+
+window.onload = setup;
+
+async function setup(){
+    darkmode = false;
+    
+    books = await getBooks();
+    let bookSelectCont = document.getElementById("bookselection-cont");
+    for (let b of books){
+        let button = document.createElement("button");
+        button.id = `book:${b}`;
+        button.onclick = () => getchapters(b);
+        button.innerHTML = b;
+        bookSelectCont.appendChild(button);
+    }
+
+}
+
+async function getchapters(book){
+    document.getElementById("bookselection-cont").style.display = "none";
+    document.getElementById("chapterselection-cont").style.display = "flex";
+
+    selectedBook = book;
+
+    const fetchParams = new URLSearchParams({
+        book
+    });
+    
+    const response = await fetch(`/api/getchapters?${fetchParams.toString()}`,{
+       method: "GET",
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    chapters = data.chapters;
+    let chapterselection = document.getElementById("chapterselection");
+
+    for (let c of chapters){
+        let line = document.createElement("div");
+        line.classList.add("chapterselectline");
+
+        let checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.id = `chapter:${c}`;
+
+        let text = document.createElement("label");
+        text.innerHTML = c;
+        text.htmlFor = `chapter:${c}`;
+        
+        line.append(checkbox)
+        line.appendChild(text);
+        chapterselection.appendChild(line);
+    }
+}
+
+async function getvoc() {
+    document.getElementById("chapterselection-cont").style.display = "none";
+    selectedChapters = [];
+    for (let c of chapters){
+        if (document.getElementById(`chapter:${c}`).checked){
+            selectedChapters.push(c);
+        }
+    }
+    
+    const response = await fetch("/api/getvoc", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            book: selectedBook,
+            chapters: selectedChapters
+        })
+    });
+
+    const data = await response.json();
+    console.log(data.voc); //TODO: ask vocab
+}
+
+function toggleTheme(){
+    darkmode = !darkmode;
+    if (darkmode){
+        document.getElementById("darkmode").innerHTML = "Darkmode";
+        document.body.style.backgroundColor = "rgb(40,40,40)";
+    } else {
+        document.getElementById("darkmode").innerHTML = "Lightmode";
+        document.body.style.backgroundColor = "white";
+    }
+    document.body.classList.toggle("darkmode");
+    
+}
+
+async function getBooks(){
+    const response = await fetch("/api/getbooks",{
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    return data.books;
+}
+
+/*
+async function vocChosen(){
+    let subject = document.getElementById("fach").value;
+    let book = document.getElementById("buch").value;
+    let chapters = document.getElementById("wortschatz").value;
+
+    const fetchParams = new URLSearchParams({
+        subject, book, chapters
+    });
+    const response = await fetch(`/api/getvoc?${fetchParams.toString()}`, {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    console.log(data.voc);
+}
+*/
