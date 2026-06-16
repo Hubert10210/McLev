@@ -37,10 +37,13 @@ router.get("/api/getchapters", (req, res) => {
     res.json({chapters:Object.keys(vocDataBase[book])});
 });
 
-router.get("/api/getvoc", (req, res) => {
-    const { subject, book, chapters } = req.query;
-    console.log(`got: subject: ${subject} book: ${book} chapters: ${chapters}`);
-    res.json({voc:["Rumpitur", "invidia"]});
+router.post("/api/getvoc", (req, res) => {
+    const { book, chapters } = req.body;
+    let vocList = {};
+    for (let c of chapters){
+        vocList[c] = vocDataBase[book][c];
+    }
+    res.json({voc:vocList});
 });
 
 

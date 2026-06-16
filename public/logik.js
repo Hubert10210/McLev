@@ -480,6 +480,9 @@ function fehlerbeimEingeben(){
 
 let darkmode;
 let books;
+let selectedBook;
+let chapters;
+let selectedChapters;
 
 window.onload = setup;
 
@@ -504,6 +507,9 @@ async function setup(){
 async function getchapters(book){
     document.getElementById("bookselection-cont").style.display = "none";
     document.getElementById("chapterselection-cont").style.display = "flex";
+
+    selectedBook = book;
+
     const fetchParams = new URLSearchParams({
         book
     });
@@ -516,7 +522,7 @@ async function getchapters(book){
     });
 
     const data = await response.json();
-    const chapters = data.chapters;
+    chapters = data.chapters;
     let chapterselection = document.getElementById("chapterselection");
 
     for (let c of chapters){
@@ -535,6 +541,29 @@ async function getchapters(book){
         line.appendChild(text);
         chapterselection.appendChild(line);
     }
+}
+
+async function getvoc() {
+    selectedChapters = [];
+    for (let c of chapters){
+        if (document.getElementById(`chapter:${c}`).checked){
+            selectedChapters.push(c);
+        }
+    }
+    
+    const response = await fetch("/api/getvoc", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            book: selectedBook,
+            chapters: selectedChapters
+        })
+    });
+
+    const data = await response.json();
+    console.log(data.voc);
 }
 
 function toggleTheme(){
