@@ -1,4 +1,5 @@
 const express = require("express");
+const readline = require("readline");
 const path = require("path");
 
 const app = express();
@@ -7,13 +8,23 @@ const PORT = 3000;
 
 const vocDataBase = require("./data/vocdatabase.json");
 
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
 app.use(express.json());
 
 app.use(express.static(path.join(__dirname,"public")));
 
 app.use(router);
 
-
+rl.on("line", (input) => {
+    if (input == "stop") {
+        console.log("Server wird beendet...");
+        process.exit(0);
+    }
+})
 
 router.get("/api/getbooks", (req, res) => {
     console.log("got book request");
