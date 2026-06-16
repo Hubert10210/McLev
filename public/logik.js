@@ -541,6 +541,7 @@ async function getchapters(book){
 }
 
 async function getvoc() {
+    document.getElementById("chapterselection-cont").style.display = "none";
     selectedChapters = [];
     for (let c of chapters){
         if (document.getElementById(`chapter:${c}`).checked){
