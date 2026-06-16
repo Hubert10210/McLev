@@ -487,14 +487,11 @@ let selectedChapters;
 window.onload = setup;
 
 async function setup(){
-    console.log("Loaded");
     darkmode = false;
     
     books = await getBooks();
-    console.log(books);
     let bookSelectCont = document.getElementById("bookselection-cont");
     for (let b of books){
-        console.log(b)
         let button = document.createElement("button");
         button.id = `book:${b}`;
         button.onclick = () => getchapters(b);
@@ -563,7 +560,7 @@ async function getvoc() {
     });
 
     const data = await response.json();
-    console.log(data.voc);
+    console.log(data.voc); //TODO: ask vocab
 }
 
 function toggleTheme(){
@@ -591,6 +588,7 @@ async function getBooks(){
     return data.books;
 }
 
+/*
 async function vocChosen(){
     let subject = document.getElementById("fach").value;
     let book = document.getElementById("buch").value;
@@ -609,3 +607,4 @@ async function vocChosen(){
     const data = await response.json();
     console.log(data.voc);
 }
+*/
