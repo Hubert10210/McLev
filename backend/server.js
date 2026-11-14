@@ -20,6 +20,7 @@ const rl = readline.createInterface({
 const usernameRegex = /^[a-zA-Z0-9_.-]+$/;
 let pool;
 
+app.use(cors());
 
 app.use(express.json());
 
@@ -27,7 +28,6 @@ app.use(express.static(path.join(__dirname,"public")));
 
 app.use(router);
 
-app.use(cors());
 
 rl.on("line", (input) => {
     if (input == "stop") {

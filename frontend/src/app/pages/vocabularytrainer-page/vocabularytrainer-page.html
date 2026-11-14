@@ -1,0 +1,21 @@
+<div id="main">
+        <div id="bookselection-cont">
+            <p>Wähle ein Buch aus:</p>
+        </div>
+        <div id="chapterselection-cont">
+            <p>Wähle die Wortschätze aus:</p>
+            <div id="chapterselection">
+
+            </div>
+            <button (click)="getvoc()">Ok</button>
+        </div>
+        <div id = "vocabulary-cont">
+        </div>
+        <input id = "principalpartwords_html" type="text" placeholder = "Stammformen">
+        <input id = "germanwords_html" type="text" placeholder = "Übersetzung">
+        <button id = "vocabulary-next-btn" (click)="VocabularyNext()">Ok</button>
+
+        <div id = "endresult-cont">
+        </div>
+</div>
+<button id = "back_to_book" (click) = "back_to_book()">zurück</button>

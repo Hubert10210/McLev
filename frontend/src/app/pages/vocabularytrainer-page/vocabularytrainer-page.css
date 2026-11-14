@@ -1,0 +1,62 @@
+#main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+
+#bookselection-cont{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+#chapterselection-cont{
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.chapterselectline{
+    display: flex;
+    gap: 5px;
+}
+
+
+
+#germanwords_html{
+    display: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+#principalpartwords_html{
+    display: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+#vocabulary-cont{
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+#back_to_book{
+    position: absolute;
+    display: none;
+    top: 80px;
+    right: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+:host{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}

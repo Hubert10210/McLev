@@ -1,0 +1,9 @@
+#imprint-cont{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+:host{
+    height: 100vh;
+    display: flex;
+}
