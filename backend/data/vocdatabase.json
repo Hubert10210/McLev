@@ -8881,32 +8881,32 @@
       ],
       [
         "adulescens",
-        "-adulescentis m",
-        "jung; der junge Mann"
+        "adulescentis",
+        "jung; Subst. der junge Mann"
       ],
       [
         "aetas",
-        "-atis f",
-        "Lebensalter, Zeitalter, Zeit"
+        "atis f",
+        "das Lebensalter, das Zeitalter, die Zeit"
       ],
       [
         "alius",
-        "a, ud",
+        "a, ud (Gen. alterius, Dat. alteri)",
         "ein anderer"
       ],
       [
         "an",
-        "",
+        "im dir. Fragesatz",
         "oder (etwa)"
       ],
       [
         "auctoritas",
-        "-atis f",
-        "Ansehen, Einfluss, Macht"
+        "atis f",
+        "das Ansehen, der Einfluss, die Macht"
       ],
       [
         "audax",
-        "-acis",
+        "audacis",
         "kühn, frech"
       ],
       [
@@ -8921,17 +8921,17 @@
       ],
       [
         "bona",
-        "-orum n Pl.",
-        "Besitz; Hab und Gut"
+        "orum n Pl.",
+        "der Besitz, das Hab und Gut"
       ],
       [
         "causa",
         "",
-        "Sache, Prozess, Ursache"
+        "die Sache, der Prozess, die Ursache"
       ],
       [
         "causa",
-        "(m. Gen.)",
+        "(nachgestellt, m. Gen.)",
         "wegen"
       ],
       [
@@ -8941,8 +8941,8 @@
       ],
       [
         "civitas",
-        "-atis f",
-        "Gemeinde, Staat; Bürgerrecht"
+        "atis f",
+        "die Gemeinde, der Staat; das Bürgerrecht"
       ],
       [
         "clarus",
@@ -8972,17 +8972,17 @@
       [
         "cum",
         "Subj. m. Konj.",
-        "als, nachdem; weil; obwohl; während"
+        "als, nachdem; weil; obwohl; während (dagegen)"
       ],
       [
         "cupidus",
-        "a, um",
+        "a, um (m. Gen.)",
         "gierig, begierig (nach)"
       ],
       [
         "de",
         "Präp. m. Abl.",
-        "von; über"
+        "von, von ... her, von ... herab; über"
       ],
       [
         "defendere",
@@ -8995,7 +8995,7 @@
         "sagen, sprechen"
       ],
       [
-        "dubus milibus nummum",
+        "duobus milibus nummum",
         "",
         "2000 Sesterze"
       ],
@@ -9026,13 +9026,13 @@
       ],
       [
         "ex",
-        "Präp. m. Abl.",
+        "e Präp. m. Abl.",
         "aus, von ... her"
       ],
       [
         "fieri",
         "fio, factus sum",
-        "(gemacht) werden; geschehen; werden"
+        "(gemacht) werden; geschehen, werden"
       ],
       [
         "fortis",
@@ -9050,7 +9050,7 @@
         "der Mensch"
       ],
       [
-        "honor",
+        "honor / honos",
         "honoris m",
         "die Ehre, das Ehrenamt"
       ],
@@ -9077,32 +9077,32 @@
       [
         "in",
         "Präp. m. Abl.",
-        "in, an, auf, bei"
+        "in, an, auf, bei (wo?)"
       ],
       [
         "ingenium",
         "",
-        "Begabung, Talent"
+        "die Begabung, das Talent"
       ],
       [
         "iniquitas",
-        "-atis f",
-        "Schwierigkeit, Not"
+        "atis f",
+        "die Schwierigkeit, die Not"
       ],
       [
         "iniuria",
         "",
-        "Unrecht, Beleidigung"
+        "das Unrecht, die Beleidigung"
       ],
       [
         "ipse",
         "ipsa, ipsum",
-        "selbst, persönlich, gerade, sogar"
+        "(er, sie, es) selbst, persönlich, gerade, sogar"
       ],
       [
         "is",
         "ea, id",
-        "dieser; er, sie, es"
+        "dieser, diese, dieses; er, sie, es"
       ],
       [
         "iste",
@@ -9122,17 +9122,17 @@
       [
         "L. Cornelius Chrysogonus",
         "i m",
-        "Lucius Cornelius Chrysogonus"
+        "Lucius Cornelius Chrysogonus → EV"
       ],
       [
         "L. Sulla",
         "ae m",
-        "Lucius Cornelius Sulla"
+        "Lucius Cornelius Sulla → EV"
       ],
       [
         "laus",
         "laudis f",
-        "Lob, Ruhm"
+        "das Lob, der Ruhm"
       ],
       [
         "me",
@@ -9192,16 +9192,16 @@
       [
         "officium",
         "",
-        "Dienst, Pflicht, Pflichtgefühl"
+        "der Dienst, die Pflicht, das Pflichtgefühl"
       ],
       [
         "omnis",
         "omnis, omne",
-        "jeder, ganz; alle"
+        "jeder, ganz; Pl. alle"
       ],
       [
         "oportet",
-        "oportuit",
+        "oportuit m. Acl",
         "es gehört sich, es ist nötig"
       ],
       [
@@ -9287,12 +9287,12 @@
       [
         "res",
         "rei f",
-        "Angelegenheit, Sache, Ding"
+        "die Angelegenheit, das Ding, die Sache"
       ],
       [
         "scelus",
         "sceleris n",
-        "Verbrechen; Schurke"
+        "das Verbrechen; der Schurke"
       ],
       [
         "sedere",
@@ -9301,7 +9301,7 @@
       ],
       [
         "sequi",
-        "sequor, secutus sum",
+        "sequor, secutus sum m. Akk.",
         "folgen"
       ],
       [
@@ -9312,7 +9312,7 @@
       [
         "Sex. Roscius",
         "i m",
-        "Sextus Roscius"
+        "Sextus Roscius → EV"
       ],
       [
         "sexagiens",
@@ -9322,12 +9322,12 @@
       [
         "summus",
         "a, um",
-        "höchste, letzte, oberste"
+        "der (die, das) höchste, letzte, oberste"
       ],
       [
         "surgere",
         "surgo, surrexi, surrectum",
-        "aufrichten; aufstehen; sich erheben"
+        "aufrichten; aufstehen, sich erheben"
       ],
       [
         "tacere",
@@ -9342,7 +9342,7 @@
       [
         "tempus",
         "oris n",
-        "Zeit, Umstände"
+        "die (günstige) Zeit, die Umstände"
       ],
       [
         "tot",
@@ -9357,7 +9357,7 @@
       [
         "vel",
         "",
-        "oder; sogar; unbestritten"
+        "oder, sogar; hier: unbestritten"
       ],
       [
         "velle",
@@ -9381,7 +9381,1433 @@
       ],
       [
         "vos",
-        "Nom./Akk.",
+        "Nom. / Akk.",
+        "ihr, euch"
+      ]
+    ],
+    "1.1.2CicerosAppellAnDieRichter": [
+      [
+        "a",
+        "ab Präp. m. Abl.",
+        "von, von ... her"
+      ],
+      [
+        "abs",
+        "= ab",
+        ""
+      ],
+      [
+        "accusare",
+        "",
+        "anklagen, beschuldigen"
+      ],
+      [
+        "acer",
+        "acris, acre",
+        "energisch, heftig, scharf"
+      ],
+      [
+        "ad",
+        "Präp. m. Akk.",
+        "an, bei, nach, zu"
+      ],
+      [
+        "afferre",
+        "affero, attuli, allatum",
+        "bringen, herbeibringen, mitbringen; melden"
+      ],
+      [
+        "alius",
+        "a, ud (Gen. alterius, Dat. alteri)",
+        "ein anderer"
+      ],
+      [
+        "animus",
+        "",
+        "der Geist, die Gesinnung, der Mut"
+      ],
+      [
+        "ante",
+        "Präp. m. Akk.",
+        "vor"
+      ],
+      [
+        "audacia",
+        "",
+        "die Frechheit, die Kühnheit"
+      ],
+      [
+        "audax",
+        "audacis",
+        "kühn, frech"
+      ],
+      [
+        "bono esse",
+        "+ Acl",
+        "vorteilhaft sein"
+      ],
+      [
+        "caedes",
+        "is f",
+        "das Blutbad, der Mord"
+      ],
+      [
+        "calamitas",
+        "atis f",
+        "der Schaden, das Unglück"
+      ],
+      [
+        "causa",
+        "",
+        "die Sache, der Prozess, die Ursache"
+      ],
+      [
+        "causam dicere",
+        "",
+        "sich verteidigen, sich vor Gericht verantworten"
+      ],
+      [
+        "clam",
+        "Adv.",
+        "heimlich"
+      ],
+      [
+        "cogitare",
+        "",
+        "beabsichtigen, denken"
+      ],
+      [
+        "cum",
+        "Präp. m. Abl.",
+        "mit, zusammen mit"
+      ],
+      [
+        "cupiditas",
+        "atis f (m. Gen.)",
+        "das (heftige) Verlangen (nach), die Leidenschaft"
+      ],
+      [
+        "cupere",
+        "cupio, cupivi, cupitum",
+        "verlangen, wünschen"
+      ],
+      [
+        "denique",
+        "Adv.",
+        "schließlich, zuletzt"
+      ],
+      [
+        "dicere",
+        "dico, dixi, dictum",
+        "sagen, sprechen"
+      ],
+      [
+        "egestas",
+        "atis f",
+        "die Armut, das Elend"
+      ],
+      [
+        "eo",
+        "",
+        "so sehr"
+      ],
+      [
+        "et",
+        "",
+        "und, auch"
+      ],
+      [
+        "etenim",
+        "",
+          "~ enim"
+      ],
+      [
+        "etiam",
+        "",
+        "auch, sogar; beim Komparativ: noch"
+      ],
+      [
+        "ex",
+        "e Präp. m. Abl.",
+        "aus, von ... her"
+      ],
+      [
+        "fieri",
+        "fio, factus sum",
+        "(gemacht) werden; geschehen, werden"
+      ],
+      [
+        "fortis",
+        "e",
+        "kräftig, tapfer"
+      ],
+      [
+        "fortunae",
+        "arum f Pl.",
+        "das Vermögen"
+      ],
+      [
+        "forum",
+        "",
+        "das Forum, der Marktplatz, die Öffentlichkeit"
+      ],
+      [
+        "hic ibidem",
+        "",
+        "genau hier"
+      ],
+      [
+        "hic",
+        "haec, hoc",
+        "dieser, diese, dieses (hier)"
+      ],
+      [
+        "homo",
+        "hominis m",
+        "der Mensch"
+      ],
+      [
+        "ille",
+        "illa, illud",
+        "jener, jene, jenes"
+      ],
+      [
+        "in",
+        "Präp. m. Abl.",
+        "in, an, auf, bei (wo?)"
+      ],
+      [
+        "in",
+        "Präp. m. Akk.",
+        "in (... hinein), nach (... hin), gegen (wohin?)"
+      ],
+      [
+        "inter",
+        "Präp. m. Akk.",
+        "unter, während, zwischen"
+      ],
+      [
+        "invadere",
+        "invado, invasi, invasum",
+        "eindringen, über etwas herfallen"
+      ],
+      [
+        "ipse",
+        "ipsa, ipsum",
+        "(er, sie, es) selbst, persönlich, gerade, sogar"
+      ],
+      [
+        "is",
+        "ea, id",
+        "dieser, diese, dieses; er, sie, es"
+      ],
+      [
+        "iudex",
+        "icis m",
+        "der Richter"
+      ],
+      [
+        "iudicium",
+        "",
+        "der Prozess"
+      ],
+      [
+        "iugulare",
+        "",
+        "abstechen, ermorden"
+      ],
+      [
+        "licet",
+        "licuit",
+        "es ist erlaubt, es ist möglich"
+      ],
+      [
+        "luctus",
+        "us m",
+        "die Trauer"
+      ],
+      [
+        "M. Fannius",
+        "i m",
+        "Marcus Fannius → EV"
+      ],
+      [
+        "maleficium",
+        "",
+        "die Übeltat, das Verbrechen"
+      ],
+      [
+        "modo",
+        "Adv.",
+        "eben (noch); nur"
+      ],
+      [
+        "mors",
+        "mortis f",
+        "der Tod"
+      ],
+      [
+        "ne",
+        "Subj. m. Konj.",
+        "dass nicht, damit nicht; dass (nach Ausdrücken des Fürchtens und Hinderns)"
+      ],
+      [
+        "nefarius",
+        "a, um",
+        "gottlos, verbrecherisch"
+      ],
+      [
+        "nihil",
+        "",
+        "nichts"
+      ],
+      [
+        "nisi",
+        "Subj.",
+        "wenn nicht; nach Verneinung: nur"
+      ],
+      [
+        "non",
+        "",
+        "nicht"
+      ],
+      [
+        "non modo ... sed etiam",
+        "",
+        "nicht nur ... sondern auch"
+      ],
+      [
+        "occidere",
+        "occido, occidi, occisum",
+        "niederschlagen, töten"
+      ],
+      [
+        "oculus",
+        "",
+        "das Auge"
+      ],
+      [
+        "ostendere",
+        "ostendo, ostendi",
+        "zeigen, erklären"
+      ],
+      [
+        "pater",
+        "patris m",
+        "der Vater"
+      ],
+      [
+        "pes",
+        "pedis m",
+        "der Fuß"
+      ],
+      [
+        "petere",
+        "peto, petivi, petitum",
+        "(auf)suchen, (er)streben, bitten, verlangen"
+      ],
+      [
+        "populus",
+        "",
+        "das Volk"
+      ],
+      [
+        "poscere",
+        "hier:",
+        "vor Gericht bringen wollen"
+      ],
+      [
+        "praesidium",
+        "",
+        "der (Wach-)Posten, die Schutztruppe"
+      ],
+      [
+        "praeter",
+        "Präp. m. Akk.",
+        "außer"
+      ],
+      [
+        "prorumpere",
+        "",
+        "zum Ausbruch kommen"
+      ],
+      [
+        "quam",
+        "m. Superlativ",
+        "möglichst"
+      ],
+      [
+        "-que",
+        "nachgestellt",
+        "und"
+      ],
+      [
+        "qui",
+        "quae, quod",
+        "welcher, welche, welches; der, die, das"
+      ],
+      [
+        "quid",
+        "",
+        "was"
+      ],
+      [
+        "relinquere",
+        "relinquo, reliqui, relictum",
+        "unbeachtet lassen, verlassen, zurücklassen"
+      ],
+      [
+        "resistatis",
+        "resistere, resisto, restiti",
+        "stehen bleiben; Widerstand leisten"
+      ],
+      [
+        "restare",
+        "resto, restiti",
+        "übrig bleiben; Widerstand leisten"
+      ],
+      [
+        "scelus",
+        "sceleris n",
+        "das Verbrechen; der Schurke"
+      ],
+      [
+        "Sex. Roscius",
+        "i m",
+        "Sextus Roscius → EV"
+      ],
+      [
+        "subsellium",
+        "",
+        "die Bank, die Sitzreihe"
+      ],
+      [
+        "summus",
+        "a, um",
+        "der (die, das) höchste, letzte, oberste"
+      ],
+      [
+        "temptare",
+        "",
+        "angreifen; prüfen, versuchen"
+      ],
+      [
+        "tribunal",
+        "n",
+        "die Richterbühne, das Tribunal (→ i)"
+      ],
+      [
+        "trucidare",
+        "",
+        "grausam abschlachten"
+      ],
+      [
+        "tuus",
+        "a, um",
+        "dein"
+      ],
+      [
+        "unus",
+        "a, um (Gen. unius, Dat. uni)",
+        "ein(er), ein einziger"
+      ],
+      [
+        "ut",
+        "Subj. m. Konj.",
+        "dass, sodass, damit"
+      ],
+      [
+        "venire",
+        "venio, veni, ventum",
+        "kommen"
+      ],
+      [
+        "verum",
+        "Adv.",
+        "aber, sondern"
+      ],
+      [
+        "vester",
+        "vestra, vestrum",
+        "euer"
+      ],
+      [
+        "vindicare",
+        "",
+        "beanspruchen, bestrafen"
+      ]
+    ],
+    "1.1.3DieHintergruendeDesVerbrechens": [
+      [
+        "ac",
+        "atque",
+        "und, und auch; im Vergleich: wie, als"
+      ],
+      [
+        "ad",
+        "Präp. m. Akk.",
+        "an, bei, nach, zu"
+      ],
+      [
+        "Amerini",
+        "orum m Pl.",
+        "die Einwohner von Ameria"
+      ],
+      [
+        "ante",
+        "Präp. m. Akk.",
+        "vor"
+      ],
+      [
+        "audere",
+        "audeo, ausus sum",
+        "wagen"
+      ],
+      [
+        "autem",
+        "",
+        "aber, andererseits"
+      ],
+      [
+        "bona",
+        "orum n Pl.",
+        "der Besitz, das Hab und Gut"
+      ],
+      [
+        "Capito",
+        "onis m",
+        "Titus Roscius Capito"
+      ],
+      [
+        "certo",
+        "Adv.",
+        "gewiss, sicherlich"
+      ],
+      [
+        "Chrysogonus",
+        "i m",
+        "Chrysogonus"
+      ],
+      [
+        "crudelis",
+        "e",
+        "grausam"
+      ],
+      [
+        "cum",
+        "Subj. m. Konj.",
+        "als, nachdem; weil; obwohl; während (dagegen)"
+      ],
+      [
+        "de",
+        "Präp. m. Abl.",
+        "von, von ... her, von ... herab; über"
+      ],
+      [
+        "dicere",
+        "dico, dixi, dictum",
+        "sagen, sprechen"
+      ],
+      [
+        "dominari",
+        "",
+        "sich wie ein Herr aufspielen"
+      ],
+      [
+        "donatio",
+        "onis",
+        "→ W"
+      ],
+      [
+        "egestas",
+        "atis f",
+        "die Armut, das Elend"
+      ],
+      [
+        "emptio",
+        "",
+        "→ W"
+      ],
+      [
+        "esse",
+        "sum, fui",
+        "sein, sich befinden"
+      ],
+      [
+        "etenim",
+        "",
+        "~ enim"
+      ],
+      [
+        "facere",
+        "facio, feci, factum",
+        "machen, tun, handeln"
+      ],
+      [
+        "fieri",
+        "fio, factus sum",
+        "gemacht werden; geschehen, werden"
+      ],
+      [
+        "filius",
+        "",
+        "der Sohn"
+      ],
+      [
+        "flagitiosus",
+        "",
+        "→ W"
+      ],
+      [
+        "fletus",
+        "us",
+        "→ W"
+      ],
+      [
+        "florens",
+        "ntis",
+        "blühend, in Blüte stehend"
+      ],
+      [
+        "fortunae",
+        "arum f Pl.",
+        "das Vermögen"
+      ],
+      [
+        "furtum",
+        "",
+        "der Diebstahl, die Hinterlist"
+      ],
+      [
+        "gemitus",
+        "us m",
+        "das Seufzen, die Traurigkeit"
+      ],
+      [
+        "hic",
+        "haec, hoc",
+        "dieser, diese, dieses (hier)"
+      ],
+      [
+        "hodie",
+        "Adv.",
+        "heute"
+      ],
+      [
+        "homo",
+        "hominis m",
+        "der Mensch"
+      ],
+      [
+        "honestus",
+        "a, um",
+        "angesehen, ehrenhaft"
+      ],
+      [
+        "iam",
+        "Adv.",
+        "nun, schon"
+      ],
+      [
+        "impetus",
+        "us m",
+        "der Angriff, der Schwung"
+      ],
+      [
+        "imprudens",
+        "ntis",
+        "nichts ahnend, ohne Wissen"
+      ],
+      [
+        "in",
+        "Präp. m. Akk.",
+        "in (... hinein), nach (... hin), gegen (wohin?)"
+      ],
+      [
+        "indignus",
+        "a, um",
+        "unwürdig"
+      ],
+      [
+        "ipse",
+        "ipsa, ipsum",
+        "(er, sie, es) selbst, persönlich, gerade, sogar"
+      ],
+      [
+        "is",
+        "ea, id",
+        "dieser, diese, dieses; er, sie, es"
+      ],
+      [
+        "iste",
+        "ista, istud",
+        "dieser, diese, dieses (da)"
+      ],
+      [
+        "iter",
+        "itineris n",
+        "die Reise, der Marsch, der Weg"
+      ],
+      [
+        "iudex",
+        "icis m",
+        "der Richter"
+      ],
+      [
+        "L. Sulla",
+        "ae m",
+        "Lucius Cornelius Sulla"
+      ],
+      [
+        "malle",
+        "malo, malui",
+        "lieber wollen"
+      ],
+      [
+        "manceps",
+        "",
+        "der Käufer"
+      ],
+      [
+        "mentio",
+        "onis f",
+        "die Erwähnung"
+      ],
+      [
+        "mors",
+        "mortis f",
+        "der Tod"
+      ],
+      [
+        "multus",
+        "a, um",
+        "viel"
+      ],
+      [
+        "ne ... quidem",
+        "",
+        "nicht einmal"
+      ],
+      [
+        "nefarius",
+        "a, um",
+        "gottlos, verbrecherisch"
+      ],
+      [
+        "nemo",
+        "neminis / nullius",
+        "niemand"
+      ],
+      [
+        "nobilis",
+        "e",
+        "adelig, berühmt, vornehm"
+      ],
+      [
+        "nobilitas",
+        "atis f",
+        "der Adel, die vornehme Abstammung"
+      ],
+      [
+        "nomen",
+        "nominis n",
+        "der Name"
+      ],
+      [
+        "non",
+        "",
+        "nicht"
+      ],
+      [
+        "nullus",
+        "a, um (Gen. nullius, Dat. nulli)",
+        "kein"
+      ],
+      [
+        "oculus",
+        "",
+        "das Auge"
+      ],
+      [
+        "omnis",
+        "omnis, omne",
+        "jeder, ganz; Pl. alle"
+      ],
+      [
+        "optimus",
+        "a, um",
+        "der (die, das) beste, sehr gut"
+      ],
+      [
+        "patrimonium",
+        "",
+        "das Vermögen, das väterliche Erbe"
+      ],
+      [
+        "patrius",
+        "a, um",
+        "heimisch, väterlich"
+      ],
+      [
+        "possessio",
+        "",
+        "→ W"
+      ],
+      [
+        "possidere",
+        "possideo, possedi, possessum",
+        "besitzen"
+      ],
+      [
+        "praedium",
+        "",
+        "das Grundstück"
+      ],
+      [
+        "praedo",
+        "onis m",
+        "der Räuber"
+      ],
+      [
+        "proprius",
+        "a, um",
+        "eigen"
+      ],
+      [
+        "proscriptio",
+        "onis",
+        "die Ächtung, die Proskription (→ Abb.)"
+      ],
+      [
+        "quam",
+        "",
+        "als, wie"
+      ],
+      [
+        "quemadmodum",
+        "",
+        "auf welche Weise (auch immer), wie"
+      ],
+      [
+        "qui",
+        "quae, quod",
+        "welcher, welche, welches; der, die, das"
+      ],
+      [
+        "rapina",
+        "",
+        "→ W"
+      ],
+      [
+        "referre",
+        "",
+        "hier: einschreiben"
+      ],
+      [
+        "relinquere",
+        "relinquo, reliqui, relictum",
+        "unbeachtet lassen, verlassen, zurücklassen"
+      ],
+      [
+        "reliquus",
+        "a, um",
+        "künftig, übrig"
+      ],
+      [
+        "scire",
+        "scio, scivi",
+        "kennen, verstehen, wissen"
+      ],
+      [
+        "se iactare",
+        "",
+        "sich brüsten"
+      ],
+      [
+        "sepulcrum",
+        "",
+        "das Grab"
+      ],
+      [
+        "Sex. Roscius",
+        "i m",
+        "Sextus Roscius"
+      ],
+      [
+        "simul",
+        "Adv.",
+        "gleichzeitig, zugleich"
+      ],
+      [
+        "studiosus",
+        "a, um",
+        "eifrig, ergeben"
+      ],
+      [
+        "T. Roscius",
+        "i m",
+        "Titus Roscius"
+      ],
+      [
+        "tabula",
+        "",
+        "die Aufzeichnung, das Gemälde, die Tafel"
+      ],
+      [
+        "tantus",
+        "a, um",
+        "so groß, so viel"
+      ],
+      [
+        "totus",
+        "a, um (Gen. totius, Dat. toti)",
+        "ganz"
+      ],
+      [
+        "tradere",
+        "trado, tradidi, traditum",
+        "übergeben, überliefern"
+      ],
+      [
+        "tres",
+        "tres, tria",
+        "drei"
+      ],
+      [
+        "urbs",
+        "urbis f",
+        "die Stadt, die Hauptstadt"
+      ],
+      [
+        "usque eo",
+        "ut ...",
+        "so sehr, dass ..."
+      ],
+      [
+        "ut",
+        "Subj. m. Konj.",
+        "dass, sodass, damit"
+      ],
+      [
+        "vel",
+        "",
+        "hier: wohl, sicherlich"
+      ],
+      [
+        "versari",
+        "versor",
+        "sich aufhalten, sich befinden"
+      ],
+      [
+        "videre",
+        "video, vidi, visum",
+        "sehen, darauf achten"
+      ],
+      [
+        "videri",
+        "videor, visus sum",
+        "scheinen, gelten (als)"
+      ],
+      [
+        "vir",
+        "viri m",
+        "der Mann"
+      ]
+    ],
+    "1.2.1VerresEinKriminellerStatthalterAufSizilien": [
+      [
+        "accusatorie",
+        "",
+        "nach Art eines Anklägers"
+      ],
+      [
+        "ad",
+        "Präp. m. Akk.",
+        "an, bei, nach, zu"
+      ],
+      [
+        "aeneus",
+        "a, um",
+        "→ W"
+      ],
+      [
+        "amicus",
+        "",
+        "der Freund, der politische Anhänger"
+      ],
+      [
+        "appellare",
+        "",
+        "anrufen; nennen"
+      ],
+      [
+        "argenteus",
+        "a, um",
+        "→ W"
+      ],
+      [
+        "attendere",
+        "attendo, attendi, attentum",
+        "beachten, Acht geben"
+      ],
+      [
+        "auferre",
+        "aufero, abstuli, ablatum",
+        "rauben, wegbringen"
+      ],
+      [
+        "augere",
+        "augeo, auxi, auctum",
+        "vergrößern, vermehren"
+      ],
+      [
+        "aurum",
+        "",
+        "das Gold"
+      ],
+      [
+        "aut",
+        "",
+        "oder"
+      ],
+      [
+        "causa",
+        "(nachgestellt, m. Gen.)",
+        "wegen"
+      ],
+      [
+        "cognoscere",
+        "cognosco, cognovi, cognitum",
+        "erkennen, kennenlernen; Perf. kennen, wissen"
+      ],
+      [
+        "complecti",
+        "hier:",
+        "schildern"
+      ],
+      [
+        "conquirere",
+        "(Perf. conquisivi)",
+        "aufspüren"
+      ],
+      [
+        "copiosus",
+        "a, um",
+        "→ W"
+      ],
+      [
+        "Corinthius",
+        "a, um",
+        "korinthisch, aus Korinth stammend"
+      ],
+      [
+        "crimen",
+        "criminis n",
+        "die Beschuldigung, das Verbrechen, der Vorwurf"
+      ],
+      [
+        "cum",
+        "Subj. m. Ind.",
+        "als (plötzlich), (zu der Zeit) als, (immer) wenn"
+      ],
+      [
+        "deinde",
+        "Adv.",
+        "dann, darauf"
+      ],
+      [
+        "Deliacus",
+        "a, um",
+        "aus Delos stammend"
+      ],
+      [
+        "dicere",
+        "dico, dixi, dictum",
+        "sagen, sprechen"
+      ],
+      [
+        "ebur",
+        "oris",
+        "das Elfenbein"
+      ],
+      [
+        "eburneus",
+        "a, um",
+        "→ Adj. zu ebur"
+      ],
+      [
+        "ego",
+        "",
+        "ich"
+      ],
+      [
+        "enim",
+        "Adv.",
+        "nämlich, in der Tat"
+      ],
+      [
+        "et",
+        "",
+        "und, auch"
+      ],
+      [
+        "etiam",
+        "",
+        "auch, sogar; beim Komparativ: noch"
+      ],
+      [
+        "ex",
+        "e Präp. m. Abl.",
+        "aus, von ... her"
+      ],
+      [
+        "facere",
+        "facio, feci, factum",
+        "machen, tun, handeln"
+      ],
+      [
+        "familia",
+        "",
+        "die Familie, die Hausgemeinschaft"
+      ],
+      [
+        "fortasse",
+        "Adv.",
+        "vielleicht"
+      ],
+      [
+        "gemma",
+        "",
+        "der Edelstein"
+      ],
+      [
+        "genus",
+        "generis n",
+        "die Abstammung, die Art, das Geschlecht"
+      ],
+      [
+        "in",
+        "Präp. m. Abl.",
+        "in, an, auf, bei (wo?)"
+      ],
+      [
+        "in",
+        "Präp. m. Akk.",
+        "in (... hinein), nach (... hin), gegen (wohin?)"
+      ],
+      [
+        "insania",
+        "",
+        "der Wahnsinn"
+      ],
+      [
+        "inspicere",
+        "(Perf. inspexi)",
+        "→ W"
+      ],
+      [
+        "ipse",
+        "ipsa, ipsum",
+        "(er, sie, es) selbst, persönlich, gerade, sogar"
+      ],
+      [
+        "is",
+        "ea, id",
+        "dieser, diese, dieses; er, sie, es"
+      ],
+      [
+        "iste",
+        "ista, istud",
+        "dieser, diese, dieses (da)"
+      ],
+      [
+        "iudex",
+        "icis m",
+        "der Richter"
+      ],
+      [
+        "Latine loqui",
+        "",
+        "lateinisch sprechen, s. Aufg. 4"
+      ],
+      [
+        "latrocinium",
+        "",
+        "die Räuberei"
+      ],
+      [
+        "locuples",
+        "etis",
+        "reich, wohlhabend"
+      ],
+      [
+        "loqui",
+        "loquor, locutus sum",
+        "reden, sprechen"
+      ],
+      [
+        "magnus",
+        "a, um",
+        "groß, bedeutend"
+      ],
+      [
+        "margarita",
+        "",
+        "die Perle"
+      ],
+      [
+        "marmoreus",
+        "a, um",
+        "aus Marmor"
+      ],
+      [
+        "modus",
+        "",
+        "die Art, die Weise; das Maß"
+      ],
+      [
+        "morbus",
+        "",
+        "die Krankheit"
+      ],
+      [
+        "negare",
+        "",
+        "leugnen, verneinen, verweigern"
+      ],
+      [
+        "neque",
+        "nec",
+        "und nicht, auch nicht, nicht einmal"
+      ],
+      [
+        "neque ... neque",
+        "",
+        "weder ... noch"
+      ],
+      [
+        "nescire",
+        "nescio, nescivi",
+        "nicht wissen"
+      ],
+      [
+        "nihil",
+        "",
+        "nichts"
+      ],
+      [
+        "nomen",
+        "nominis n",
+        "der Name"
+      ],
+      [
+        "non",
+        "",
+        "nicht"
+      ],
+      [
+        "nunc",
+        "Adv.",
+        "jetzt, nun"
+      ],
+      [
+        "omnis",
+        "omnis, omne",
+        "jeder, ganz; Pl. alle"
+      ],
+      [
+        "oppidum",
+        "",
+        "die Stadt"
+      ],
+      [
+        "opus",
+        "operis n",
+        "die Arbeit, das Werk"
+      ],
+      [
+        "pendere",
+        "",
+        "beurteilen (penditote = pendite)"
+      ],
+      [
+        "pictura",
+        "",
+        "→ W"
+      ],
+      [
+        "placere",
+        "",
+        "gefallen"
+      ],
+      [
+        "pondus",
+        "eris n",
+        "das Gewicht"
+      ],
+      [
+        "prius",
+        "Adv.",
+        "früher, zuerst"
+      ],
+      [
+        "proponere",
+        "propono, proposui, propositum",
+        "darlegen, in Aussicht stellen"
+      ],
+      [
+        "provincia",
+        "",
+        "die Provinz"
+      ],
+      [
+        "putare",
+        "",
+        "glauben, meinen"
+      ],
+      [
+        "quaerere",
+        "quaero, quaesivi, quaesitum",
+        "suchen, erwerben wollen"
+      ],
+      [
+        "quemadmodum",
+        "",
+        "auf welche Weise, wie"
+      ],
+      [
+        "qui",
+        "quae, quod",
+        "welcher, welche, welches; der, die, das"
+      ],
+      [
+        "quicquam",
+        "",
+        "= quidquam"
+      ],
+      [
+        "quin",
+        "",
+        "= quam non"
+      ],
+      [
+        "quod placitum sit",
+        "",
+        "= et, si placuerit"
+      ],
+      [
+        "quod",
+        "Subj. m. Ind.",
+        "dass, weil"
+      ],
+      [
+        "relinquere",
+        "relinquo, reliqui, relictum",
+        "unbeachtet lassen, verlassen, zurücklassen"
+      ],
+      [
+        "res",
+        "rei f",
+        "die Angelegenheit, das Ding, die Sache"
+      ],
+      [
+        "scire",
+        "scio, scivi",
+        "kennen, verstehen, wissen (scitote = scite)"
+      ],
+      [
+        "Sicilia",
+        "",
+        "Sizilien"
+      ],
+      [
+        "Siculi",
+        "orum m Pl.",
+        "die Sikuler / Sizilier (Bewohner der Insel Sizilien)"
+      ],
+      [
+        "signum",
+        "",
+        "das Merkmal, das Zeichen; die Statue"
+      ],
+      [
+        "studium",
+        "",
+        "die Beschäftigung, das Engagement, das Interesse"
+      ],
+      [
+        "suus",
+        "a, um",
+        "sein, ihr"
+      ],
+      [
+        "tabula",
+        "",
+        "die Aufzeichnung, das Gemälde, die Tafel"
+      ],
+      [
+        "tam",
+        "",
+        "so"
+      ],
+      [
+        "textile",
+        "is",
+        "die Leinwand"
+      ],
+      [
+        "tot",
+        "indekl.",
+        "so viele"
+      ],
+      [
+        "totus",
+        "a, um (Gen. totius, Dat. toti)",
+        "ganz"
+      ],
+      [
+        "ullus",
+        "a, um (Gen. ullius, Dat. ulli)",
+        "irgendeiner"
+      ],
+      [
+        "ut",
+        "Adv.",
+        "wie"
+      ],
+      [
+        "vas",
+        "vasis n",
+        "das Gefäß"
+      ],
+      [
+        "venire",
+        "venio, veni, ventum",
+        "kommen"
+      ],
+      [
+        "verbum",
+        "",
+        "das Wort, die Äußerung"
+      ],
+      [
+        "vetus",
+        "veteris",
+        "alt"
+      ],
+      [
+        "videri",
+        "videor, visus sum",
+        "scheinen, gelten (als)"
+      ],
+      [
+        "vobis",
+        "Dat.",
+        "ihr, euch"
+      ],
+      [
+        "vos",
+        "Nom. / Akk.",
         "ihr, euch"
       ]
     ]
